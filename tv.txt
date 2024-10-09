@@ -610,7 +610,7 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$
 综合体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/index.m3u8$8.1M_1080
 咪咕视频,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226398/index.m3u8$8.0M_1080
 咪咕视频,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8$8.0M_1080
-凤凰卫视,#genre#
+测试四,#genre#
 台视新闻台,https://live.wcetv.com/hls/master-ttvnews.m3u8
 台视,P2p://generationnexxxt.com:19806/333435199f804b03aad4410d4674aaeb#P2p://generationnexxxt.com:19806/4f26385653f04516a9f205e141fa77b2$ 
 中视,P2p://generationnexxxt.com:19806/695746eb4c094292a862a53216d54dac$#P2p://generationnexxxt.com:19806/185127a48ab34a0dad54ab6e003ddeb3$
