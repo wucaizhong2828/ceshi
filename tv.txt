@@ -1,7 +1,7 @@
 扬州频道,#genre#
-扬州新闻,http://cm-wshls.homecdn.com/live/8bb.m3u8#http://avd.iptviptv.site:9694/hls/182/index.m3u8
-扬州城市,http://cm-wshls.homecdn.com/live/8bd.m3u8#http://avd.iptviptv.site:9694/hls/183/index.m3u8
-扬州生活,http://cm-wshls.homecdn.com/live/8bf.m3u8#http://avd.iptviptv.site:9694/hls/184/index.m3u8
+扬州新闻,http://cm-wshls.homecdn.com/live/8bb.m3u8
+扬州城市,http://cm-wshls.homecdn.com/live/8bd.m3u8
+扬州生活,http://cm-wshls.homecdn.com/live/8bf.m3u8
 扬州邗江,http://cm-wshls.homecdn.com/live/8c3.m3u8
 扬州江都,http://cm-wshls.homecdn.com/live/8c1.m3u8
 镇江新闻,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
@@ -610,7 +610,7 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$
 综合体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/index.m3u8$8.1M_1080
 咪咕视频,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226398/index.m3u8$8.0M_1080
 咪咕视频,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8$8.0M_1080
-测试四,#genre#
+凤凰卫视,#genre#
 台视新闻台,https://live.wcetv.com/hls/master-ttvnews.m3u8
 台视,P2p://generationnexxxt.com:19806/333435199f804b03aad4410d4674aaeb#P2p://generationnexxxt.com:19806/4f26385653f04516a9f205e141fa77b2$ 
 中视,P2p://generationnexxxt.com:19806/695746eb4c094292a862a53216d54dac$#P2p://generationnexxxt.com:19806/185127a48ab34a0dad54ab6e003ddeb3$
@@ -636,3 +636,4 @@ TVBS欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 民视台湾,http://litv.zapi.us.kg/?id=4gtv-4gtv001
 民视影剧,http://litv.zapi.us.kg/?id=litv-ftv09
+
