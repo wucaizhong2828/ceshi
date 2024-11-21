@@ -1,9 +1,9 @@
 扬州频道,#genre#
-扬州新闻,http://cm-wshls.homecdn.com/live/8bb.m3u8
-扬州城市,http://cm-wshls.homecdn.com/live/8bd.m3u8
-扬州生活,http://cm-wshls.homecdn.com/live/8bf.m3u8
-扬州邗江,http://cm-wshls.homecdn.com/live/8c3.m3u8
-扬州江都,http://cm-wshls.homecdn.com/live/8c1.m3u8
+扬州新闻,http://cm.wshls.homecdn.com/live/8bb.m3u8
+扬州城市,http://cm.wshls.homecdn.com/live/8bd.m3u8
+扬州生活,http://cm.wshls.homecdn.com/live/8bf.m3u8
+扬州邗江,http://cm.wshls.homecdn.com/live/8c3.m3u8
+扬州江都,http://cm.wshls.homecdn.com/live/8c1.m3u8
 镇江新闻,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 镇江民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 凤凰卫视,#genre#
