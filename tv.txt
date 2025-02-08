@@ -1,5 +1,8 @@
 央视频道,#genre#
 江都,http://ott.mobaibox.com/PLTV/4/224/3221228323/index.m3u8
+扬州新闻,http://cm.wshls.homecdn.com/live/8bb.m3u8
+扬州生活,http://cm.wshls.homecdn.com/live/8bf.m3u8
+扬州邗江,http://cm.wshls.homecdn.com/live/8c3.m3u8
 凤凰中文台,http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯台,http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰香港台,http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
