@@ -1,4 +1,4 @@
-扬州电视,#genre#
+扬州频道,#genre#
 江都,http://ott.mobaibox.com/PLTV/4/224/3221228323/index.m3u8
 扬州新闻,http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
 扬州城市,http://ott.mobaibox.com/PLTV/3/224/3221228205/index.m3u8
