@@ -50,6 +50,22 @@ Japan News 24H LIVE,https://s1.tvm4a1.cfd/aktvjp/japannews24hlive/AKTV.m3u8
 Astro Football,https://s1.tvm4a1.cfd/astro/CH-0/AKTV.m3u8
 Astro Sport UHD,https://s1.tvm4a1.cfd/astro/astrosportuhd/AKTV.m3u8
 央视频道,#genre#
+CCTV1,http://60.217.134.146:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://60.217.134.146:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://60.217.134.146:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://60.217.134.146:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://60.217.134.146:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://60.217.134.146:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://60.217.134.146:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://60.217.134.146:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://60.217.134.146:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://60.217.134.146:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://60.217.134.146:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://60.217.134.146:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://60.217.134.146:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://60.217.134.146:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://60.217.134.146:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://60.217.134.146:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://www.dsk.cc/php/bfgd.php?id=cctv1&m.m3u8
 CCTV2,http://www.dsk.cc/php/bfgd.php?id=cctv2&m.m3u8
 CCTV3,http://www.dsk.cc/php/bfgd.php?id=cctv3&m.m3u8
