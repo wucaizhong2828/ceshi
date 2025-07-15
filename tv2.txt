@@ -5,50 +5,19 @@
 扬州生活,http://zjtv.wshls.homecdn.com/live/8bf.m3u8#http://zjtv.wshls.homecdn.com/live/8bf.flv
 扬州邗江,http://zjtv.wshls.homecdn.com/live/8c3.m3u8#http://zjtv.wshls.homecdn.com/live/8c3.flv
 凤凰资讯,#genre#
-鳳凰衛視中文台,https://s1.tvm4a1.cfd/aktv/CH-3/AKTV.m3u8
-鳳凰衛視資訊台,https://s1.tvm4a1.cfd/aktv/CH-4/AKTV.m3u8
-中天新闻台,https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
-東森新聞,https://s2.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
-TVBS新聞,https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
-TVBS,https://s1.tvm4a1.cfd/taiwan/tvbs/AKTV.m3u8
-民視,https://s1.tvm4a1.cfd/taiwan/CH-1/AKTV.m3u8
-民視第一台,https://s1.tvm4a1.cfd/taiwan/CH-0/AKTV.m3u8
-中天亚洲台,https://s1.tvm4a1.cfd/astro/CH-1/AKTV.m3u8
-KLT-靖天國際台,https://s1.tvm4a1.cfd/taiwan/CH-3/AKTV.m3u8
-龍華日韓台,https://s1.tvm4a1.cfd/taiwan/CH-5/AKTV.m3u8
-Animax (HK),https://s1.tvm4a1.cfd/aktv/animaxhk/AKTV.m3u8
-AXN,https://s1.tvm4a1.cfd/aktv/axn/AKTV.m3u8
-Channel 5 HD,https://s1.tvm4a1.cfd/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,https://s1.tvm4a1.cfd/aktv/channel8hd/AKTV.m3u8
-Channel U HD,https://s1.tvm4a1.cfd/aktv/channeluhd/AKTV.m3u8
-Love Nature HD,https://s1.tvm4a1.cfd/aktv/lovenaturehd/AKTV.m3u8
-myTV SUPER 18台,https://s1.tvm4a1.cfd/aktv/mytvsuper18/AKTV.m3u8
-PopC,https://s1.tvm4a1.cfd/aktv/popc/AKTV.m3u8
-ROCK Action,https://s1.tvm4a1.cfd/aktv/rockaction/AKTV.m3u8
-黃金翡翠台,https://s1.tvm4a1.cfd/aktv/CH-6/AKTV.m3u8
-TVB星河,https://s1.tvm4a1.cfd/taiwan2/tvb/AKTV.m3u8
-翡翠台,https://s1.tvm4a1.cfd/aktv/CH-0/AKTV.m3u8
-明珠台,https://s1.tvm4a1.cfd/aktv/CH-2/AKTV.m3u8
-TVB Plus,https://s1.tvm4a1.cfd/aktv/tvbplus/AKTV.m3u8
-VIUTV,https://s1.tvm4a1.cfd/aktv2/viutv/AKTV.m3u8
-無線新聞台,https://s1.tvm4a1.cfd/aktv/CH-1/AKTV.m3u8
-tvN,https://s1.tvm4a1.cfd/aktv/tvn/AKTV.m3u8
-明珠剧集台(北美),https://s1.tvm4a1.cfd/aktv/CH-19/AKTV.m3u8
-翡翠剧集台(北美),https://s1.tvm4a1.cfd/aktv/CH-18/AKTV.m3u8
-翡翠综合台(北美),https://s1.tvm4a1.cfd/aktv/CH-17/AKTV.m3u8
-美亞電影台(HK),https://s1.tvm4a1.cfd/aktv/hk/AKTV.m3u8
-天映电影,https://s1.tvm4a1.cfd/astro/celestialmovies/AKTV.m3u8
-天映經典(1080),https://s1.tvm4a1.cfd/aktv/1080/AKTV.m3u8
-東森電影,https://s1.tvm4a1.cfd/aktv2/CH-1/AKTV.m3u8
-東森洋片,https://s1.tvm4a1.cfd/aktv2/CH-2/AKTV.m3u8
-緯來體育台,https://s1.tvm4a1.cfd/aktv2/CH-0/AKTV.m3u8
-CNA,https://s1.tvm4a1.cfd/aktv3/cna/AKTV.m3u8
-朝鲜恩情台,https://s1.tvm4a1.cfd/aktv3/CH-0/AKTV.m3u8
-Japan News 24H LIVE,https://s1.tvm4a1.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-日テレNEWS LIVE,https://s1.tvm4a1.cfd/aktvjp/ntv/AKTV.m3u8
-8TV,https://s1.tvm4a1.cfd/astro/8tv/AKTV.m3u8
-Astro Football,https://s1.tvm4a1.cfd/astro/CH-0/AKTV.m3u8
-Astro Sport UHD,https://s1.tvm4a1.cfd/astro/astrosportuhd/AKTV.m3u8
+凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
+凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
+凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
+中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
+中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
+中天新闻2,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw201.flv
+翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
+中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
+民视台湾,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
+纬来电影,http://61.216.11.93:49981/stream/channelid/1914405885?profile=webtv-h264-aac-mpegts
+好莱坞电影,http://61.216.11.93:49981/stream/channelid/286389561?profile=webtv-h264-aac-mpegts
+MAX HD,http://61.216.11.93:49981/stream/channelid/207378916?profile=webtv-h264-aac-mpegts
+美亚电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
 央视频道,#genre#
 CCTV1,http://60.217.134.146:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://60.217.134.146:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
