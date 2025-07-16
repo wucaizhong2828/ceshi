@@ -30,6 +30,23 @@ tvbs,http://push-rtmp-hs-spe-f5.douyincdn.com/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7W
 好莱坞电影,http://61.216.11.93:49981/stream/channelid/286389561?profile=webtv-h264-aac-mpegts
 MAX HD,http://61.216.11.93:49981/stream/channelid/207378916?profile=webtv-h264-aac-mpegts
 美亚电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
+中天新闻,P2p://66.42.60.221:6001/684f89d200086f6c0d14c5361a8e4371.ts 
+寰宇新闻,P2p://66.42.60.221:6001/685df83500001c36020d66af0d51eae8.ts 
+东森新闻,P2p://66.42.60.221:6001/68541ccf000e63a705322cf3e4e78c5d.ts 
+tvbs新闻,P2p://66.42.60.221:6001/68541f1500028c05053b0b5b056b0aa1.ts 
+年代新闻,P2p://66.42.60.221:6001/685421700000773e05443e4a83f6950b.ts 
+非凡新闻,P2p://66.42.60.221:6001/685d5e2c000965e60200f5f21adf72b0.ts 
+壹新闻,p2p://66.42.60.221:6001/685c99fc000d74b80428f89279fbc2e6.ts 
+民视新闻,P2p://66.42.60.221:6001/68541f440008cd79053bc48d70874625.ts 
+中视新闻,P2p://66.42.60.221:6001/6858be82000820481749ce9054976b22.ts 
+华视新闻,P2p://66.42.60.221:6001/6858bf2c00062100174c661d5e589772.ts 
+tvbs,P2p://66.42.60.221:6001/68541f6f000bdb57053c6d4de974af11.ts 
+BBC,P2p://66.42.60.221:6001/685c83060000431b03cf44417802c0ce.ts 
+公视,P2p://66.42.60.221:6001/685cfadd0000d0f4007d0728d209ef85.ts 
+民视,P2p://66.42.60.221:6001/6858beda00019c4d174b24a51af6d84e.ts 
+中视,P2p://66.42.60.221:6001/6858be6a000dc97a17497243aabfae87.ts 
+华视,P2p://66.42.60.221:6001/6858bf140005e473174c084e016edfc4.ts 
+台视,P2p://66.42.60.221:6001/6858bf4e0001af22174ce9ca5d7fc861.ts
 央视频道,#genre#
 CCTV1,http://www.dsk.cc/php/bfgd.php?id=cctv1&m.m3u8
 CCTV2,http://www.dsk.cc/php/bfgd.php?id=cctv2&m.m3u8
