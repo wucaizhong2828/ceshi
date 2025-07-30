@@ -22,13 +22,6 @@ tvbs新闻,http://free.cnlive.club/channel/n69ccce92.m3u8
 华视,http://free.cnlive.club/channel/560bcbee.m3u8 
 台视,http://free.cnlive.club/channel/5ef6ab90.m3u8 
 tvbs,http://free.cnlive.club/channel/154f9d73.m3u8 
-美亚电影,http://free.cnlive.club/channel/5824ef5e.m3u8 
-天映频道,http://free.cnlive.club/channel/n7e466c41.m3u8 
-天映频道,http://free.cnlive.club/channel/5150b0a1.m3u8 
-天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8 
-龙华电影,http://free.cnlive.club/channel/66c77727.m3u8 
-龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8 
-纬来电影,http://free.cnlive.club/channel/581b458b.m3u8 
 凤凰中文,http://api.mytv666.top/api/hk.php?id=3635353536383939393264346132646363626433646461373332353365633339267469643d74762669643d3230 
 凤凰资讯,http://api.mytv666.top/api/hk.php?id=3639313932626236616366636537633734323039313738383137613037633739267469643d74762669643d3231 
 凤凰香港,http://api.mytv666.top/api/hk.php?id=6366393933363838303835353235313030313837656130343336356238356364267469643d74762669643d3232
@@ -42,7 +35,7 @@ tvbs新闻,http://api.mytv666.top/api/hk.php?id=64373033393232373562326336663465
 tvbs新闻,http://api.mytv666.top/api/hk.php?id=6433326131333730353865386539346239623032306533346562653234623365267469643d74762669643d3938 
 非凡新闻,http://api.mytv666.top/api/hk.php?id=6439363266323437646533636237336130353439363933613039653965353631267469643d74762669643d313035 
 镜新闻,http://api.mytv666.top/api/hk.php?id=3831313462356431643937343764333264343532343837356535666665623032267469643d74762669643d313036 
-闽镜新闻,http://api.mytv666.top/api/hk.php?id=6132656663616366343664633865396464656462633736396337666532383663267469643d74762669643d3538 
+镜新闻,http://api.mytv666.top/api/hk.php?id=6132656663616366343664633865396464656462633736396337666532383663267469643d74762669643d3538 
 民视新闻,http://api.mytv666.top/api/hk.php?id=6133333434353635663133373938343030353333343563353132326433396230267469643d74762669643d3536 
 民视新闻,http://api.mytv666.top/api/hk.php?id=6333356235396430353565313132653234663436373463386363396139623936267469643d74762669643d313130 
 中视新闻,http://api.mytv666.top/api/hk.php?id=3639313461653631653063653039636165353132386535623331623263316631267469643d74762669643d3532 
@@ -64,12 +57,7 @@ tvbs,http://api.mytv666.top/api/hk.php?id=32663938346239666638643734383534333136
 寰宇,http://api.mytv666.top/api/hk.php?id=6663313334653639326536343765613362363865383137386639663930323237267469643d74762669643d3630 
 寰宇,http://api.mytv666.top/api/hk.php?id=3033373433646530353534613238376432643166376430666330623766303633267469643d74762669643d313133 
 中天亚洲,http://api.mytv666.top/api/hk.php?id=3962383334666661326334396461326537383063663333666566333830363536267469643d74762669643d313030 
-靖天电影,http://api.mytv666.top/api/hk.php?id=3235646236316132333834636665636537663935383763353038393730396532267469643d74762669643d313236 
 靖天资讯频推,http://api.mytv666.top/api/hk.php?id=6639383065333066306334313662336238356630636437666434343762656663267469643d74762669643d313631 
-HBo高清,http://api.mytv666.top/api/hk.php?id=3938383431396139316232633936396630656331623839303564373336643262267469643d74762669643d3930 
-影迷数位,http://api.mytv666.top/api/hk.php?id=6131303635353630643437386336346438346661633562366261343764303839267469643d74762669643d313233 
-amc电影,http://api.mytv666.top/api/hk.php?id=6533613534396538393766353437626463616663386263386337376463366664267469643d74762669643d313234 
-采昌影剧,http://api.mytv666.top/api/hk.php?id=6361386462373364393864616332363139666231356561623434633162633038267469643d74762669643d313238 
 华仁纪实,http://api.mytv666.top/api/hk.php?id=3733663764303063393331316566396231643232363937646563396431626430267469643d74762669643d313533 
 半岛新闻,http://api.mytv666.top/api/hk.php?id=3436376230613339633137373638323831303735353638336561633433376535267469643d74762669643d313039 
 Cnn新闻,http://api.mytv666.top/api/hk.php?id=3939326166333362313632333064666138616239666138303238373763636636267469643d74762669643d3933 
@@ -93,11 +81,6 @@ BBC新闻,http://api.mytv666.top/api/hk.php?id=343963396465373036306331623436306
 中视新闻,http://t.061899.xyz/tl/js/tw.php?id=hdzsxw 
 华视新闻,http://t.061899.xyz/tl/js/tw.php?id=hdhsxw 
 华视,http://t.061899.xyz/tl/js/tw.php?id=hdhs 
-台视新闻,http://t.061899.xyz/tl/js/tw.php?id=hdtsxw
-纬来电影,http://61.216.11.93:49981/stream/channelid/1914405885?profile=webtv-h264-aac-mpegts
-好莱坞电影,http://61.216.11.93:49981/stream/channelid/286389561?profile=webtv-h264-aac-mpegts
-MAX HD,http://61.216.11.93:49981/stream/channelid/207378916?profile=webtv-h264-aac-mpegts
-美亚电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
 中天新闻,P2p://66.42.60.221:6001/684f89d200086f6c0d14c5361a8e4371.ts 
 寰宇新闻,P2p://66.42.60.221:6001/685df83500001c36020d66af0d51eae8.ts 
 东森新闻,P2p://66.42.60.221:6001/68541ccf000e63a705322cf3e4e78c5d.ts 
@@ -115,6 +98,66 @@ BBC,P2p://66.42.60.221:6001/685c83060000431b03cf44417802c0ce.ts
 中视,P2p://66.42.60.221:6001/6858be6a000dc97a17497243aabfae87.ts 
 华视,P2p://66.42.60.221:6001/6858bf140005e473174c084e016edfc4.ts 
 台视,P2p://66.42.60.221:6001/6858bf4e0001af22174ce9ca5d7fc861.ts
+电影频道,#genre#
+华数电影4K,http://www.hkyc.site:1991/udp/239.253.64.243:5140
+华数动画2,http://www.hkyc.site:1991/udp/239.253.64.163:5140
+华数电视剧1,http://www.hkyc.site:1991/udp/239.253.64.212:5140
+华数电视剧2,http://www.hkyc.site:1991/udp/239.253.64.231:5140
+华数剧场,http://www.hkyc.site:1991/udp/239.253.64.211:5140
+电影1,http://www.hkyc.site:1991/udp/239.253.64.227:5140
+电影2,http://www.hkyc.site:1991/udp/239.253.64.218:5140
+电影3,http://www.hkyc.site:1991/udp/239.253.64.250:5140
+华数电影3,http://www.hkyc.site:1991/udp/239.253.64.224:5140
+华数电影4,http://www.hkyc.site:1991/udp/239.253.64.228:5140
+华数电影5,http://www.hkyc.site:1991/udp/239.253.64.221:5140
+华数电影6,http://www.hkyc.site:1991/udp/239.253.64.220:5140
+华数电影7,http://www.hkyc.site:1991/udp/239.253.64.225:5140
+华数动画2,http://www.hkyc.site:1991/udp/239.253.64.232:5140
+华数电影8,http://www.hkyc.site:1991/udp/239.253.64.233:5140
+华数电影9,http://www.hkyc.site:1991/udp/239.253.64.254:5140
+美亚电影,http://free.cnlive.club/channel/5824ef5e.m3u8 
+台视新闻,http://t.061899.xyz/tl/js/tw.php?id=hdtsxw
+纬来电影,http://61.216.11.93:49981/stream/channelid/1914405885?profile=webtv-h264-aac-mpegts
+好莱坞电影,http://61.216.11.93:49981/stream/channelid/286389561?profile=webtv-h264-aac-mpegts
+MAX HD,http://61.216.11.93:49981/stream/channelid/207378916?profile=webtv-h264-aac-mpegts
+美亚电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
+天映频道,http://free.cnlive.club/channel/5150b0a1.m3u8 
+天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8 
+龙华电影,http://free.cnlive.club/channel/66c77727.m3u8 
+龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8 
+纬来电影,http://free.cnlive.club/channel/581b458b.m3u8 
+CCTV-6,http://free.cnlive.club/channel/63f18811.m3u8 
+AXN Taiwan,http://free.cnlive.club/channel/6f2c3c37.m3u8 
+HBO_HD,http://free.cnlive.club/channel/6c698aec.m3u8 
+CINEMAX,http://free.cnlive.club/channel/2420c041.m3u8 
+好萊塢電影台,http://free.cnlive.club/channel/117d8eeb.m3u8 
+东森电影,http://free.cnlive.club/channel/7cb9a434.m3u8 
+东森洋片,http://free.cnlive.club/channel/7cb8b9f4.m3u8 
+龙华电影,http://free.cnlive.club/channel/n5e8ca809.m3u8 
+龙祥时代,http://free.cnlive.club/channel/n5dff94e1.m3u8 
+美亚电影,http://free.cnlive.club/channel/n6d2f2fd2.m3u8 
+卫视电影台,http://free.cnlive.club/channel/74380c33.m3u8 
+靖天电影,http://api.mytv666.top/api/hk.php?id=3235646236316132333834636665636537663935383763353038393730396532267469643d74762669643d313236 
+天映频道,http://free.cnlive.club/channel/n7e466c41.m3u8 
+天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8 
+Animax,http://free.cnlive.club/channel/62efb22e.m3u8   
+Movies Now HD,http://free.cnlive.club/channel/n1bf890c3.m3u8 
+Star Movies HD,http://free.cnlive.club/channel/n6773674f.m3u8
+Warner TV,http://free.cnlive.club/channel/n56dab1d7.m3u8 
+Cinemax,http://free.cnlive.club/channel/5c8dcc41.m3u8 
+Dreamworks,http://free.cnlive.club/channel/4a8dbe85.m3u8 
+SCM,http://free.cnlive.club/channel/n2eb78a49.m3u8 
+Thrill,http://free.cnlive.club/channel/n7cf4bd6f.m3u8 
+tvN Movie,http://free.cnlive.club/channel/391ee36.m3u8 
+Axn HD,http://free.cnlive.club/channel/637dbecb.m3u8 
+Paramount Network,http://free.cnlive.club/channel/69b17141.m3u8 
+Astrol Kplus,http://free.cnlive.club/channel/n7a5371c8.m3u8 Rock 
+Actions,http://free.cnlive.club/channel/ne6f4938.m3u8 
+Rock Entertainment,http://free.cnlive.club/channel/nd96d6ed.m3u8
+HBo高清,http://api.mytv666.top/api/hk.php?id=3938383431396139316232633936396630656331623839303564373336643262267469643d74762669643d3930 
+影迷数位,http://api.mytv666.top/api/hk.php?id=6131303635353630643437386336346438346661633562366261343764303839267469643d74762669643d313233 
+amc电影,http://api.mytv666.top/api/hk.php?id=6533613534396538393766353437626463616663386263386337376463366664267469643d74762669643d313234 
+采昌影剧,http://api.mytv666.top/api/hk.php?id=6361386462373364393864616332363139666231356561623434633162633038267469643d74762669643d313238 
 央视频道,#genre#
 CCTV1,http://nas.swes.cn:8089/udp/239.93.0.184:5140
 CCTV2,http://nas.swes.cn:8089/udp/239.93.1.23:6000
@@ -229,23 +272,8 @@ CCTV17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 河南卫视,http://nas.swes.cn:8089/udp/239.93.42.45:5140
 广西卫视,http://nas.swes.cn:8089/udp/239.93.42.46:5140
 黑龙江卫视,http://nas.swes.cn:8089/udp/239.93.0.183:5140
-华数电影,#genre#
-华数电影4K,http://www.hkyc.site:1991/udp/239.253.64.243:5140
-华数动画2,http://www.hkyc.site:1991/udp/239.253.64.163:5140
-华数电视剧1,http://www.hkyc.site:1991/udp/239.253.64.212:5140
-华数电视剧2,http://www.hkyc.site:1991/udp/239.253.64.231:5140
-华数剧场,http://www.hkyc.site:1991/udp/239.253.64.211:5140
-电影1,http://www.hkyc.site:1991/udp/239.253.64.227:5140
-电影2,http://www.hkyc.site:1991/udp/239.253.64.218:5140
-电影3,http://www.hkyc.site:1991/udp/239.253.64.250:5140
-华数电影3,http://www.hkyc.site:1991/udp/239.253.64.224:5140
-华数电影4,http://www.hkyc.site:1991/udp/239.253.64.228:5140
-华数电影5,http://www.hkyc.site:1991/udp/239.253.64.221:5140
-华数电影6,http://www.hkyc.site:1991/udp/239.253.64.220:5140
-华数电影7,http://www.hkyc.site:1991/udp/239.253.64.225:5140
-华数动画2,http://www.hkyc.site:1991/udp/239.253.64.232:5140
-华数电影8,http://www.hkyc.site:1991/udp/239.253.64.233:5140
-华数电影9,http://www.hkyc.site:1991/udp/239.253.64.254:5140
+
+
 
 
 
