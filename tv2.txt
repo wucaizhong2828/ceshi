@@ -161,6 +161,7 @@ CCTV17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 黑龙江卫视,http://nas.swes.cn:8089/udp/239.93.0.183:5140
 
 
+中天新闻小云,tvbus://12aHtZTirWzKzPDDdHohgb7BVgLrdGnvBym9xPdjDdkucXpWZEP
 
 
 
