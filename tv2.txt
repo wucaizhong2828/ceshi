@@ -17,7 +17,6 @@
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw 
 中天新闻,http://iptv.4666888.xyz/iptv.php?id=20173
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
-寰宇新闻,http://bxtv.3a.ink/api.php?id=hyxw 
 寰宇新闻,http://iptv.4666888.xyz/iptv.php?id=20176 
 东森新闻,http://iptv.4666888.xyz/iptv.php?id=20174 
 tvbs新闻,http://iptv.4666888.xyz/iptv.php?id=20168 
@@ -177,6 +176,7 @@ CCTV17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 河南卫视,http://nas.swes.cn:8089/udp/239.93.42.45:5140
 广西卫视,http://nas.swes.cn:8089/udp/239.93.42.46:5140
 黑龙江卫视,http://nas.swes.cn:8089/udp/239.93.0.183:5140
+
 
 
 
