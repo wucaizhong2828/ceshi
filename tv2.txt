@@ -9,20 +9,26 @@
 凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20063
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw 
+凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt 
+凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt 
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx 
 凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20064 
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+中天新闻,http://t.061899.xyz/tl/js/js.php?id=ztxwt 
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw 
 中天新闻,http://iptv.4666888.xyz/iptv.php?id=20173
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 寰宇新闻,http://iptv.4666888.xyz/iptv.php?id=20176 
+东森新闻,http://t.061899.xyz/tl/js/js.php?id=dsxwt
 东森新闻,http://iptv.4666888.xyz/iptv.php?id=20174 
 tvbs新闻,http://iptv.4666888.xyz/iptv.php?id=20168 
 tvbs,http://iptv.4666888.xyz/iptv.php?id=20188
 tvbs,http://bxtv.3a.ink/api.php?id=tvbs
-三立新闻,http://iptv.4666888.xyz/iptv.php?id=20170
+镜新闻,http://iptv.4666888.xyz/iptv.php?id=20180 
+三立新闻,http://iptv.4666888.xyz/iptv.php?id=20169
+三立新闻+,http://iptv.4666888.xyz/iptv.php?id=20170
 年代新闻,http://iptv.4666888.xyz/iptv.php?id=20178
 非凡新闻,http://iptv.4666888.xyz/iptv.php?id=20179 
 民视新闻,http://iptv.4666888.xyz/iptv.php?id=20177 
@@ -58,6 +64,7 @@ tvbs,http://bxtv.3a.ink/api.php?id=tvbs
 华数动画2,http://www.hkyc.site:1991/udp/239.253.64.232:5140
 华数电影8,http://www.hkyc.site:1991/udp/239.253.64.233:5140
 华数电影9,http://www.hkyc.site:1991/udp/239.253.64.254:5140
+pₒₚc电影,http://bxtv.3a.ink/api.php?id=popc
 龙华偶像,http://iptv.4666888.xyz/iptv.php?id=20243 
 龙华日韩,http://iptv.4666888.xyz/iptv.php?id=20244 
 龙华经典,http://iptv.4666888.xyz/iptv.php?id=20245 
@@ -176,6 +183,7 @@ CCTV17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 河南卫视,http://nas.swes.cn:8089/udp/239.93.42.45:5140
 广西卫视,http://nas.swes.cn:8089/udp/239.93.42.46:5140
 黑龙江卫视,http://nas.swes.cn:8089/udp/239.93.0.183:5140
+
 
 
 
