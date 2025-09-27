@@ -147,6 +147,7 @@ CCTV高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
 CCTV发现之旅,http://ott.mobaibox.com/PLTV/3/224/3221227030/index.m3u8
 CCTV老故事,http://ott.mobaibox.com/PLTV/3/224/3221227043/index.m3u8
 省市卫视,#genre#
+江苏卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228897/index.m3u8
 江苏卫视,http://ott.mobaibox.com/PLTV/3/224/3221227402/index.m3u8
 江苏卫视,http://ott.mobaibox.com/PLTV/3/224/3221227255/index.m3u8
 江苏卫视,http://ott.mobaibox.com/PLTV/3/224/3221227736/index.m3u8
@@ -1196,4 +1197,5 @@ CGTN西班牙语,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/22
 咪咕视频,http://39.134.65.106/PLTV/88888888/224/3221225653/1.m3u8?$HLJYDIP 4M FHD
 咪咕视频,http://39.134.65.106/PLTV/88888888/224/3221225660/1.m3u8?$HLJYDIP 4M FHD
 移动云VR,http://39.134.65.106/PLTV/88888888/224/3221225651/1.m3u8?$HLJYDIP 24M FHD
+
 
