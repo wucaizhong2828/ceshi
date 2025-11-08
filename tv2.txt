@@ -7,7 +7,7 @@
 凤凰资讯,#genre#
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
-凤凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx凰中文,http://bxtv.3a.ink/api.php?id=fhzw 
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx 
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -415,6 +415,7 @@ JJ斗地主频道,http://cfss.cc/cdn/hy/14079954.m3u8
 警匪悬疑频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_880_1080P_t10/c58_fast_880_1080P_t10.m3u8?d
 古装大剧频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_879_1080P_t10/c55_fast_879_1080P_t10.m3u8?d
 爱情生活频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
+
 
 
 
