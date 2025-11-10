@@ -4,11 +4,34 @@
 江都电视台,http://zjtv.wshls.homecdn.com/live/8c1.m3u8#http://zjtv.wshls.homecdn.com/live/8c1.flv
 扬州生活,http://zjtv.wshls.homecdn.com/live/8bf.m3u8#http://zjtv.wshls.homecdn.com/live/8bf.flv
 扬州邗江,http://zjtv.wshls.homecdn.com/live/8c3.m3u8#http://zjtv.wshls.homecdn.com/live/8c3.flv
-扬州新闻,http://A/ku9/js/yangzhou.js?id=yzxw
-扬州民生,http://A/ku9/js/yangzhou.js?id=yzms
-扬州邗江,http://A/ku9/js/yangzhou.js?id=yzhj
-扬州江都,http://A/ku9/js/yangzhou.js?id=yzjd
-扬州,http://A/ku9/js/yangzhou.js?id=yzsh
+江苏卫视,http://A/ku9/js/jstv.js?id=jsws$本地js
+江苏城市,http://A/ku9/js/jstv.js?id=jscs$本地js
+江苏综艺,http://A/ku9/js/jstv.js?id=jszy$本地js
+江苏影视,http://A/ku9/js/jstv.js?id=jsys$本地js
+江苏新闻,http://A/ku9/js/jstv.js?id=jsxw$本地js
+江苏教育,http://A/ku9/js/jstv.js?id=jsjy$本地js
+江苏体育休闲,http://A/ku9/js/jstv.js?id=jsxx$本地js
+江苏国际,http://A/ku9/js/jstv.js?id=jsgj$本地js
+江苏优漫卡通,http://A/ku9/js/jstv.js?id=ymkt$本地js
+南京新闻综合,http://A/ku9/js/jstv.js?id=nj1$本地js
+徐州1,http://A/ku9/js/jstv.js?id=xz1$本地js
+邳州综合,http://A/ku9/js/jstv.js?id=xzpz$本地js
+新沂-1,http://A/ku9/js/jstv.js?id=xzxy$本地js
+贾汪新闻,http://A/ku9/js/jstv.js?id=xzjw$本地js
+铜山1,http://A/ku9/js/jstv.js?id=xzts$本地js
+常州新闻综合,http://A/ku9/js/jstv.js?id=cz1$本地js
+南通新闻综合,http://A/ku9/js/jstv.js?id=nt1$本地js
+连云港新闻综合,http://A/ku9/js/jstv.js?id=lyg1$本地js
+淮安综合,http://A/ku9/js/jstv.js?id=ha1$本地js
+盱眙综合,http://A/ku9/js/jstv.js?id=haxy$本地js
+洪泽综合,http://A/ku9/js/jstv.js?id=hahz$本地js
+盐城1,http://A/ku9/js/jstv.js?id=yc1$本地js
+响水综合,http://A/ku9/js/jstv.js?id=ycxs$本地js
+泰州1,http://A/ku9/js/jstv.js?id=tz1$本地js
+泰兴综合,http://A/ku9/js/jstv.js?id=tztx$本地js
+兴化新闻综合,http://A/ku9/js/jstv.js?id=tzxh$本地js
+宿迁综合,http://A/ku9/js/jstv.js?id=sq1$本地js
+泗阳综合,http://A/ku9/js/jstv.js?id=sqsy$本地js
 凤凰资讯,#genre#
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
@@ -403,6 +426,7 @@ JJ斗地主频道,http://cfss.cc/cdn/hy/14079954.m3u8
 警匪悬疑频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_880_1080P_t10/c58_fast_880_1080P_t10.m3u8?d
 古装大剧频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_879_1080P_t10/c55_fast_879_1080P_t10.m3u8?d
 爱情生活频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
+
 
 
 
