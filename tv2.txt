@@ -486,6 +486,24 @@ JJ斗地主频道,http://cfss.cc/cdn/hy/14079954.m3u8
 宿迁综合,http://A/ku9/js/jstv.js?id=sq1$本地js
 泗阳综合,http://A/ku9/js/jstv.js?id=sqsy$本地js
 测试,#genre#
+CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+CCTV2,http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
+CCTV3,http://api.kkitv.itv888.cn:8080/hls/aikp69mli0d/index.m3u8
+CCTV4,http://api.kkitv.itv888.cn:8080/hls/25uo2rutach/index.m3u8
+CCTV5,http://api.kkitv.itv888.cn:8080/hls/7vx0ia55les/index.m3u8
+CCTV5+,http://api.kkitv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
+CCTV6,http://api.kkitv.itv888.cn:8080/hls/tp9ajk4od5/index.m3u8
+CCTV7,http://api.kkitv.itv888.cn:8080/hls/3udggaszi1i/index.m3u8
+CCTV8,http://api.kkitv.itv888.cn:8080/hls/vseo1nm7qp/index.m3u8
+CCTV9,http://api.kkitv.itv888.cn:8080/hls/bsmkmf3jrp4/index.m3u8
+CCTV10,http://api.kkitv.itv888.cn:8080/hls/wd86wxjxn8/index.m3u8
+CCTV11,http://api.kkitv.itv888.cn:8080/hls/og4kq4cnqm/index.m3u8
+CCTV12,http://api.kkitv.itv888.cn:8080/hls/nwfb31kwc3l/index.m3u8
+CCTV13,http://api.kkitv.itv888.cn:8080/hls/9sxg4yjgot/index.m3u8
+CCTV14,http://api.kkitv.itv888.cn:8080/hls/dyfpqk8fpzi/index.m3u8
+CCTV15,http://api.kkitv.itv888.cn:8080/hls/hcwu4ianhgw/index.m3u8
+CCTV16,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
+CCTV17,http://api.kkitv.itv888.cn:8080/hls/5t4bgijh9da/index.m3u8
 CCTV-01高码,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV-01高码,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
 CCTV-01高码,https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8
@@ -610,6 +628,7 @@ CCTV-17高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 青海卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
 吉林卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
 黑龙江视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
+
 
 
 
