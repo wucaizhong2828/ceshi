@@ -12,11 +12,14 @@
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
+凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx 
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
 凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
+凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
 中天新闻,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmagztxwkks.flv
 tvbs,http://61.221.215.25:8800/hls/9/index.m3u8
 电影频道,#genre#
@@ -38,6 +41,9 @@ tvbs,http://61.221.215.25:8800/hls/9/index.m3u8
 华数电影9,http://www.hkyc.site:1991/udp/239.253.64.254:5140
 澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 澳门莲花,http://106.53.99.30/tv/api.php?id=lotustv
+美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
 央视频道,#genre#
 CCTV1,http://www.chutouge.top:34022/rtp/239.3.1.129:8008
 CCTV2,http://www.chutouge.top:34022/rtp/239.3.1.60:8084
@@ -98,6 +104,14 @@ CHC影迷电影,http://106.53.99.30/tv/migu.php?id=chcym
 CHC家庭影院,http://106.53.99.30/tv/migu.php?id=chcjt 
 CHC动作电影,http://106.53.99.30/tv/migu.php?id=chcdz
 省市卫视,#genre#
+北京卫视4k,http://106.53.99.30/tv/bj.php?id=bjws4k
+东方卫视4k,http://106.53.99.30/tv/api.php?id=dfws4k
+江苏卫视4k,http://106.53.99.30/tv/api.php?id=jsws4k
+浙江卫视4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+湖南卫视4k,http://106.53.99.30/tv/api.php?id=hnws4k
+深圳卫视4k,http://106.53.99.30/tv/api.php?id=szws4k
+苏州4k,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+河北4k,https://event.pull.hebtv.com:443/live/live101.m3u8
 北京卫视,http://106.53.99.30/tv/bj.php?id=bjws
 兵团卫视,http://106.53.99.30/tv/api.php?id=btws
 河南卫视,http://106.53.99.30/tv/api.php?id=henws
@@ -331,6 +345,7 @@ huya,#genre#
 洪金宝播频道,http://A/ku9/js/jstv.js?id=11279251
 虎牙：http://A/ku9/js/XXX.js?huya/11342412（可简化 ?11342412）
 斗鱼：http://A/ku9/js/XXX.js?douyu/4332
+
 
 
 
