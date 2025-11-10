@@ -4,6 +4,16 @@
 江都电视台,http://zjtv.wshls.homecdn.com/live/8c1.m3u8#http://zjtv.wshls.homecdn.com/live/8c1.flv
 扬州生活,http://zjtv.wshls.homecdn.com/live/8bf.m3u8#http://zjtv.wshls.homecdn.com/live/8bf.flv
 扬州邗江,http://zjtv.wshls.homecdn.com/live/8c3.m3u8#http://zjtv.wshls.homecdn.com/live/8c3.flv
+扬州新闻,http://A/ku9/js/yangzhou.js?id=yzxw
+扬州民生,http://A/ku9/js/yangzhou.js?id=yzms
+扬州邗江,http://A/ku9/js/yangzhou.js?id=yzhj
+扬州江都,http://A/ku9/js/yangzhou.js?id=yzjd
+扬州,http://A/ku9/js/yangzhou.js?id=yzsh
+扬州新闻广播,http://A/ku9/js/yangzhou.js?id=yzxwpl
+扬州交通广播,http://A/ku9/js/yangzhou.js?id=yzjtpl
+扬州经济音乐广播,http://A/ku9/js/yangzhou.js?id=yzjjyy
+扬州邗江广播,http://A/ku9/js/yangzhou.js?id=yzhjgb
+扬州江都广播,http://A/ku9/js/yangzhou.js?id=yzjdgb
 江苏卫视,http://A/ku9/js/jstv.js?id=jsws$本地js
 江苏城市,http://A/ku9/js/jstv.js?id=jscs$本地js
 江苏综艺,http://A/ku9/js/jstv.js?id=jszy$本地js
@@ -426,6 +436,7 @@ JJ斗地主频道,http://cfss.cc/cdn/hy/14079954.m3u8
 警匪悬疑频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_880_1080P_t10/c58_fast_880_1080P_t10.m3u8?d
 古装大剧频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_879_1080P_t10/c55_fast_879_1080P_t10.m3u8?d
 爱情生活频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
+
 
 
 
