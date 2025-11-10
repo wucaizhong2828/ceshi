@@ -329,6 +329,8 @@ JJ斗地主频道,http://cfss.cc/cdn/hy/14079954.m3u8
 泗阳综合,http://A/ku9/js/jstv.js?id=sqsy$本地js
 huya,#genre#
 洪金宝播频道,http://A/ku9/js/jstv.js?id=11279251
+虎牙：http://A/ku9/js/XXX.js?huya/11342412（可简化 ?11342412）
+斗鱼：http://A/ku9/js/XXX.js?douyu/4332
 
 
 
