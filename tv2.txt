@@ -128,6 +128,7 @@ CHC动作电影,http://106.53.99.30/tv/migu.php?id=chcdz
 江苏卫视4k,http://106.53.99.30/tv/api.php?id=jsws4k
 浙江卫视4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 湖南卫视4k,http://106.53.99.30/tv/api.php?id=hnws4k
+深圳卫视4K,https://cdn3.163189.xyz/163189/szws4k
 深圳卫视4k,http://106.53.99.30/tv/api.php?id=szws4k
 苏州4k,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4k,https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -631,6 +632,9 @@ CCTV-17高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 黑龙江视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
 测试二,#genre#
 中,https://live.catvod.com/live.php?id=ctinews&token=548bd1dc6d94c509ba3f4efca36c7f0644d1809e678048e729c12841dce4322c%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
+TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=145
+中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=141
+非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=122
 
 
 
