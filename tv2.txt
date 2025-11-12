@@ -22,6 +22,7 @@
 凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
 中天新闻,http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmagztxwkks.flv
 tvbs,http://61.221.215.25:8800/hls/9/index.m3u8
+台湾, https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 tvbs新闻,http://iptv.4666888.xyz/iptv2A.php?id=TVBS新聞
 电影频道,#genre#
 华数电影4K,http://www.hkyc.site:1991/udp/239.253.64.243:5140
@@ -628,8 +629,8 @@ CCTV-17高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 青海卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
 吉林卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
 黑龙江视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
-
-
+测试二,#genre#
+中,https://live.catvod.com/live.php?id=ctinews&token=548bd1dc6d94c509ba3f4efca36c7f0644d1809e678048e729c12841dce4322c%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
 
 
 
