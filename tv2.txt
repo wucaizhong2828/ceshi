@@ -21,6 +21,7 @@
 凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
 凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
 中天新闻,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
+中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 tvbs,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskks.flv
 tvbs新闻,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagxytwkks.flv
 电影频道,#genre#
@@ -590,6 +591,7 @@ CCTV-17高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 青海卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
 吉林卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
 黑龙江视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
+
 
 
 
