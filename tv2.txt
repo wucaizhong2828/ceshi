@@ -14,26 +14,6 @@
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-中天新闻,http://rihou.cc:555/tv/Hk|中天新闻l
-中天新闻,http://cmtv.netlib.re/channel/2a347829.m3u8
-寰宇新闻,http://cmtv.netlib.re/channel/n12ca9ab2.m3u8
-寰宇新闻,http://rihou.cc:555/tv/Hk|寰宇新闻l
-东森新闻,http://rihou.cc:555/tv/Hk|东森新闻l
-东森新闻,http://cmtv.netlib.re/channel/n6a969278.m3u8
-中视新闻,http://rihou.cc:555/tv/Hk|中视新闻l
-中视新闻,http://cmtv.netlib.re/channel/n4840462c.m3u8
-台视新闻,http://rihou.cc:555/tv/Hk|台视新闻l
-tvbs新闻,http://cmtv.netlib.re/channel/313be55e.m3u8
-tvbs,http://cmtv.netlib.re/channel/n6db37f50.m3u8
-三立新闻,http://cmtv.netlib.re/channel/n21c6f191.m3u8
-镜新闻,http://cmtv.netlib.re/channel/n7afe2afd.m3u8
-民视新闻,http://cmtv.netlib.re/channel/n1a919f80.m3u8
-华视新闻,http://cmtv.netlib.re/channel/n2fd06b2e.m3u8
-民视,http://cmtv.netlib.re/channel/n27566be.m3u8
-民视,http://cmtv.netlib.re/channel/n98c6959.m3u8
-中视,http://cmtv.netlib.re/channel/n279055a.m3u8
-华视,http://cmtv.netlib.re/channel/n27282dc.m3u8
-寰宇,http://cmtv.netlib.re/channel/757f39bb.m3u8
 电影,#genre#
 华数电影4K,http://www.hkyc.site:1991/udp/239.253.64.243:5140
 华数动画2,http://www.hkyc.site:1991/udp/239.253.64.163:5140
@@ -349,6 +329,7 @@ CCTV14,http://api.kkitv.itv888.cn:8080/hls/dyfpqk8fpzi/index.m3u8
 CCTV15,http://api.kkitv.itv888.cn:8080/hls/hcwu4ianhgw/index.m3u8
 CCTV16,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
 CCTV17,http://api.kkitv.itv888.cn:8080/hls/5t4bgijh9da/index.m3u8
+
 
 
 
