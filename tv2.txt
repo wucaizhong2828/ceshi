@@ -12,8 +12,6 @@
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 中天新闻,http://rihou.cc:555/tv/Hk|中天新闻l
@@ -351,5 +349,6 @@ CCTV14,http://api.kkitv.itv888.cn:8080/hls/dyfpqk8fpzi/index.m3u8
 CCTV15,http://api.kkitv.itv888.cn:8080/hls/hcwu4ianhgw/index.m3u8
 CCTV16,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
 CCTV17,http://api.kkitv.itv888.cn:8080/hls/5t4bgijh9da/index.m3u8
+
 
 
