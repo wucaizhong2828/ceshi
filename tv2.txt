@@ -4,8 +4,6 @@
 扬州江都,http://zjtv.wshls.homecdn.com/live/8c1.m3u8#http://zjtv.wshls.homecdn.com/live/8c1.flv
 扬州邗江,http://zjtv.wshls.homecdn.com/live/8c3.m3u8#http://zjtv.wshls.homecdn.com/live/8c3.flv
 凤凰资讯,#genre#
-凤凰中文,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-凤凰资讯,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
@@ -68,8 +66,8 @@ CCTV1,https://migu.188766.xyz/?migutoken=7425a7d2ce420f350432dce2a59d6925&id=CCT
 CCTV2,https://migu.188766.xyz/?migutoken=a2018f06a2e194f35657d0884f912c8a&id=CCTV2&type=yy
 CCTV3,https://migu.188766.xyz/?migutoken=8c0582c0ccc70d78a676b7ab376edf49&id=CCTV3&type=yy
 CCTV4,https://migu.188766.xyz/?migutoken=cc8e7a7f22807c3da6ef053c2d1e0f43&id=CCTV4&type=yy
-CCTV4,https://migu.188766.xyz/?migutoken=1aee1413ae54406f20e46e251446faf0&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
-CCTV4,https://migu.188766.xyz/?migutoken=64a2786fe644515d53ba13e4af3fe406&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+CCTV4欧洲,https://migu.188766.xyz/?migutoken=1aee1413ae54406f20e46e251446faf0&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+CCTV4美洲,https://migu.188766.xyz/?migutoken=64a2786fe644515d53ba13e4af3fe406&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
 CCTV5,https://migu.188766.xyz/?migutoken=3b2c76613c7513b3a42402118820aaee&id=CCTV5&type=yy
 CCTV5+,https://migu.188766.xyz/?migutoken=3be1173040caccae97feff3eca15045e&id=CCTV5p&type=yy
 CCTV6,https://migu.188766.xyz/?migutoken=105fe7c6feeebbaee4f96a2e06ae189b&id=CCTV6&type=yy
@@ -310,6 +308,7 @@ JJ斗地主频道,http://cfss.cc/cdn/hy/14079954.m3u8
 电视剧九频道,http://cfss.cc/cdn/hy/21059594.m3u8
 电视剧十频道,http://cfss.cc/cdn/hy/11336592.m3u8
 电视剧十一道,http://cfss.cc/cdn/hy/11602088.m3u8
+
 
 
 
