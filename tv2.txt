@@ -308,7 +308,35 @@ JJ斗地主频道,http://cfss.cc/cdn/hy/14079954.m3u8
 电视剧九频道,http://cfss.cc/cdn/hy/21059594.m3u8
 电视剧十频道,http://cfss.cc/cdn/hy/11336592.m3u8
 电视剧十一道,http://cfss.cc/cdn/hy/11602088.m3u8
-
-
+测试,#genre#
+CCTV-01咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8
+CCTV-02咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-2H265_4000.m3u8
+CCTV-03咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-3H265_4000.m3u8
+CCTV-04咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-4H265_4000.m3u8
+CCTV-05咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5H265_4000.m3u8
+CCTV-5+咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5plusH265_4000.m3u8
+CCTV-06咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-6H265_4000.m3u8
+CCTV-07咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-7H265_4000.m3u8
+CCTV-08咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-8H265_4000.m3u8
+CCTV-09咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-9H265_4000.m3u8
+CCTV-10咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-10H265_4000.m3u8
+CCTV-11咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-11-H265_4000.m3u8
+CCTV-12咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-12H265_4000.m3u8
+CCTV-13咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_4000.m3u8
+CCTV-14咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8
+CCTV-15咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8
+CCTV-16咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8
+CCTV-17咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8
+北京卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/bjwsH265_4000.m3u8
+东方卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfwsH265_4000.m3u8
+浙江卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/zjwsH265_4000.m3u8
+江苏卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jswsH265_4000.m3u8
+湖南卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnwsH265_4000.m3u8
+广东卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/gdwsH265_4000.m3u8
+深圳卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/szwsH265_4000.m3u8
+山东卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/sdwsH265_4000.m3u8
+河南卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnws35_4000.m3u8
+江西卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jxwsH265_4000.m3u8
+湖北卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hbwsH265_4000.m3u8
 
 
