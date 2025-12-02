@@ -27,8 +27,6 @@ tvbs,http://cmtv.netlib.re/channel/n6db37f50.m3u8
 华视,http://cmtv.netlib.re/channel/n27282dc.m3u8
 寰宇,http://cmtv.netlib.re/channel/757f39bb.m3u8
 电影,#genre#
-超高清电影4K,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_800.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-欢笑剧场4K,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hxjc-4k_800.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 华数电影4K,http://www.hkyc.site:1991/udp/239.253.64.243:5140
 华数动画2,http://www.hkyc.site:1991/udp/239.253.64.163:5140
 华数电视剧1,http://www.hkyc.site:1991/udp/239.253.64.212:5140
@@ -312,5 +310,6 @@ JJ斗地主频道,http://cfss.cc/cdn/hy/14079954.m3u8
 电视剧九频道,http://cfss.cc/cdn/hy/21059594.m3u8
 电视剧十频道,http://cfss.cc/cdn/hy/11336592.m3u8
 电视剧十一道,http://cfss.cc/cdn/hy/11602088.m3u8
+
 
 
