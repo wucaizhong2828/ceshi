@@ -4,9 +4,11 @@
 扬州江都,http://zjtv.wshls.homecdn.com/live/8c1.m3u8#http://zjtv.wshls.homecdn.com/live/8c1.flv
 扬州邗江,http://zjtv.wshls.homecdn.com/live/8c3.m3u8#http://zjtv.wshls.homecdn.com/live/8c3.flv
 凤凰资讯,#genre#
+凤凰中文,http://218.206.193.218:8888/hls/110/index.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰资讯,http://218.206.193.218:8888/hls/109/index.m3u8
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 中天新闻,http://cmtv.netlib.re/channel/2a347829.m3u8
@@ -389,6 +391,7 @@ CCTV-17咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCT
 河南卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnws35_4000.m3u8
 江西卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jxwsH265_4000.m3u8
 湖北卫视咪咕,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hbwsH265_4000.m3u8
+
 
 
 
