@@ -42,6 +42,21 @@ TVBS新闻,https://smart.dxjc.pp.ua/smart.php?id=tvbs_n&token=tmxk
 翡翠台,https://smart.dxjc.pp.ua/smart.php?id=jade_twn&token=tmxk
 翡翠台,https://smart.dxjc.pp.ua/smart.php?id=Jade_xue&token=tmxk
 明珠台,https://smart.dxjc.pp.ua/smart.php?id=pearl_twn&token=tmxk
+中天新闻,http://rihou.cc:555/tv/STl中天新闻
+中天新闻,http://rihou.cc:555/tv/Bxl中天新闻
+寰宇新闻,http://rihou.cc:555/tv/STl寰宇新闻
+东森新闻,http://rihou.cc:555/tv/STl东森新闻
+中视新闻,http://rihou.cc:555/tv/STl中视新闻
+台视新闻,http://rihou.cc:555/tv/STl台视新闻
+镜新闻,http://rihou.cc:555/tv/Hkl闽镜新闻
+tvbS新闻,http://rihou.cc:555/tv/FYltvbS新闻
+tvbS新闻,http://rihou.cc:555/tv/STltvbS新闻
+tvbs,http://rihou.cc:555/tv/STltvbS闽南
+凤凰中文,http://rihou.cc:555/tv/Pdl凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/Pdl凤凰资讯
+凤凰资讯,http://rihou.cc:555/tv/Bxl凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/Pdl凤凰香港
+凤凰香港,http://rihou.cc:555/tv/Bxl凤凰香港
 电影,#genre#
 华数电影4K,http://www.hkyc.site:1991/udp/239.253.64.243:5140
 华数动画2,http://www.hkyc.site:1991/udp/239.253.64.163:5140
@@ -97,6 +112,20 @@ CINEMAX,https://smart.dxjc.pp.ua/smart.php?id=cinemax_twn&token=tmxk
 天映频道,https://smart.dxjc.pp.ua/smart.php?id=Celestial&token=tmxk
 天映频道,https://smart.dxjc.pp.ua/smart.php?id=Celestialindo&token=tmxk
 天映经典,https://smart.dxjc.pp.ua/smart.php?id=Celestial2&token=tmxk
+pₒₚc电影,http://rihou.cc:555/tv/Bxlpₒₚc电影
+Now星影,http://rihou.cc:555/tv/MtlNow星影
+Now爆谷,http://rihou.cc:555/tv/MtlNow爆谷
+Now星影,http://rihou.cc:555/tv/BxlNow星影
+Now爆谷,http://rihou.cc:555/tv/BxlNow爆谷
+美亚电影,http://rihou.cc:555/tv/Bxl美亚电影
+天映频道,http://rihou.cc:555/tv/STl天映频道l
+天映频道,http://rihou.cc:555/tv/STl天映频道
+天映频道,http://rihou.cc:555/tv/STll天映频道
+天映经典,http://rihou.cc:555/tv/STl天映经典
+东森电影,http://rihou.cc:555/tv/STl东森电影
+龙祥电影,http://rihou.cc:555/tv/STl龙祥电影
+纬来电影,http://rihou.cc:555/tv/STl纬来电影
+好莱电影,http://rihou.cc:555/tv/STl好莱电影
 Animax,https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
 Movies Now HD,https://smart.dxjc.pp.ua/smart.php?id=moviesnow_raj&token=tmxk
 Star Movies HD,https://smart.dxjc.pp.ua/smart.php?id=starmovies_raj&token=tmxk
@@ -488,6 +517,7 @@ CCTV-5+ 体育赛事,https://smart.dxjc.pp.ua/smart.php?id=cctv5plus&token=tmxk
 广西卫视,https://smart.dxjc.pp.ua/smart.php?id=guangxi&token=tmxk
 湖北卫视,https://smart.dxjc.pp.ua/smart.php?id=hubei&token=tmxk
 四川卫视,https://smart.dxjc.pp.ua/smart.php?id=sichuan_twn&token=tmxk
+
 
 
 
