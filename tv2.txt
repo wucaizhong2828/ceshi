@@ -15,7 +15,8 @@
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 tvbS新闻,http://rihou.cc:555/tv/[ST]tvbS新闻
 tvbs,http://rihou.cc:555/tv/[ST]tvbS闽南
-中天新闻,http://cmtv.netlib.re/channel/2a347829.m3u8
+中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
+mtv.netlib.re/channel/2a347829.m3u8
 寰宇新闻,http://cmtv.netlib.re/channel/n12ca9ab2.m3u8
 东森新闻,http://cmtv.netlib.re/channel/n6a969278.m3u8
 tvbs新闻,http://cmtv.netlib.re/channel/313be55e.m3u8
@@ -234,6 +235,7 @@ CCTV16k超码,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCT
 西藏卫视高码,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/xzwsH264_2000.m3u8
 内蒙古视高码,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/nmgws_4000.m3u8
 黑龙江视高码,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hljwsH265_4000.m3u8
+
 
 
 
