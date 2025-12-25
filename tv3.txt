@@ -1,8 +1,8 @@
 扬州频道,#genre#
-扬州新闻,https://yztv-wshls.homecdn.com/8bb.m3u8?t=1766466927&k=b94868e212441f5198766c2bd1e47c4d&wsSession=e82da0113eb6b70785a91ed3-176646692788878&wsIPSercert=566db4dc0cab428382e02162a75a9a75
-扬州民生,https://yztv-wshls.homecdn.com/8bd.m3u8?t=1766466369&k=484ecb172be8be4ede81a696d4846a2b&wsSession=4463b6e80e5eac932c76ad6f-176646662575587&wsIPSercert=566db4dc0cab428382e02162a75a9a75
-扬州江都,https://yztv-wshls.homecdn.com/8c1.m3u8?t=1766467101&k=64dfd6293545c7c0eac8559fd5cd2f28&wsSession=54e3aa71a6972b0cfbc295bc-176646710183327&wsIPSercert=566db4dc0cab428382e02162a75a9a75
-扬州邗江,https://yztv-wshls.homecdn.com/8c3.m3u8?t=1766471150&k=aae6f294c9848f271b8fa752a164e5c1&wsSession=4463b6e80e5eac932c76ad6f-176647115114793&wsIPSercert=566db4dc0cab428382e02162a75a9a75
+扬州新闻,https://yztv-wshls.homecdn.com/8bb.m3u8?t=1766545897&k=ff5ebdcbd15294f49223e7ccacae760f&wsSession=e82da0113eb6b70785a91ed3-176654589766234&wsIPSercert=6674929fe46e630c1c405fd251c7785c
+扬州民生,https://yztv-wshls.homecdn.com/8bd.m3u8?t=1766545970&k=353b035f608e6aa53c4a9d276b971f76&wsSession=4463b6e80e5eac932c76ad6f-176654597126966&wsIPSercert=6674929fe46e630c1c405fd251c7785c
+扬州江都,https://yztv-wshls.homecdn.com/8c1.m3u8?t=1766548728&k=f0241a3b71856e9965017b5775b450f1&wsSession=54e3aa71a6972b0cfbc295bc-176654872865965&wsIPSercert=6674929fe46e630c1c405fd251c7785c
+扬州邗江,https://yztv-wshls.homecdn.com/8c3.m3u8?t=1766556744&k=564b0f60a25cb7eed137615cf6c723c4&wsSession=4463b6e80e5eac932c76ad6f-176655674478537&wsIPSercert=6674929fe46e630c1c405fd251c7785c
 凤凰资讯,#genre#
 凤凰中文,http://218.206.193.218:8888/hls/110/index.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -302,6 +302,7 @@ CHC家庭影院,http://nas.201606.xyz:4022/rtp/239.10.0.86:5140
 CHC动作电影,http://nas.201606.xyz:4022/rtp/239.10.0.87:5140
 CHC影迷电影,http://nas.201606.xyz:4022/rtp/239.10.0.88:5140
 咪视界4K,http://nas.201606.xyz:4022/rtp/239.10.0.240:5140
+
 
 
 
