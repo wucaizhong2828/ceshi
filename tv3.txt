@@ -171,5 +171,14 @@ CCTV-10咪咕,http://t.061899.xyz/tl/tl.php?id=cctv10
 CCTV-11咪咕,http://t.061899.xyz/tl/tl.php?id=cctv11
 CCTV-12咪咕,http://t.061899.xyz/tl/tl.php?id=cctv12
 CCTV-13咪咕,http://t.061899.xyz/tl/tl.php?id=cctv13
+iptv,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
+浙江卫视,https://migu.188766.xyz/?migutoken=2ab9ebcb7ff4baa90e527b8680691647&id=z_jws&type=sz
+江苏卫视,https://migu.188766.xyz/?migutoken=bb57257901e893cb075485be3eadca6b&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
+东方卫视,https://migu.188766.xyz/?migutoken=99028ef133b41859c0534601c0b6c5cc&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
+广东卫视,https://migu.188766.xyz/?migutoken=d7085527f91032ec56500a3ca792095b&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
+湖北卫视,https://migu.188766.xyz/?migutoken=e1c7dff05a5beb224081f27e04a4c584&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
 
 
