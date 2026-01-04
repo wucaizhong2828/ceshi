@@ -92,38 +92,6 @@ CCTV17,http://t.061899.xyz/tl/tl.php?id=cctv17
 镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
 tvbS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 tvbS,http://rihou.cc:555/tv/[Hk]tvbs闽南
-4k,#genre#
-北京卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/bjws4K.m3u8
-东方卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/dfws4K.m3u8             
-浙江卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/zjws4K.m3u8             
-江苏卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/jsws4K.m3u8
-深圳卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/szws4K.m3u8
-广东卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/gdws4K.m3u8
-山东卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/sdws4K.m3u8 
-四川卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/scws4K.m3u8
-北京卫视频4k,http://106.53.99.30/tv/bj.php?id=bjws4k
-东方卫视频4k,http://106.53.99.30/tv/api.php?id=dfws4k
-浙江卫视频4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
-江苏卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.64:5140
-湖南卫视频4k,http://106.53.99.30/tv/api.php?id=hnws4k
-广东卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.103:5140 
-深圳卫视频4k,http://106.53.99.30/tv/api.php?id=szws4k
-山东卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.66:5140
-四川卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.62:5140
-北京卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
-东方卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.67:5140
-浙江卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
-江苏卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
-湖南卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
-广东卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
-深圳卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
-山东卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
-四川卫视频4k,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
-北京卫视频4k,http://49.235.65.250:600/beijing/beijing.php?id=bjws4k
-深圳卫视频4k,https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
-苏州4k频道超,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-河北4k频道超,https://event.pull.hebtv.com:443/live/live101.m3u8
-芒果4k频道超,https://ffmpeg.pendy.dpdns.org/mgtv/mgtv.m3u8
 省市卫视,#genre#
 北京卫视,http://go.bkpcp.top/mg/bjws
 东方卫视,http://go.bkpcp.top/mg/dfws
@@ -453,6 +421,7 @@ tvbS,http://rihou.cc:555/tv/[Hk]tvbs闽南
 五子传奇5,https://yztv-vod.homecdn.com/butelvod/9a2782d7-017a-4d6c-a2d2-8662d04416f8.m3u8
 五子传奇6,https://yztv-vod.homecdn.com/butelvod/9c2193e3-6174-41d1-b2af-3b7d90dcc6e5.m3u8
 五子传奇7,https://yztv-vod.homecdn.com/butelvod/523b22d2-0d66-498d-8ee1-04375ced6a34.m3u8
+
 
 
 
