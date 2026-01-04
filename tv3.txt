@@ -84,9 +84,7 @@ CCTV17,http://t.061899.xyz/tl/tl.php?id=cctv17
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 凤凰香港,http://rihou.cc:555/tv/[Bx]凤凰香港
 澳门莲花,http://rihou.cc:555/tv/[Pd]澳门莲花
-中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
-中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
 东森新闻,http://rihou.cc:555/tv/[Hk]东森新闻
 中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻
@@ -94,20 +92,7 @@ CCTV17,http://t.061899.xyz/tl/tl.php?id=cctv17
 镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
 tvbS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 tvbS,http://rihou.cc:555/tv/[Hk]tvbs闽南
-中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-寰宇新闻,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
-东森新闻,http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8?proxy=true
-tvbs新闻,http://220.135.64.124:5050/4gtv-4gtv072/index.m3u8?proxy=true
-三立新闻,http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
-三立新闻,http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
-非凡新闻,http://220.135.64.124:5050/4gtv-4gtv010/index.m3u8?proxy=true
-镜新闻,http://220.135.64.124:5050/4gtv-4gtv075/index.m3u8?proxy=true
-民视新闻,http://220.135.64.124:5050/litv-ftv13/index.m3u8?proxy=true
-中视新闻,http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
-华视新闻,http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
-台视新闻,http://220.135.64.124:5050/4gtv-4gtv051/index.m3u8?proxy=true
-tvbs,http://220.135.64.124:5050/4gtv-4gtv073/index.m3u8?proxy=true
-4k,
+4k,#genre#
 北京卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/bjws4K.m3u8
 东方卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/dfws4K.m3u8             
 浙江卫视频4k,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/zjws4K.m3u8             
@@ -468,6 +453,7 @@ tvbs,http://220.135.64.124:5050/4gtv-4gtv073/index.m3u8?proxy=true
 五子传奇5,https://yztv-vod.homecdn.com/butelvod/9a2782d7-017a-4d6c-a2d2-8662d04416f8.m3u8
 五子传奇6,https://yztv-vod.homecdn.com/butelvod/9c2193e3-6174-41d1-b2af-3b7d90dcc6e5.m3u8
 五子传奇7,https://yztv-vod.homecdn.com/butelvod/523b22d2-0d66-498d-8ee1-04375ced6a34.m3u8
+
 
 
 
