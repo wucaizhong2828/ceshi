@@ -1,8 +1,8 @@
 扬州频道,#genre#
-扬州新闻,https://yztv-wshls.homecdn.com/8bb.m3u8?t=1767227934&k=26a3e901a016375d36499b418b649025&wsSession=e82da0113eb6b70785a91ed3-176722793489638&wsIPSercert=9455ec313301d11126ca3f8fd5e6e0e7
-扬州民生,https://yztv-wshls.homecdn.com/8bd.m3u8?t=1767228009&k=fc2b174b603c4faf2f207a67951060b0&wsSession=4463b6e80e5eac932c76ad6f-176722800947031&wsIPSercert=9455ec313301d11126ca3f8fd5e6e0e7
-扬州江都,https://yztv-wshls.homecdn.com/8c1.m3u8?t=1767228063&k=11f01e5bda1d2b4a24590490ec57371e&wsSession=54e3aa71a6972b0cfbc295bc-176722806473150&wsIPSercert=9455ec313301d11126ca3f8fd5e6e0e7
-扬州邗江,https://yztv-wshls.homecdn.com/8c3.m3u8?t=1767228136&k=f7c79188d7b8408092bf675a94b0ac33&wsSession=4463b6e80e5eac932c76ad6f-176722813748833&wsIPSercert=9455ec313301d11126ca3f8fd5e6e0e7
+扬州新闻,https://yztv-wshls.homecdn.com/8bb.m3u8?t=1768194086&k=771388a6f1077b3f987b5f8fb3e96ff4&wsSession=69e80d2aa1890afbe9eacf4a-176819408742147&wsIPSercert=9ce035840ea9ff8f2b2a27c6b7909870
+扬州民生,https://yztv-wshls.homecdn.com/8bd.m3u8?t=1768194163&k=cec3fed484c7952811a2d8344c3e7e8e&wsSession=43553f22513127cfc79e22e5-176819416527882&wsIPSercert=9ce035840ea9ff8f2b2a27c6b7909870
+扬州江都,https://yztv-wshls.homecdn.com/8c1.m3u8?t=1768194206&k=7ff0e0472025e8239c4a417383f7df68&wsSession=ff8a8a49903b987fc63ac8da-176819420694453&wsIPSercert=9ce035840ea9ff8f2b2a27c6b7909870
+扬州邗江,
 央视频道,#genre#
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
@@ -421,6 +421,7 @@ tvbS,http://rihou.cc:555/tv/[Hk]tvbs闽南
 五子传奇5,https://yztv-vod.homecdn.com/butelvod/9a2782d7-017a-4d6c-a2d2-8662d04416f8.m3u8
 五子传奇6,https://yztv-vod.homecdn.com/butelvod/9c2193e3-6174-41d1-b2af-3b7d90dcc6e5.m3u8
 五子传奇7,https://yztv-vod.homecdn.com/butelvod/523b22d2-0d66-498d-8ee1-04375ced6a34.m3u8
+
 
 
 
