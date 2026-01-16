@@ -473,4 +473,6 @@ tvbS,http://rihou.cc:555/tv/[Hk]tvbs闽南
 五子传奇5,https://yztv-vod.homecdn.com/butelvod/9a2782d7-017a-4d6c-a2d2-8662d04416f8.m3u8
 五子传奇6,https://yztv-vod.homecdn.com/butelvod/9c2193e3-6174-41d1-b2af-3b7d90dcc6e5.m3u8
 五子传奇7,https://yztv-vod.homecdn.com/butelvod/523b22d2-0d66-498d-8ee1-04375ced6a34.m3u8
+测试,#genre#
+江都,https://pc.96189.com/maintab/livel?cid=290
 
