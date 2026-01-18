@@ -103,18 +103,21 @@ CCTV17,http://rihou.cc:555/tv/[JR]CCTV-17
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 凤凰香港,http://rihou.cc:555/tv/[Bx]凤凰香港
-澳门莲花,http://rihou.cc:555/tv/[Pd]澳门莲花
-中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
-中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞
-中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
-寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
-东森新闻,http://rihou.cc:555/tv/[Hk]东森新闻
-中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻
-壹新闻,http://rihou.cc:555/tv/[Hk]闽壹新闻
-年代新闻,http://rihou.cc:555/tv/[Hk]年代新闻
-镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
-tvbS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
-tvbS,http://rihou.cc:555/tv/[Hk]tvbs闽南
+中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8
+寰宇新闻,http://free.cnlive.club/channel/n43c34be8.m3u8
+东森新闻,http://free.cnlive.club/channel/n88aa83.m3u8
+tvbs新闻,http://free.cnlive.club/channel/n69ccce92.m3u8
+tvbs,http://free.cnlive.club/channel/154f9d73.m3u8
+年代新闻,http://free.cnlive.club/channel/49184630.m3u8
+非凡新闻,http://free.cnlive.club/channel/6302a884.m3u8
+民视新闻,http://free.cnlive.club/channel/n4b747ee6.m3u8
+中视新闻,http://free.cnlive.club/channel/428f1dfa.m3u8
+台视新闻,http://free.cnlive.club/channel/452d9d57.m3u8
+公视,http://free.cnlive.club/channel/3b838b0c.m3u8
+民视,http://free.cnlive.club/channel/n4d0434cf.m3u8
+中视,http://free.cnlive.club/channel/dc53f4d.m3u8
+华视,http://free.cnlive.club/channel/560bcbee.m3u8
+台视,http://free.cnlive.club/channel/5ef6ab90.m3u8
 省市卫视,#genre#
 北京卫视,http://go.bkpcp.top/mg/bjws
 东方卫视,http://go.bkpcp.top/mg/dfws
@@ -474,5 +477,6 @@ tvbS,http://rihou.cc:555/tv/[Hk]tvbs闽南
 五子传奇6,https://yztv-vod.homecdn.com/butelvod/9c2193e3-6174-41d1-b2af-3b7d90dcc6e5.m3u8
 五子传奇7,https://yztv-vod.homecdn.com/butelvod/523b22d2-0d66-498d-8ee1-04375ced6a34.m3u8
 测试,#genre#
+
 
 
