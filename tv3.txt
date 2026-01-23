@@ -224,6 +224,25 @@ tvbs,http://free.cnlive.club/channel/154f9d73.m3u8
 吉林卫视,http://rihou.cc:555/tv/[JR]吉林卫视
 内蒙古视,http://rihou.cc:555/tv/[JR]内蒙古视
 黑龙江视,http://rihou.cc:555/tv/[JR]黑龙江视
+4K,#genre#
+北京卫视4k,http://106.53.99.30/tv/bj.php?id=bjws4k
+北京卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
+东方卫视4k,http://106.53.99.30/tv/api.php?id=dfws4k
+东方卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.67:5140
+浙江卫视4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+浙江卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
+江苏卫视4k,http://124.116.170.138:8081/rtp/239.111.205.64:5140
+江苏卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
+湖南卫视4k,http://106.53.99.30/tv/api.php?id=hnws4k
+湖南卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
+广东卫视4k,http://124.116.170.138:8081/rtp/239.111.205.103:5140 
+广东卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
+深圳卫视4k,http://106.53.99.30/tv/api.php?id=szws4k
+深圳卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
+山东卫视4k,http://124.116.170.138:8081/rtp/239.111.205.66:5140
+山东卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
+四川卫视4k,http://124.116.170.138:8081/rtp/239.111.205.62:5140
+四川卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
 扬剧,#genre#
 梁祝1,https://yztv-vod.homecdn.com/butelvod/59da9f76-aef3-494c-9a52-aafb3cac28af.m3u8
 梁祝2,https://yztv-vod.homecdn.com/butelvod/a81a11e7-ddfb-4cf7-be86-024473b7ec9d.m3u8
@@ -477,6 +496,7 @@ tvbs,http://free.cnlive.club/channel/154f9d73.m3u8
 五子传奇6,https://yztv-vod.homecdn.com/butelvod/9c2193e3-6174-41d1-b2af-3b7d90dcc6e5.m3u8
 五子传奇7,https://yztv-vod.homecdn.com/butelvod/523b22d2-0d66-498d-8ee1-04375ced6a34.m3u8
 测试,#genre#
+
 
 
 
