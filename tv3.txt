@@ -4,6 +4,24 @@
 扬州江都,https://yztv-wshls.homecdn.com/8c1.m3u8?t=1769055600&k=49dfb324681cf957c01b67bb2f2c48a5&wsSession=780ea3e5624eae61fdef9cda-176905560053012&wsIPSercert=bf78758ec553806fc3c8eeab1d18e7a8
 扬州邗江,https://yztv-wshls.homecdn.com/8c3.m3u8?t=1769046776&k=f59f749f23b8881919ded72191db84b6&wsSession=ff7d88a439ad94f5e470f982-176904677747592&wsIPSercert=bf78758ec553806fc3c8eeab1d18e7a8
 央视频道,#genre#
+CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
+CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
+CCTV3,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
+CCTV4,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
+CCTV5,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
+CCTV5+,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
+CCTV6,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
+CCTV7,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
+CCTV8,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
+CCTV9,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
+CCTV10,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
+CCTV11,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
+CCTV12,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
+CCTV13,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
+CCTV14,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
+CCTV15,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
+CCTV16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
+CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
 CCTV3,http://go.bkpcp.top/mg/cctv3
@@ -119,6 +137,30 @@ tvbs,http://free.cnlive.club/channel/154f9d73.m3u8
 华视,http://free.cnlive.club/channel/560bcbee.m3u8
 台视,http://free.cnlive.club/channel/5ef6ab90.m3u8
 省市卫视,#genre#
+北京卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
+东方卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws
+浙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
+江苏卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws
+湖南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
+广东卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
+深圳卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws
+天津卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
+安徽卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=ahws
+山东卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws
+辽宁卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws
+河北卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hbws
+河南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hnws
+江西卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jxws
+四川卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws
+重庆卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
+贵州卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws
+湖北卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
+广西卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
+东南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws
+海南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hinws
+青海卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
+吉林卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
+黑龙江视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
 北京卫视,http://go.bkpcp.top/mg/bjws
 东方卫视,http://go.bkpcp.top/mg/dfws
 浙江卫视,http://go.bkpcp.top/mg/zjws
@@ -504,6 +546,7 @@ CCTV16-4K,http://39.152.103.17:8089/tsfile/live/1073_1.m3u8
 五子传奇6,https://yztv-vod.homecdn.com/butelvod/9c2193e3-6174-41d1-b2af-3b7d90dcc6e5.m3u8
 五子传奇7,https://yztv-vod.homecdn.com/butelvod/523b22d2-0d66-498d-8ee1-04375ced6a34.m3u8
 测试,#genre#
+
 
 
 
