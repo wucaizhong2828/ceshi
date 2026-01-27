@@ -549,7 +549,50 @@ CCTV16-4K,http://39.152.103.17:8089/tsfile/live/1073_1.m3u8
 五子传奇6,https://yztv-vod.homecdn.com/butelvod/9c2193e3-6174-41d1-b2af-3b7d90dcc6e5.m3u8
 五子传奇7,https://yztv-vod.homecdn.com/butelvod/523b22d2-0d66-498d-8ee1-04375ced6a34.m3u8
 测试,#genre#
-
+CCTV1,http://112.6.202.38:880/chs001.m3u8
+CCTV2,http://112.6.202.38:880/chs002.m3u8
+CCTV3,http://112.6.202.38:880/chs003.m3u8
+CCTV4,http://112.6.202.38:880/chs004.m3u8
+CCTV5,http://112.6.202.38:880/chs005.m3u8
+CCTV5+,http://112.6.202.38:880/chs006.m3u8
+CCTV6,http://112.6.202.38:880/chs007.m3u8
+CCTV8,http://112.6.202.38:880/chs009.m3u8
+CCTV13,http://112.6.202.38:880/chs014.m3u8
+河北卫视,http://112.6.202.38:880/chs077.m3u8
+吉林卫视,http://112.6.202.38:880/chs040.m3u8
+甘肃卫视,http://112.6.202.38:880/chs041.m3u8
+内蒙古卫视,http://112.6.202.38:880/chs042.m3u8
+广西卫视,http://112.6.202.38:880/chs043.m3u8
+陕西卫视,http://112.6.202.38:880/chs045.m3u8
+宁夏卫视,http://112.6.202.38:880/chs046.m3u8
+新疆卫视,http://112.6.202.38:880/chs047.m3u8
+厦门卫视,http://112.6.202.38:880/chs049.m3u8
+青海卫视,http://112.6.202.38:880/chs030.m3u8
+天津卫视,http://112.6.202.38:880/chs031.m3u8
+广东卫视,http://112.6.202.38:880/chs032.m3u8
+黑龙江卫视,http://112.6.202.38:880/chs033.m3u8
+重庆卫视,http://112.6.202.38:880/chs034.m3u8
+贵州卫视,http://112.6.202.38:880/chs035.m3u8
+江西卫视,http://112.6.202.38:880/chs036.m3u8
+海南卫视,http://112.6.202.38:880/chs037.m3u8
+四川卫视,http://112.6.202.38:880/chs038.m3u8
+河南卫视,http://112.6.202.38:880/chs039.m3u8
+延边卫视,http://112.6.202.38:880/chs051.m3u8
+西藏卫视,http://112.6.202.38:880/chs052.m3u8
+农林卫视,http://112.6.202.38:880/chs053.m3u8
+兵团卫视,http://112.6.202.38:880/chs054.m3u8
+中天新闻,https://www.youtube.com/watch?v=vr3XyVCR4T0
+TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS HD,https://www.youtube.com/watch?v=o_-hSMgpAzs
+TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
+寰宇新闻,https://www.youtube.com/watch?v=6IquAgfvYmc
+东森新闻,https://www.youtube.com/watch?v=V1p33hqPrUk
+东森财经新闻,https://www.youtube.com/watch?v=1I2iq41Akmo
+三立新闻,https://www.youtube.com/watch?v=hGJkDZDchYI
+民视新闻,https://www.youtube.com/watch?v=ylYJSBUgaMA
+台视新闻,https://www.youtube.com/watch?v=xL0ch83RAK8
+华视新闻,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+镜新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 
 
