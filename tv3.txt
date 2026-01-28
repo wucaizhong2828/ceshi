@@ -1,18 +1,18 @@
 扬州频道,#genre#
-扬州新闻,https://yztv-wshls.homecdn.com/8bb.m3u8?t=1769046673&k=450d17b2e4b03e69e4889a2d3fcabeae&wsSession=780ea3e5624eae61fdef9cda-176904667391988&wsIPSercert=bf78758ec553806fc3c8eeab1d18e7a8
+扬州新闻,https://yztv-wshls.homecdn.com/8bb.m3u8?t=1769563279&k=5543e7038b3793623e3717844bd4d7a8&wsSession=780ea3e5624eae61fdef9cda-176956328032289&wsIPSercert=2466b9e7cb2a0c51017b9606a2a31732
 扬州新闻,http://zjtv-wshls.homecdn.com/live/8bb.m3u8
 扬州新闻,http://zjtv.wshls.homecdn.com/live/8bb.flv
 扬州新闻,rtmp://zjtv.wshls.homecdn.com/live/8bb
-扬州民生,https://yztv-wshls.homecdn.com/8bd.m3u8?t=1769046716&k=991cc7bd6bf1e982e97530f1c5a8fab9&wsSession=780ea3e5624eae61fdef9cda-176904671692290&wsIPSercert=bf78758ec553806fc3c8eeab1d18e7a8
+扬州民生,https://yztv-wshls.homecdn.com/8bd.m3u8?t=1769563355&k=803d988584b0dafc6b29179bb0a3c718&wsSession=780ea3e5624eae61fdef9cda-176956335608153&wsIPSercert=2466b9e7cb2a0c51017b9606a2a31732
 扬州民生,http://zjtv-wshls.homecdn.com/live/8bd.m3u8
 扬州民生,http://zjtv.wshls.homecdn.com/live/8bd.flv
 扬州民生,rtmp://zjtv.wshls.homecdn.com/live/8bd
 扬州江都,http://zjtv-wshls.homecdn.com/live/8c1.m3u8
-扬州江都,https://yztv-wshls.homecdn.com/8c1.m3u8?t=1769055600&k=49dfb324681cf957c01b67bb2f2c48a5&wsSession=780ea3e5624eae61fdef9cda-176905560053012&wsIPSercert=bf78758ec553806fc3c8eeab1d18e7a8
+扬州江都,https://yztv-wshls.homecdn.com/8c1.m3u8?t=1769563447&k=ff2e9f6ce17040f19ea0b401538951bb&wsSession=780ea3e5624eae61fdef9cda-176956344827358&wsIPSercert=2466b9e7cb2a0c51017b9606a2a31732
 扬州江都,http://zjtv.wshls.homecdn.com/live/8c1.m3u8
 扬州江都,http://zjtv.wshls.homecdn.com/live/8c1.flv
 扬州江都,rtmp://zjtv.wshls.homecdn.com/live/8c1
-扬州邗江,https://yztv-wshls.homecdn.com/8c3.m3u8?t=1769046776&k=f59f749f23b8881919ded72191db84b6&wsSession=ff7d88a439ad94f5e470f982-176904677747592&wsIPSercert=bf78758ec553806fc3c8eeab1d18e7a8
+扬州邗江,https://yztv-wshls.homecdn.com/8c3.m3u8?t=1769563396&k=88e1086904e89caed66a0778746e68a5&wsSession=ff7d88a439ad94f5e470f982-176956339745770&wsIPSercert=2466b9e7cb2a0c51017b9606a2a31732
 扬州邗江,http://zjtv-wshls.homecdn.com/live/8c3.m3u8
 扬州邗江,http://zjtv.wshls.homecdn.com/live/8c3.flv
 扬州邗江,rtmp://zjtv.wshls.homecdn.com/live/8c3
@@ -616,6 +616,7 @@ CCTV16-4K,http://39.152.103.17:8089/tsfile/live/1073_1.m3u8
 五子传奇6,https://yztv-vod.homecdn.com/butelvod/9c2193e3-6174-41d1-b2af-3b7d90dcc6e5.m3u8
 五子传奇7,https://yztv-vod.homecdn.com/butelvod/523b22d2-0d66-498d-8ee1-04375ced6a34.m3u8
 测试,#genre#
+
 
 
 
