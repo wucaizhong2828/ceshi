@@ -3,6 +3,7 @@
 扬州江都,http://zjtv-wshls.homecdn.com/live/8c1.m3u8
 扬州江都,http://ott.mobaibox.com/PLTV/4/224/3221228323/index.m3u8
 扬州民生,http://ott.mobaibox.com/PLTV/4/224/3221228205/index.m3u8
+扬州民生,https://yztv-vod.homecdn.com/butelvod/6ba8db0b-e489-4c34-8173-7c9d34f25d52.m3u8
 扬州邗江,http://ott.mobaibox.com/PLTV/4/224/3221227867/index.m3u8
 凤凰资讯,http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰中文,http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -848,6 +849,7 @@ SiTV动漫秀场,http://ott.mobaibox.com/PLTV/3/224/3221227774/index.m3u8
 湖南金鹰卡通 3.5M576,http://ott.mobaibox.com/PLTV/3/224/3221227630/index.m3u8
 湖南金鹰卡通 576,http://ott.mobaibox.com/PLTV/3/224/3221226303/index.m3u8
 湖南金鹰纪实 4M576,http://ott.mobaibox.com/PLTV/3/224/3221228110/index.m3u8
+
 
 
 
