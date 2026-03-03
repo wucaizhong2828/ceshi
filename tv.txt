@@ -3,7 +3,6 @@
 扬州江都,http://zjtv-wshls.homecdn.com/live/8c1.m3u8
 扬州江都,http://ott.mobaibox.com/PLTV/4/224/3221228323/index.m3u8
 扬州民生,http://ott.mobaibox.com/PLTV/4/224/3221228205/index.m3u8
-扬州民生,https://yztv-vod.homecdn.com/butelvod/6ba8db0b-e489-4c34-8173-7c9d34f25d52.m3u8
 扬州邗江,http://ott.mobaibox.com/PLTV/4/224/3221227867/index.m3u8
 凤凰资讯,http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰中文,http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -19,7 +18,6 @@ CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV8K,http://ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 CCTV8K,http://ott.mobaibox.com/PLTV/3/224/3221228805/index.m3u8
 CCTV1 4K,http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
-CCTV1 会员专属 4K,http://ott.mobaibox.com/PLTV/4/224/3221228589/index.m3u8
 CCTV3 4K,http://ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 CCTV5 4K,http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV16 4K,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
@@ -492,7 +490,6 @@ CCTV老故事,http://ott.mobaibox.com/PLTV/3/224/3221227043/index.m3u8
 动画1小猪佩奇,http://ott.mobaibox.com/PLTV/4/224/3221228460/index.m3u8
 超级飞侠,http://ott.mobaibox.com/PLTV/4/224/3221228463/index.m3u8
 庆余年,http://ott.mobaibox.com/PLTV/4/224/3221228465/index.m3u8
-百姓生活,http://ott.mobaibox.com/PLTV/4/224/3221228466/index.m3u8
 熊出没,http://ott.mobaibox.com/PLTV/4/224/3221228536/index.m3u8
 超级飞侠,http://ott.mobaibox.com/PLTV/88888888/224/3221228539/index.m3u8
 阅读学习,http://ott.mobaibox.com/PLTV/4/224/3221228556/index.m3u8
@@ -526,12 +523,10 @@ CCTV老故事,http://ott.mobaibox.com/PLTV/3/224/3221227043/index.m3u8
 来自星星的你,http://ott.mobaibox.com/PLTV/4/224/3221228664/index.m3u8
 太阳的后裔,http://ott.mobaibox.com/PLTV/4/224/3221228666/index.m3u8
 请回答1998,http://ott.mobaibox.com/PLTV/4/224/3221228669/index.m3u8
-韩剧1,http://ott.mobaibox.com/PLTV/4/224/3221228670/index.m3u8
 梨园经典荟萃,http://ott.mobaibox.com/PLTV/4/224/3221228673/index.m3u8
 电视剧13,http://ott.mobaibox.com/PLTV/4/224/3221228676/index.m3u8
 电视剧14,http://ott.mobaibox.com/PLTV/4/224/3221228678/index.m3u8
 韩剧2,http://ott.mobaibox.com/PLTV/4/224/3221228681/index.m3u8
-韩剧3,http://ott.mobaibox.com/PLTV/4/224/3221228684/index.m3u8
 楚乔传,http://ott.mobaibox.com/PLTV/4/224/3221228687/index.m3u8
 电视剧15,http://ott.mobaibox.com/PLTV/4/224/3221228690/index.m3u8
 繁花,http://ott.mobaibox.com/PLTV/4/224/3221228710/index.m3u8
@@ -800,11 +795,6 @@ CCTV老故事,http://ott.mobaibox.com/PLTV/3/224/3221227043/index.m3u8
 五子传奇6,https://yztv-vod.homecdn.com/butelvod/9c2193e3-6174-41d1-b2af-3b7d90dcc6e5.m3u8
 五子传奇7,https://yztv-vod.homecdn.com/butelvod/523b22d2-0d66-498d-8ee1-04375ced6a34.m3u8
 其它,#genre#
-SiTV欢笑剧场,http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
-SiTV全纪实,http://ott.mobaibox.com/PLTV/3/224/3221227771/index.m3u8
-SiTV游戏风云,http://ott.mobaibox.com/PLTV/3/224/3221227713/index.m3u8
-SiTV生活时尚,http://ott.mobaibox.com/PLTV/3/224/3221227707/index.m3u8
-SiTV都市剧场,http://ott.mobaibox.com/PLTV/3/224/3221227710/index.m3u8
 NewTV潮妈辣婆,http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
 NewTV中国功夫,http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
 NewTV怡伴健康,http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
@@ -815,7 +805,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 NewTV古装剧场,http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
 NewTV家庭剧场,http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
 NewTV惊悚悬疑,http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
-NewTV武搏世界,http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
 NewTV炫舞未来,http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 NewTV爱情喜剧,http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
 NewTV精品体育,http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
@@ -837,7 +826,6 @@ NewTV明星大片,http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
 咪咕视频,http://ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
 咪咕视频,http://ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8
 少儿,#genre#
-SiTV动漫秀场,http://ott.mobaibox.com/PLTV/3/224/3221227774/index.m3u8
 黑莓动画 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
 上海哈哈炫动 3,http://ott.mobaibox.com/PLTV/3/224/3221227586/index.m3u8
 上海哈哈炫动 576,http://ott.mobaibox.com/PLTV/3/224/3221226388/index.m3u8
@@ -849,6 +837,7 @@ SiTV动漫秀场,http://ott.mobaibox.com/PLTV/3/224/3221227774/index.m3u8
 湖南金鹰卡通 3.5M576,http://ott.mobaibox.com/PLTV/3/224/3221227630/index.m3u8
 湖南金鹰卡通 576,http://ott.mobaibox.com/PLTV/3/224/3221226303/index.m3u8
 湖南金鹰纪实 4M576,http://ott.mobaibox.com/PLTV/3/224/3221228110/index.m3u8
+
 
 
 
