@@ -1,0 +1,108 @@
+[
+    {
+        "name": "本地包",
+        "list": [
+            {
+                "name": "饭太硬下载",
+                "url": "https://hk.gh-proxy.org/https://github.com/mengzide1-ai/TVBoxOSC/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC%E6%9C%AC%E5%9C%B0%E5%8C%85.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            },
+            {
+                "name": "王小二下载",
+                "url": "https://hk.gh-proxy.org/https://github.com/mengzide1-ai/TVBoxOSC/raw/refs/heads/main/%E7%8E%8B%E5%B0%8F%E4%BA%8C%E6%9C%AC%E5%9C%B0%E5%8C%85.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            },
+            {
+                "name": "肥猫下载",
+                "url": "https://hk.gh-proxy.org/https://github.com/mengzide1-ai/TVBoxOSC/raw/refs/heads/main/%E8%82%A5%E7%8C%AB%E6%9C%AC%E5%9C%B0%E5%8C%85.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            },
+            {
+                "name": "摸鱼儿下载",
+                "url": "https://hk.gh-proxy.org/https://github.com/mengzide1-ai/TVBoxOSC/raw/refs/heads/main/%E6%91%B8%E9%B1%BC%E6%9C%AC%E5%9C%B0%E5%8C%85.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            },
+            {
+                "name": "潇洒下载",
+                "url": "https://hk.gh-proxy.org/https://github.com/mengzide1-ai/TVBoxOSC/raw/refs/heads/main/%E6%BD%87%E6%B4%92%E6%9C%AC%E5%9C%B0%E5%8C%85.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            },
+            {
+                "name": "小米下载",
+                "url": "https://hk.gh-proxy.org/https://github.com/mengzide1-ai/TVBoxOSC/raw/refs/heads/main/%E5%B0%8F%E7%B1%B3%E6%9C%AC%E5%9C%B0%E5%8C%85.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            },
+            {
+                "name": "少儿专属下载",
+                "url": "https://hk.gh-proxy.org/https://github.com/mengzide1-ai/TVBoxOSC/raw/refs/heads/main/%E5%B0%91%E5%84%BF%E4%B8%93%E5%B1%9E%E6%9C%AC%E5%9C%B0%E5%8C%85.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            },
+            {
+                "name": "戏曲音乐下载",
+                "url": "https://hk.gh-proxy.org/https://github.com/mengzide1-ai/TVBoxOSC/raw/refs/heads/main/%E6%88%8F%E6%9B%B2%E9%9F%B3%E4%B9%90%E6%9C%AC%E5%9C%B0%E5%8C%85.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            }
+        ]
+    },
+    {
+        "name": "本地包备用",
+        "list": [
+            {
+                "name": "饭太硬备用",
+                "url": "https://gitee.com/tvdizhi/local/releases/download/bendi/%E9%A5%AD%E5%A4%AA%E7%A1%AC%E6%9C%AC%E5%9C%B0%E5%8C%85.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            },
+            {
+                "name": "王小二备用",
+                "url": "https://gitee.com/tvdizhi/local/releases/download/bendi/%E7%8E%8B%E5%B0%8F%E4%BA%8C%E6%9C%AC%E5%9C%B0%E5%8C%85.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            },
+            {
+                "name": "肥猫备用",
+                "url": "https://gitee.com/tvdizhi/local/releases/download/bendi/%E8%82%A5%E7%8C%AB%E6%9C%AC%E5%9C%B0%E5%8C%85.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            },
+            {
+                "name": "摸鱼儿备用",
+                "url": "https://gitee.com/tvdizhi/local/releases/download/bendi/%E6%91%B8%E9%B1%BC%E6%9C%AC%E5%9C%B0%E5%8C%85.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            },
+            {
+                "name": "潇洒备用",
+                "url": "https://gitee.com/tvdizhi/local/releases/download/bendi/%E6%BD%87%E6%B4%92%E6%9C%AC%E5%9C%B0%E5%8C%85.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            },
+            {
+                "name": "小米备用",
+                "url": "https://gitee.com/tvdizhi/local/releases/download/bendi/%E5%B0%8F%E7%B1%B3%E6%9C%AC%E5%9C%B0%E5%8C%85.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            },
+            {
+                "name": "少儿专属备用",
+                "url": "https://gitee.com/tvdizhi/local/releases/download/bendi/%E5%B0%91%E5%84%BF%E4%B8%93%E5%B1%9E%E6%9C%AC%E5%9C%B0%E5%8C%85.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            },
+            {
+                "name": "戏曲音乐备用",
+                "url": "https://gitee.com/tvdizhi/local/releases/download/bendi/%E6%88%8F%E6%9B%B2%E9%9F%B3%E4%B9%90%E6%9C%AC%E5%9C%B0%E5%8C%85.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            }
+        ]
+    }
+]
