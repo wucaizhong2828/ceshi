@@ -10,8 +10,6 @@ from datetime import datetime
 # ==============================================
 SOURCE_URLS = [
     "https://gitee.com/mytv-android/mymigu/raw/main/migu.m3u",
-    "https://gitee.com/mytv-android/mymigu/raw/main/migu.m3u",
-    "https://gitee.com/mytv-android/mymigu/raw/main/migu.m3u",
 ]
 
 # 过滤关键词：频道名包含这些词会被删除
@@ -41,19 +39,13 @@ def fetch_all_sources():
             resp.encoding = 'utf-8'
             content = resp.text
 
-            # 检测是否返回了 HTML（防盗链）
             if '<!DOCTYPE html>' in content or '<html' in content.lower():
                 print(f"  ⚠️ 警告: {url} 返回了 HTML 页面，跳过")
                 continue
 
-            # 检测是否返回了乱码（压缩数据）
-            if len(content) > 0 and not any(c in content for c in ['#', ',', 'http', 'CCTV']):
-                print(f"  ⚠️ 警告: {url} 返回了疑似压缩数据，跳过")
-                continue
-
             lines = content.split('\n')
             all_lines.extend(lines)
-            all_lines.append("")  # 空行分隔不同源
+            all_lines.append("")
         except Exception as e:
             print(f"  ❌ 抓取失败: {url} - {e}")
 
@@ -61,7 +53,7 @@ def fetch_all_sources():
 
 
 # ==============================================
-# 解析并过滤频道
+# 解析并过滤频道（支持 TXT 和 M3U 两种格式）
 # ==============================================
 def parse_and_filter(text):
     lines = text.split('\n')
@@ -73,50 +65,65 @@ def parse_and_filter(text):
         if not line:
             continue
 
-        # 检测分类行（如 "央视,#genre#"）
+        # ===== 处理 TXT 格式 =====
         if ',#genre#' in line:
             current_group = line.split(',')[0].strip()
             result.append(line)
             continue
 
-        # 检测频道行（如 "CCTV1综合,http://..."）
         if ',' in line and not line.startswith('#'):
             parts = line.split(',', 1)
             if len(parts) == 2:
                 title, url = parts[0].strip(), parts[1].strip()
-                # 过滤关键词
                 if not any(kw in title for kw in SPAM_KEYWORDS):
                     result.append(line)
-        else:
-            # 其他行（如注释）直接保留
+            continue
+
+        # ===== 处理 M3U 格式 =====
+        # 保留所有 #EXTINF 行
+        if line.startswith('#EXTINF'):
             result.append(line)
+            continue
+
+        # 保留 URL 行（非 # 开头，且看起来像 URL）
+        if not line.startswith('#') and ('http://' in line or 'https://' in line):
+            result.append(line)
+            continue
+
+        # 保留其他 # 开头的行（如 #EXTM3U）
+        if line.startswith('#'):
+            result.append(line)
+            continue
 
     return '\n'.join(result)
 
 
 # ==============================================
-# 生成 M3U 格式
+# 生成 M3U 格式（保留原始 M3U 结构）
 # ==============================================
 def generate_m3u(cleaned_text):
     lines = cleaned_text.split('\n')
     m3u_lines = ["#EXTM3U"]
-    current_group = "默认频道"
 
     for line in lines:
         line = line.strip()
         if not line:
             continue
 
-        if ',#genre#' in line:
-            current_group = line.split(',')[0].strip()
+        # 保留所有 #EXTINF 行
+        if line.startswith('#EXTINF'):
+            m3u_lines.append(line)
             continue
 
-        if ',' in line and not line.startswith('#'):
-            parts = line.split(',', 1)
-            if len(parts) == 2:
-                title, url = parts[0].strip(), parts[1].strip()
-                m3u_lines.append(f'#EXTINF:-1 group-title="{current_group}",{title}')
-                m3u_lines.append(url)
+        # 保留 URL 行
+        if not line.startswith('#') and ('http://' in line or 'https://' in line):
+            m3u_lines.append(line)
+            continue
+
+        # 保留其他 # 开头的重要行
+        if line.startswith('#') and not line.startswith('#EXTM3U'):
+            m3u_lines.append(line)
+            continue
 
     return '\n'.join(m3u_lines)
 
