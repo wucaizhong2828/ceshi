@@ -1,33 +1,49 @@
+# 给你的工作流一个清晰的名字
 name: 每日更新直播源
 
+# 配置触发条件
 on:
+  # 定时任务：每天 UTC 22:22 运行（北京时间 06:22）
   schedule:
     - cron: '22 22 * * *'
+  # 允许你手动在 Actions 页面点击按钮触发
   workflow_dispatch:
 
+# 定义权限：允许 GITHUB_TOKEN 写入仓库内容
+permissions:
+  contents: write
+
 jobs:
+  # 定义一个名为 update 的任务
   update:
+    # 在最新版的 Ubuntu 系统上运行
     runs-on: ubuntu-latest
-    
+
     steps:
+      # 步骤 1：将你的仓库代码拉取到运行环境中
       - name: 检出代码
         uses: actions/checkout@v4
-        
+
+      # 步骤 2：配置 Python 环境
       - name: 设置 Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-          
+
+      # 步骤 3：安装项目依赖 (requests 库)
       - name: 安装依赖
         run: pip install -r requirements.txt
-        
+
+      # 步骤 4：执行你的处理脚本
       - name: 运行处理脚本
         run: python process.py
-        
+
+      # 步骤 5：将更新后的文件提交并推送回仓库
       - name: 提交并推送更改
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add tv.txt tv.m3u
+          # 检查是否有变更，有变更才提交，避免空提交报错
           git diff --staged --quiet || git commit -m "自动更新直播源 $(date '+%Y-%m-%d %H:%M')"
           git push
