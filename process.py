@@ -9,7 +9,7 @@ from datetime import datetime
 # 配置
 # ==============================================
 SOURCE_URLS = [
-    "https://gitee.com/mytv-android/mymigu/raw/main/migu.m3u",
+    "https://raw.giteeusercontent.com/yunkaixx/tv/raw/master/live.txt",
 ]
 
 # 过滤关键词
