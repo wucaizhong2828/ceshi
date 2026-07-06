@@ -49,43 +49,73 @@ def fetch_all_sources():
 
 
 # ==============================================
-# 解析并过滤（自动识别 M3U 或 TXT 格式）
+# 解析并过滤：输出 TXT 格式（频道名,地址）
 # ==============================================
 def parse_and_filter(text):
     lines = text.split('\n')
     result = []
+    current_group = "默认频道"
     
     # 检测是否为 M3U 格式
     is_m3u = any('#EXTM3U' in line or '#EXTINF' in line for line in lines if line.strip())
     
     if is_m3u:
-        # ===== M3U 格式处理 =====
-        for line in lines:
-            line = line.strip()
+        # ===== M3U → TXT 转换 =====
+        i = 0
+        while i < len(lines):
+            line = lines[i].strip()
             if not line:
+                i += 1
                 continue
             
-            # 保留所有 #EXTINF 行（同时检查是否包含过滤关键词）
+            # 提取分类（从 #EXTINF 中解析 group-title）
             if line.startswith('#EXTINF'):
-                # 检查频道名是否包含过滤词
-                if not any(kw in line for kw in SPAM_KEYWORDS):
-                    result.append(line)
+                # 解析 group-title
+                group_match = re.search(r'group-title="([^"]+)"', line)
+                if group_match:
+                    current_group = group_match.group(1)
+                
+                # 解析频道名（#EXTINF 行最后一个逗号后面的部分）
+                title_match = re.search(r',([^,]+)$', line)
+                title = title_match.group(1).strip() if title_match else "未知频道"
+                
+                # 检查是否包含过滤关键词
+                if any(kw in title for kw in SPAM_KEYWORDS):
+                    i += 1
+                    continue
+                
+                # 下一行应该是 URL
+                i += 1
+                if i < len(lines):
+                    url_line = lines[i].strip()
+                    # 如果是 http/https 开头的 URL
+                    if re.match(r'^https?://', url_line):
+                        # 输出 TXT 格式：频道名,地址
+                        result.append(f"{title},{url_line}")
+                    # 如果是 javascript: 或其他，跳过
+                i += 1
                 continue
             
-            # 保留 URL 行（必须是 http/https 开头）
-            if re.match(r'^https?://', line):
-                result.append(line)
-                continue
-            
-            # 保留其他 # 开头的行（如 #EXTM3U）
-            if line.startswith('#'):
-                result.append(line)
-                continue
-            
-            # 跳过其他未知行（如 javascript: 等）
+            # 跳过其他行（如 #EXTM3U, # 注释等）
+            i += 1
+        
+        # 如果转换后没有结果，说明解析可能失败，尝试备用方法
+        if not result:
+            print("  ⚠️ M3U 解析可能失败，尝试备用解析...")
+            # 备用：直接搜索所有 http/https 开头的 URL 行
+            for i, line in enumerate(lines):
+                line = line.strip()
+                if re.match(r'^https?://', line):
+                    # 尝试从上一行找频道名
+                    if i > 0:
+                        prev_line = lines[i-1].strip()
+                        if prev_line.startswith('#EXTINF'):
+                            title_match = re.search(r',([^,]+)$', prev_line)
+                            title = title_match.group(1).strip() if title_match else "未知频道"
+                            if not any(kw in title for kw in SPAM_KEYWORDS):
+                                result.append(f"{title},{line}")
     else:
         # ===== TXT 格式处理 =====
-        current_group = "默认频道"
         for line in lines:
             line = line.strip()
             if not line:
@@ -109,40 +139,49 @@ def parse_and_filter(text):
 
 
 # ==============================================
-# 生成 M3U 格式（直接输出原始 M3U 结构）
+# 生成 M3U 格式（保留原始 M3U 结构）
 # ==============================================
 def generate_m3u(cleaned_text):
+    # 如果输入是 TXT 格式（包含 ,#genre#），先解析再转换
     lines = cleaned_text.split('\n')
-    m3u_lines = []
     
-    for line in lines:
-        line = line.strip()
-        if not line:
-            continue
-        
-        # 确保 #EXTM3U 在第一行
-        if line.startswith('#EXTM3U'):
-            if '#EXTM3U' not in m3u_lines:
-                m3u_lines.insert(0, line)
-            continue
-        
-        # 保留所有 #EXTINF 行
-        if line.startswith('#EXTINF'):
-            m3u_lines.append(line)
-            continue
-        
-        # 保留 URL 行（http/https 开头）
-        if re.match(r'^https?://', line):
-            m3u_lines.append(line)
-            continue
-        
-        # 保留其他 # 开头的行
-        if line.startswith('#'):
-            m3u_lines.append(line)
-            continue
+    # 检测输入是否为 TXT 格式（包含 ,#genre# 或 频道名,地址 格式）
+    is_txt = any(',#genre#' in line for line in lines) or any(',' in line and not line.startswith('#') and not line.startswith('http') for line in lines)
     
-    # 如果第一行不是 #EXTM3U，手动添加
-    if not m3u_lines or not m3u_lines[0].startswith('#EXTM3U'):
+    m3u_lines = ["#EXTM3U"]
+    current_group = "默认频道"
+    
+    if is_txt:
+        # TXT → M3U 转换
+        for line in lines:
+            line = line.strip()
+            if not line:
+                continue
+            
+            if ',#genre#' in line:
+                current_group = line.split(',')[0].strip()
+                continue
+            
+            if ',' in line and not line.startswith('#'):
+                parts = line.split(',', 1)
+                if len(parts) == 2:
+                    title, url = parts[0].strip(), parts[1].strip()
+                    # 确保 URL 是 http/https 开头
+                    if re.match(r'^https?://', url):
+                        m3u_lines.append(f'#EXTINF:-1 group-title="{current_group}",{title}')
+                        m3u_lines.append(url)
+    else:
+        # 已经是 M3U 格式，直接保留
+        for line in lines:
+            line = line.strip()
+            if not line:
+                continue
+            if line.startswith('#EXTM3U'):
+                continue
+            m3u_lines.append(line)
+    
+    # 确保第一行是 #EXTM3U
+    if not m3u_lines[0].startswith('#EXTM3U'):
         m3u_lines.insert(0, '#EXTM3U')
     
     return '\n'.join(m3u_lines)
