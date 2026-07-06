@@ -12,7 +12,7 @@ SOURCE_URLS = [
     "https://gitee.com/mytv-android/mymigu/raw/main/migu.m3u",
 ]
 
-# 过滤关键词：频道名包含这些词会被删除
+# 过滤关键词
 SPAM_KEYWORDS = ["加群", "TG", "t.me", "关注", "广告", "备用", "防失联", "微信", "QQ", "最新"]
 
 # ==============================================
@@ -38,6 +38,37 @@ def fetch_all_sources():
 
 
 # ==============================================
+# 从 #EXTINF 行提取频道名
+# ==============================================
+def extract_title_from_extinf(line):
+    """
+    从 #EXTINF 行中提取频道名
+    支持格式：
+    1. #EXTINF:-1 tvg-id="CCTV1" group-title="央视",CCTV1综合
+    2. #EXTINF:-1,CCTV1综合
+    3. #EXTINF:-1 tvg-id="CCTV1",CCTV1综合
+    """
+    # 方法1：查找最后一个逗号后面的内容（最可靠）
+    if ',' in line:
+        # 找到最后一个逗号的位置
+        last_comma = line.rfind(',')
+        title = line[last_comma + 1:].strip()
+        if title:
+            return title
+    
+    # 方法2：尝试从 tvg-name 或 tvg-id 提取（备用）
+    name_match = re.search(r'tvg-name="([^"]+)"', line)
+    if name_match:
+        return name_match.group(1)
+    
+    id_match = re.search(r'tvg-id="([^"]+)"', line)
+    if id_match:
+        return id_match.group(1)
+    
+    return "未知频道"
+
+
+# ==============================================
 # M3U → TXT 转换 + 过滤
 # ==============================================
 def convert_m3u_to_txt(text):
@@ -47,6 +78,12 @@ def convert_m3u_to_txt(text):
     total = 0
     filtered = 0
     
+    # 调试：打印前 10 行
+    print("  📋 原始数据前 10 行预览：")
+    for idx, line in enumerate(lines[:10]):
+        if line.strip():
+            print(f"    {idx+1}: {line[:100]}...")
+    
     while i < len(lines):
         line = lines[i].strip()
         if not line:
@@ -55,9 +92,8 @@ def convert_m3u_to_txt(text):
         
         # 处理 #EXTINF 行
         if line.startswith('#EXTINF'):
-            # 提取频道名（最后一个逗号后面的内容）
-            title_match = re.search(r',([^,]+)$', line)
-            title = title_match.group(1).strip() if title_match else ""
+            # 提取频道名
+            title = extract_title_from_extinf(line)
             
             # 检查是否包含过滤关键词
             is_spam = any(kw in title for kw in SPAM_KEYWORDS)
@@ -70,18 +106,19 @@ def convert_m3u_to_txt(text):
                 if re.match(r'^https?://', url_line):
                     total += 1
                     if not is_spam:
-                        # 输出 TXT 格式：频道名,地址
                         txt_lines.append(f"{title},{url_line}")
+                        if total <= 3:  # 只打印前3个成功解析的频道
+                            print(f"  ✅ 解析成功: {title} -> {url_line[:50]}...")
                     else:
                         filtered += 1
                         print(f"  🚫 已过滤: {title}")
             i += 1
             continue
         
-        # 跳过其他行（如 #EXTM3U, # 注释等）
+        # 跳过其他行
         i += 1
     
-    print(f"  共 {total} 个频道，过滤了 {filtered} 个，保留 {total - filtered} 个")
+    print(f"  📊 共 {total} 个频道，过滤了 {filtered} 个，保留 {total - filtered} 个")
     return '\n'.join(txt_lines)
 
 
@@ -94,15 +131,12 @@ def main():
     raw = fetch_all_sources()
     print(f"抓取完成，合并后大小: {len(raw)} 字符")
 
-    # 转换为 TXT 格式
     txt_content = convert_m3u_to_txt(raw)
     print(f"转换完成，TXT 大小: {len(txt_content)} 字符")
 
-    # 保存 TXT 格式（频道名,地址）
     with open('tv.txt', 'w', encoding='utf-8') as f:
         f.write(txt_content)
 
-    # 保存 M3U 格式（保留原始结构，供播放器使用）
     with open('tv.m3u', 'w', encoding='utf-8') as f:
         f.write(raw)
 
