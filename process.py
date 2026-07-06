@@ -27,10 +27,6 @@ def fetch_all_sources():
         "Connection": "keep-alive",
         "Upgrade-Insecure-Requests": "1",
         "Cache-Control": "max-age=0",
-        "Sec-Fetch-Dest": "document",
-        "Sec-Fetch-Mode": "navigate",
-        "Sec-Fetch-Site": "none",
-        "Sec-Fetch-User": "?1",
     }
     for url in SOURCE_URLS:
         try:
@@ -53,78 +49,102 @@ def fetch_all_sources():
 
 
 # ==============================================
-# 解析并过滤频道（支持 TXT 和 M3U 两种格式）
+# 解析并过滤（自动识别 M3U 或 TXT 格式）
 # ==============================================
 def parse_and_filter(text):
     lines = text.split('\n')
     result = []
-    current_group = "默认频道"
-
-    for line in lines:
-        line = line.strip()
-        if not line:
-            continue
-
-        # ===== 处理 TXT 格式 =====
-        if ',#genre#' in line:
-            current_group = line.split(',')[0].strip()
-            result.append(line)
-            continue
-
-        if ',' in line and not line.startswith('#'):
-            parts = line.split(',', 1)
-            if len(parts) == 2:
-                title, url = parts[0].strip(), parts[1].strip()
-                if not any(kw in title for kw in SPAM_KEYWORDS):
+    
+    # 检测是否为 M3U 格式
+    is_m3u = any('#EXTM3U' in line or '#EXTINF' in line for line in lines if line.strip())
+    
+    if is_m3u:
+        # ===== M3U 格式处理 =====
+        for line in lines:
+            line = line.strip()
+            if not line:
+                continue
+            
+            # 保留所有 #EXTINF 行（同时检查是否包含过滤关键词）
+            if line.startswith('#EXTINF'):
+                # 检查频道名是否包含过滤词
+                if not any(kw in line for kw in SPAM_KEYWORDS):
                     result.append(line)
-            continue
+                continue
+            
+            # 保留 URL 行（必须是 http/https 开头）
+            if re.match(r'^https?://', line):
+                result.append(line)
+                continue
+            
+            # 保留其他 # 开头的行（如 #EXTM3U）
+            if line.startswith('#'):
+                result.append(line)
+                continue
+            
+            # 跳过其他未知行（如 javascript: 等）
+    else:
+        # ===== TXT 格式处理 =====
+        current_group = "默认频道"
+        for line in lines:
+            line = line.strip()
+            if not line:
+                continue
 
-        # ===== 处理 M3U 格式 =====
-        # 保留所有 #EXTINF 行
-        if line.startswith('#EXTINF'):
-            result.append(line)
-            continue
+            if ',#genre#' in line:
+                current_group = line.split(',')[0].strip()
+                result.append(line)
+                continue
 
-        # 保留 URL 行（非 # 开头，且看起来像 URL）
-        if not line.startswith('#') and ('http://' in line or 'https://' in line):
-            result.append(line)
-            continue
-
-        # 保留其他 # 开头的行（如 #EXTM3U）
-        if line.startswith('#'):
-            result.append(line)
-            continue
+            if ',' in line and not line.startswith('#'):
+                parts = line.split(',', 1)
+                if len(parts) == 2:
+                    title, url = parts[0].strip(), parts[1].strip()
+                    if not any(kw in title for kw in SPAM_KEYWORDS):
+                        result.append(line)
+            else:
+                result.append(line)
 
     return '\n'.join(result)
 
 
 # ==============================================
-# 生成 M3U 格式（保留原始 M3U 结构）
+# 生成 M3U 格式（直接输出原始 M3U 结构）
 # ==============================================
 def generate_m3u(cleaned_text):
     lines = cleaned_text.split('\n')
-    m3u_lines = ["#EXTM3U"]
-
+    m3u_lines = []
+    
     for line in lines:
         line = line.strip()
         if not line:
             continue
-
+        
+        # 确保 #EXTM3U 在第一行
+        if line.startswith('#EXTM3U'):
+            if '#EXTM3U' not in m3u_lines:
+                m3u_lines.insert(0, line)
+            continue
+        
         # 保留所有 #EXTINF 行
         if line.startswith('#EXTINF'):
             m3u_lines.append(line)
             continue
-
-        # 保留 URL 行
-        if not line.startswith('#') and ('http://' in line or 'https://' in line):
+        
+        # 保留 URL 行（http/https 开头）
+        if re.match(r'^https?://', line):
             m3u_lines.append(line)
             continue
-
-        # 保留其他 # 开头的重要行
-        if line.startswith('#') and not line.startswith('#EXTM3U'):
+        
+        # 保留其他 # 开头的行
+        if line.startswith('#'):
             m3u_lines.append(line)
             continue
-
+    
+    # 如果第一行不是 #EXTM3U，手动添加
+    if not m3u_lines or not m3u_lines[0].startswith('#EXTM3U'):
+        m3u_lines.insert(0, '#EXTM3U')
+    
     return '\n'.join(m3u_lines)
 
 
