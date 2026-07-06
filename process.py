@@ -19,12 +19,22 @@ SPAM_KEYWORDS = ["加群", "TG", "t.me", "关注", "广告", "备用", "防失�
 
 def fetch_all_sources():
     all_lines = []
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
     for url in SOURCE_URLS:
         try:
             print(f"  正在抓取: {url}")
-            resp = requests.get(url, timeout=10)
+            resp = requests.get(url, timeout=10, headers=headers)
             resp.encoding = 'utf-8'
-            lines = resp.text.split('\n')
+            
+            # 检查返回的是不是 HTML（防盗链检测）
+            content = resp.text
+            if '<!DOCTYPE html>' in content or '<html' in content.lower():
+                print(f"  ⚠️ 警告: {url} 返回了 HTML 页面，可能被拦截，跳过")
+                continue
+                
+            lines = content.split('\n')
             all_lines.extend(lines)
             all_lines.append("")
         except Exception as e:
