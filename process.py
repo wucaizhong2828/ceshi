@@ -26,7 +26,6 @@ def fetch_all_sources():
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
         "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-        "Accept-Encoding": "gzip, deflate, br",
         "Connection": "keep-alive",
         "Upgrade-Insecure-Requests": "1",
         "Cache-Control": "max-age=0",
@@ -45,6 +44,11 @@ def fetch_all_sources():
             # 检测是否返回了 HTML（防盗链）
             if '<!DOCTYPE html>' in content or '<html' in content.lower():
                 print(f"  ⚠️ 警告: {url} 返回了 HTML 页面，跳过")
+                continue
+
+            # 检测是否返回了乱码（压缩数据）
+            if len(content) > 0 and not any(c in content for c in ['#', ',', 'http', 'CCTV']):
+                print(f"  ⚠️ 警告: {url} 返回了疑似压缩数据，跳过")
                 continue
 
             lines = content.split('\n')
