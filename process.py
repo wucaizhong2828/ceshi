@@ -38,11 +38,11 @@ def fetch_all_sources():
 
 
 # ==============================================
-# 过滤 M3U 格式中的广告频道
+# M3U → TXT 转换 + 过滤
 # ==============================================
-def filter_m3u(text):
+def convert_m3u_to_txt(text):
     lines = text.split('\n')
-    result = []
+    txt_lines = []
     i = 0
     total = 0
     filtered = 0
@@ -50,12 +50,6 @@ def filter_m3u(text):
     while i < len(lines):
         line = lines[i].strip()
         if not line:
-            i += 1
-            continue
-        
-        # 保留 #EXTM3U 头
-        if line.startswith('#EXTM3U'):
-            result.append(line)
             i += 1
             continue
         
@@ -68,7 +62,7 @@ def filter_m3u(text):
             # 检查是否包含过滤关键词
             is_spam = any(kw in title for kw in SPAM_KEYWORDS)
             
-            # 检查下一行是否是 URL
+            # 下一行应该是 URL
             i += 1
             if i < len(lines):
                 url_line = lines[i].strip()
@@ -76,24 +70,19 @@ def filter_m3u(text):
                 if re.match(r'^https?://', url_line):
                     total += 1
                     if not is_spam:
-                        result.append(line)
-                        result.append(url_line)
+                        # 输出 TXT 格式：频道名,地址
+                        txt_lines.append(f"{title},{url_line}")
                     else:
                         filtered += 1
                         print(f"  🚫 已过滤: {title}")
-                else:
-                    # 如果下一行不是 URL，保留 #EXTINF 行（可能是文件头）
-                    if not is_spam:
-                        result.append(line)
             i += 1
             continue
         
-        # 保留其他行（如注释）
-        result.append(line)
+        # 跳过其他行（如 #EXTM3U, # 注释等）
         i += 1
     
     print(f"  共 {total} 个频道，过滤了 {filtered} 个，保留 {total - filtered} 个")
-    return '\n'.join(result)
+    return '\n'.join(txt_lines)
 
 
 # ==============================================
@@ -105,16 +94,19 @@ def main():
     raw = fetch_all_sources()
     print(f"抓取完成，合并后大小: {len(raw)} 字符")
 
-    filtered = filter_m3u(raw)
-    print(f"过滤完成，清洗后大小: {len(filtered)} 字符")
+    # 转换为 TXT 格式
+    txt_content = convert_m3u_to_txt(raw)
+    print(f"转换完成，TXT 大小: {len(txt_content)} 字符")
 
-    with open('tv.m3u', 'w', encoding='utf-8') as f:
-        f.write(filtered)
-
+    # 保存 TXT 格式（频道名,地址）
     with open('tv.txt', 'w', encoding='utf-8') as f:
-        f.write(filtered)
+        f.write(txt_content)
 
-    print(f"[{datetime.now()}] ✅ 完成！已更新 tv.m3u 和 tv.txt")
+    # 保存 M3U 格式（保留原始结构，供播放器使用）
+    with open('tv.m3u', 'w', encoding='utf-8') as f:
+        f.write(raw)
+
+    print(f"[{datetime.now()}] ✅ 完成！已更新 tv.txt 和 tv.m3u")
 
 if __name__ == "__main__":
     main()
