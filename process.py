@@ -9,8 +9,8 @@ from datetime import datetime
 # 配置：在这里添加你的直播源地址，一行一个
 # ==============================================
 SOURCE_URLS = [
-    "https://0701.tv1288.xyz",
-    "https://gongdian.top/tv/iptv",
+    "https://gitee.com/mytv-android/mymigu/raw/main/migu.m3u",
+    "https://gitee.com/mytv-android/mymigu/raw/main/migu.m3u",
     "https://gitee.com/mytv-android/mymigu/raw/main/migu.m3u",
 ]
 
