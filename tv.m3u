@@ -1,47 +1,41 @@
 #EXTM3U
-# Updated: 2026-07-07 09:32:20 UTC
-#EXTINF:-1 group-title="默认频道",CCTV1
+# Updated: 2026-07-07 10:34:45 UTC
+#EXTINF:-1 group-title="默认频道",CCTV-1
 http://2280.eu.org:1234/608807420
-#EXTINF:-1 group-title="默认频道",CCTV2
+#EXTINF:-1 group-title="默认频道",CCTV-2
 http://2280.eu.org:1234/631780532
-#EXTINF:-1 group-title="默认频道",CCTV3
+#EXTINF:-1 group-title="默认频道",CCTV-3
 http://2280.eu.org:1234/624878271
-#EXTINF:-1 group-title="默认频道",CCTV4
+#EXTINF:-1 group-title="默认频道",CCTV-4
 http://2280.eu.org:1234/631780421
-#EXTINF:-1 group-title="默认频道",CCTV4亚洲
-http://175.10.171.199:9901/tsfile/live/0004_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",CCTV5
+#EXTINF:-1 group-title="默认频道",CCTV-5
 http://2280.eu.org:1234/641886683
-#EXTINF:-1 group-title="默认频道",CCTV5+
+#EXTINF:-1 group-title="默认频道",CCTV-5+
 http://2280.eu.org:1234/641886773
-#EXTINF:-1 group-title="默认频道",CCTV6
+#EXTINF:-1 group-title="默认频道",CCTV-6
 http://2280.eu.org:1234/624878396
-#EXTINF:-1 group-title="默认频道",CCTV7
+#EXTINF:-1 group-title="默认频道",CCTV-7
 http://2280.eu.org:1234/673168121
-#EXTINF:-1 group-title="默认频道",CCTV8
+#EXTINF:-1 group-title="默认频道",CCTV-8
 http://2280.eu.org:1234/624878356
-#EXTINF:-1 group-title="默认频道",CCTV9
+#EXTINF:-1 group-title="默认频道",CCTV-9
 http://2280.eu.org:1234/673168140
-#EXTINF:-1 group-title="默认频道",CCTV10
+#EXTINF:-1 group-title="默认频道",CCTV-10
 http://2280.eu.org:1234/624878405
-#EXTINF:-1 group-title="默认频道",CCTV11
+#EXTINF:-1 group-title="默认频道",CCTV-11
 http://2280.eu.org:1234/667987558
-#EXTINF:-1 group-title="默认频道",CCTV12
+#EXTINF:-1 group-title="默认频道",CCTV-12
 http://2280.eu.org:1234/673168185
-#EXTINF:-1 group-title="默认频道",CCTV13
+#EXTINF:-1 group-title="默认频道",CCTV-13
 http://2280.eu.org:1234/608807423
-#EXTINF:-1 group-title="默认频道",CCTV14
+#EXTINF:-1 group-title="默认频道",CCTV-14
 http://2280.eu.org:1234/624878440
-#EXTINF:-1 group-title="默认频道",CCTV15
+#EXTINF:-1 group-title="默认频道",CCTV-15
 http://2280.eu.org:1234/673168223
-#EXTINF:-1 group-title="默认频道",CCTV16
+#EXTINF:-1 group-title="默认频道",CCTV-16
 http://139.214.182.224:9901/tsfile/live/1061_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",CCTV17
+#EXTINF:-1 group-title="默认频道",CCTV-17
 http://2280.eu.org:1234/673168256
-#EXTINF:-1 group-title="默认频道",CCTV4欧洲
-http://2280.eu.org:1234/608807419
-#EXTINF:-1 group-title="默认频道",CCTV4美洲
-http://2280.eu.org:1234/608807416
 #EXTINF:-1 group-title="默认频道",东南卫视
 http://2280.eu.org:1234/849116810
 #EXTINF:-1 group-title="默认频道",东方卫视
