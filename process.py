@@ -9,7 +9,7 @@ from datetime import datetime
 # 配置
 # ==============================================
 SOURCE_URLS = [
-    "https://raw.giteeusercontent.com/yunkaixx/tv/raw/master/live.txt",
+    "https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt",
 ]
 
 # 过滤关键词：频道名包含这些词会被删除
