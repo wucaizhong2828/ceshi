@@ -2,56 +2,68 @@ import requests
 import sys
 import time
 from datetime import datetime
-import random
 
-URLS = ["https://0701.tv1288.xyz", "https://tv1288.xyz"]
-OUTPUT_FILE = "iptv_playlist.m3u"
-
-# 免费代理示例（可自行替换更稳定的）
-PROXIES = [
-    {"http": "http://127.0.0.1:8080", "https": "http://127.0.0.1:8080"},  # 本地可不填
-    # 更多免费代理可自行搜索
+# ================== 配置区 ==================
+URLS = [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+    "https://iptv-org.github.io/iptv/countries/cn.m3u",           # 中国大陆
+    "https://iptv-org.github.io/iptv/countries/hk.m3u",           # 香港
+    "https://iptv-org.github.io/iptv/countries/tw.m3u",           # 台湾
+    "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",
 ]
 
-def fetch_playlist(url):
-    headers = {
-        "User-Agent": random.choice([
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
-        ]),
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Referer": "https://www.baidu.com/",
-    }
+# 保留的关键词（可继续添加）
+KEEP_KEYWORDS = [
+    "CCTV", "央视", "卫视", "湖南", "江苏", "浙江", "北京", "上海",
+    "东方", "凤凰", "凤凰资讯", "凤凰香港", "TVB", "有线", "Now", 
+    "台湾", "中天", "东森", "民视", "台视", "华视", "新闻"
+]
 
-    for attempt in range(6):
+OUTPUT_FILE = "iptv_playlist.m3u"
+# ===========================================
+
+def fetch_playlist(url):
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    for attempt in range(4):
         try:
-            proxy = random.choice(PROXIES) if PROXIES else None
-            resp = requests.get(url, headers=headers, timeout=25, proxies=proxy)
-            if resp.status_code == 200 and len(resp.text) > 500:
+            resp = requests.get(url, headers=headers, timeout=25)
+            if resp.status_code == 200 and len(resp.text) > 800:
                 print(f"✅ 成功 {url}")
                 return resp.text
-            print(f"⚠️ 状态码 {resp.status_code} {url}")
         except Exception as e:
-            print(f"⚠️ 异常 {url}: {e}")
-        time.sleep(4)
+            print(f"⚠️ 失败 {url}: {e}")
+        time.sleep(2)
     return None
 
-def main():
-    all_lines = ["#EXTM3U", f"# Updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')}"]
+def filter_channels(lines):
+    """只保留包含关键词的频道"""
+    filtered = []
+    for line in lines:
+        if any(kw in line for kw in KEEP_KEYWORDS):
+            filtered.append(line)
+    return filtered
 
+def main():
+    all_lines = ["#EXTM3U", f"# Updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}", 
+                 "# 中国大陆 + 港台新闻频道"]
+
+    total = 0
     for url in URLS:
         content = fetch_playlist(url)
         if content:
-            all_lines.extend([line.strip() for line in content.splitlines() if line.strip()])
-            print(f"获取成功，共 {len(all_lines)} 行")
-            break
-    else:
-        print("❌ 全部失败，保留旧文件")
+            lines = [line.strip() for line in content.splitlines() if line.strip() and not line.startswith("#EXTM3U")]
+            filtered = filter_channels(lines)
+            all_lines.extend(filtered)
+            total += len(filtered)
+            print(f"   从 {url} 保留 {len(filtered)} 个频道")
+            # 为了避免文件过大，成功获取主要源后可提前退出
+            if "cn.m3u" in url or "IPTV.m3u" in url:
+                break
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(all_lines) + "\n")
 
-    print(f"🎉 完成 → {OUTPUT_FILE}")
+    print(f"\n🎉 完成！共保留 {total} 个频道 → {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
