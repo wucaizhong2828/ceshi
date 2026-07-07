@@ -34,7 +34,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          git add iptv_playlist.m3u iptv_playlist.txt
+          git add tv.m3u tv.txt
           
           if git diff --staged --quiet; then
             echo "没有变化"
