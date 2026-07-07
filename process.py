@@ -13,8 +13,8 @@ URLS = [
 # 只保留包含这些关键词的频道（留空则全部保留）
 KEEP_KEYWORDS = ["CCTV", "央视", "卫视", "凤凰", "TVB", "中天", "东森", "新闻"]
 
-OUTPUT_M3U = "iptv_playlist.m3u"
-OUTPUT_TXT = "iptv_playlist.txt"
+OUTPUT_M3U = "tv.m3u"
+OUTPUT_TXT = "tv.txt"
 # ===========================================
 
 # ==========================================
