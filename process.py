@@ -4,10 +4,9 @@ from datetime import datetime
 print("开始生成直播源...")
 
 # ================== 配置区 ==================
-# 手动维护的精品源（本地文件）
+# 手动维护的精选源（只需要这一个文件）
 LOCAL_SOURCES = [
     "tv1.txt",      # 格式：频道名,地址
-    # "tv1.m3u",    # 也可以加 M3U 格式的文件
 ]
 
 # 自动抓取的在线源
@@ -43,26 +42,6 @@ def parse_txt_content(content):
             result.append(line)
     return result
 
-def parse_m3u_content(content):
-    """解析 M3U 格式，提取频道名和地址"""
-    lines = content.splitlines()
-    result = []
-    i = 0
-    while i < len(lines):
-        line = lines[i].strip()
-        if not line:
-            i += 1
-            continue
-        if line.startswith('#EXTINF'):
-            title = extract_title(line)
-            i += 1
-            if i < len(lines):
-                url_line = lines[i].strip()
-                if url_line.startswith('http://') or url_line.startswith('https://'):
-                    result.append(f"{title},{url_line}")
-        i += 1
-    return result
-
 def load_local_sources():
     """加载本地手动维护的源"""
     all_channels = []
@@ -70,10 +49,7 @@ def load_local_sources():
         try:
             with open(filename, 'r', encoding='utf-8') as f:
                 content = f.read()
-                if filename.endswith('.m3u'):
-                    channels = parse_m3u_content(content)
-                else:
-                    channels = parse_txt_content(content)
+                channels = parse_txt_content(content)
                 print(f"   📂 从 {filename} 加载了 {len(channels)} 个频道")
                 all_channels.extend(channels)
         except FileNotFoundError:
@@ -83,70 +59,64 @@ def load_local_sources():
     return all_channels
 
 def fetch_online_sources():
-    """抓取在线源"""
-    all_lines = []
+    """抓取在线源，返回解析后的频道列表"""
+    all_channels = []
     for url in ONLINE_URLS:
         try:
             print(f"   📡 正在抓取: {url}")
             resp = requests.get(url, timeout=30)
             resp.raise_for_status()
             lines = [line.strip() for line in resp.text.splitlines() if line.strip()]
-            all_lines.extend(lines)
-            print(f"   ✅ 从 {url} 获取到 {len(lines)} 行")
+            
+            # 解析在线源（M3U 格式）
+            i = 0
+            while i < len(lines):
+                line = lines[i]
+                if not line:
+                    i += 1
+                    continue
+                if line.startswith('#EXTINF'):
+                    title = extract_title(line)
+                    # 检查是否包含保留关键词
+                    if KEEP_KEYWORDS and not any(k in line for k in KEEP_KEYWORDS):
+                        i += 1
+                        if i < len(lines) and (lines[i].startswith('http://') or lines[i].startswith('https://')):
+                            i += 1
+                        continue
+                    i += 1
+                    if i < len(lines):
+                        url_line = lines[i]
+                        if url_line.startswith('http://') or url_line.startswith('https://'):
+                            all_channels.append(f"{title},{url_line}")
+                i += 1
+            print(f"   ✅ 从 {url} 获取到 {len(all_channels)} 个频道（累计）")
         except Exception as e:
             print(f"   ❌ 抓取失败: {e}")
-    return all_lines
+    return all_channels
 
-def merge_channels(txt_channels, m3u_lines):
-    """
-    txt_channels: 从本地加载的 TXT 格式频道列表 ['频道名,地址', ...]
-    m3u_lines: 从在线源抓取的原始行（包含 #EXTINF 和 URL）
-    """
-    # 收集已存在的频道名（用于去重）
-    existing_names = set()
-    for ch in txt_channels:
+def merge_channels(local_channels, online_channels):
+    """合并频道：本地优先，去重"""
+    # 用字典存储，键为频道名，值为完整行
+    channel_map = {}
+    
+    # 先添加本地频道
+    for ch in local_channels:
         if ',' in ch:
             name = ch.split(',')[0].strip()
-            existing_names.add(name)
+            channel_map[name] = ch
+            print(f"   📌 本地: {name}")
     
-    # 解析在线源，只添加不重复的频道
+    # 再添加在线频道（不重复的）
     added = 0
-    i = 0
-    while i < len(m3u_lines):
-        line = m3u_lines[i].strip()
-        if not line:
-            i += 1
-            continue
-        
-        if line.startswith('#EXTINF'):
-            title = extract_title(line)
-            # 检查是否包含保留关键词
-            if KEEP_KEYWORDS and not any(k in line for k in KEEP_KEYWORDS):
-                i += 1
-                if i < len(m3u_lines) and (m3u_lines[i].strip().startswith('http://') or m3u_lines[i].strip().startswith('https://')):
-                    i += 1
-                continue
-            
-            # 检查是否已存在
-            if title not in existing_names:
-                # 获取 URL
-                i += 1
-                if i < len(m3u_lines):
-                    url_line = m3u_lines[i].strip()
-                    if url_line.startswith('http://') or url_line.startswith('https://'):
-                        txt_channels.append(f"{title},{url_line}")
-                        existing_names.add(title)
-                        added += 1
-            else:
-                # 跳过已存在的
-                i += 1
-                if i < len(m3u_lines) and (m3u_lines[i].strip().startswith('http://') or m3u_lines[i].strip().startswith('https://')):
-                    i += 1
-        else:
-            i += 1
+    for ch in online_channels:
+        if ',' in ch:
+            name = ch.split(',')[0].strip()
+            if name not in channel_map:
+                channel_map[name] = ch
+                added += 1
     
     print(f"   🔄 从在线源补充了 {added} 个新频道")
-    return txt_channels
+    return list(channel_map.values())
 
 def generate_m3u(txt_content):
     """从 TXT 格式生成 M3U 格式"""
@@ -171,17 +141,17 @@ def generate_m3u(txt_content):
 def main():
     print("🚀 开始生成直播源...")
     
-    # 1. 加载本地手动源
-    print("\n📂 加载手动维护的源...")
-    txt_channels = load_local_sources()
+    # 1. 加载本地精选源
+    print("\n📂 加载精选源...")
+    local_channels = load_local_sources()
     
     # 2. 抓取在线源
     print("\n📡 抓取在线源...")
-    online_m3u_lines = fetch_online_sources()
+    online_channels = fetch_online_sources()
     
-    # 3. 合并（去重）
-    print("\n🔄 合并频道（本地优先，去重）...")
-    merged = merge_channels(txt_channels, online_m3u_lines)
+    # 3. 合并（本地优先，去重）
+    print("\n🔄 合并频道...")
+    merged = merge_channels(local_channels, online_channels)
     
     # 4. 保存 TXT
     txt_content = "\n".join(merged)
