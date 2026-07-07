@@ -22,7 +22,6 @@ for url in URLS:
             for line in lines:
                 if any(k in line for k in KEEP_KEYWORDS):
                     all_lines.append(line)
-                # 无条件提取所有 http 链接到 txt
                 if "http" in line:
                     parts = line.split(",", 1)
                     link = parts[-1].strip() if len(parts) > 1 else line
