@@ -11,8 +11,7 @@ from datetime import datetime
 # 🔴 在这里填写你的直播源地址，可以填多个，一行一个
 SOURCE_URLS = [
     # 以下地址仅为示例，你需要替换为自己确认可用的地址
-    "https://raw.giteeusercontent.com/yunkaixx/tv/raw/master/live.txt",
-    # "https://另一个可靠的直播源地址",
+    "https://0701.tv1288.xyz",
 ]
 
 # 可选：如果你想过滤频道，可以在这里写关键词，比如 ["CCTV", "卫视"]，留空则不过滤
