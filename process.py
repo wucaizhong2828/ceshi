@@ -12,7 +12,7 @@ URLS = [
 KEEP_KEYWORDS = ["CCTV", "央视", "卫视", "凤凰", "TVB", "中天", "东森", "新闻"]
 
 all_lines = ["#EXTM3U", f"# Updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}"]
-txt_lines = ["# IPTV 直播源链接列表", f"# 生成时间: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')}"]
+txt_lines = ["# IPTV 直播源 - 生成时间: " + datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')]
 
 for url in URLS:
     try:
@@ -22,10 +22,11 @@ for url in URLS:
             for line in lines:
                 if any(k in line for k in KEEP_KEYWORDS):
                     all_lines.append(line)
+                    # 提取链接
                     if "," in line:
-                        link = line.split(",", 1)[1].strip()
-                        if link.startswith("http"):
-                            txt_lines.append(link)
+                        parts = line.split(",", 1)
+                        if len(parts) > 1 and parts[1].strip().startswith("http"):
+                            txt_lines.append(parts[1].strip())
     except Exception as e:
         print(f"获取失败: {e}")
 
@@ -37,4 +38,4 @@ with open("iptv_playlist.m3u", "w", encoding="utf-8") as f:
 with open("iptv_playlist.txt", "w", encoding="utf-8") as f:
     f.write("\n".join(txt_lines) + "\n")
 
-print(f"完成！m3u {len(all_lines)} 行，txt {len(txt_lines)-2} 个链接")
+print(f"完成！m3u {len(all_lines)} 行，txt {len(txt_lines)-1} 个链接")
