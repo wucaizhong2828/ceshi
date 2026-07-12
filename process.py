@@ -6,7 +6,7 @@ print("开始生成直播源...")
 # ================== 配置区 ==================
 # 手动维护的精选源（已禁用）
 LOCAL_SOURCES = [
-    # "tv1.txt",  # 已注释，不再使用
+    # "tv1.txt",
 ]
 
 # 自动抓取的在线源
@@ -14,8 +14,13 @@ ONLINE_URLS = [
     "https://zb.7778.uk/",
 ]
 
-# 保留关键词（频道名包含这些才保留，留空则全部保留）
-KEEP_KEYWORDS = ["CCTV", "央视", "卫视", "凤凰", "TVB", "中天", "东森", "新闻", "北京", "东方", "江苏", "浙江", "湖南", "湖北", "广东", "广西", "黑龙江", "海南", "重庆", "深圳"]
+# 保留关键词（精确控制，只保留央视和指定卫视）
+KEEP_KEYWORDS = [
+    "CCTV", "央视",
+    "北京卫视", "东方卫视", "江苏卫视", "浙江卫视", "湖南卫视",
+    "湖北卫视", "广东卫视", "广西卫视", "黑龙江卫视", "海南卫视",
+    "重庆卫视", "深圳卫视", "厦门卫视"
+]
 
 OUTPUT_M3U = "tv.m3u"
 OUTPUT_TXT = "tv.txt"
@@ -94,6 +99,9 @@ def fetch_online_sources():
                         parts = line.split(',', 1)
                         if len(parts) == 2:
                             title, url_addr = parts[0].strip(), parts[1].strip()
+                            # 跳过分类标记行
+                            if url_addr == '#genre#':
+                                continue
                             if url_addr.startswith('http://') or url_addr.startswith('https://'):
                                 if KEEP_KEYWORDS:
                                     if any(k in title for k in KEEP_KEYWORDS):
