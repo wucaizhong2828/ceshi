@@ -2,15 +2,14 @@ name: 更新 IPTV
 
 on:
   schedule:
-    - cron: '0 16 * * *'  # UTC 16:00 = 北京时间 0:00
-  workflow_dispatch:  # 允许手动触发
+    - cron: '0 16 * * *'
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      actions: read  # 为了上传日志
 
     steps:
       - name: 检出代码
@@ -22,55 +21,27 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'  # 自动缓存 pip
+          # ⚠️ 注意：这里没有 cache: 'pip' 这一行
 
       - name: 安装依赖
         run: |
           python -m pip install --upgrade pip
           pip install requests
-          # 如果有 requirements.txt，用这一行
-          # pip install -r requirements.txt
 
       - name: 运行脚本
-        id: run_script
         run: |
-          python process.py 2>&1 | tee run.log
-        continue-on-error: true  # 允许失败，继续执行后续步骤
-
-      - name: 检查生成的文件
-        run: |
-          if [ ! -f tv.m3u ] || [ ! -f tv.txt ]; then
-            echo "❌ 文件生成失败！"
-            exit 1
-          fi
-          echo "✅ 文件生成成功"
+          python process.py
 
       - name: 提交更新
-        if: success()  # 只有脚本成功时才提交
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add tv.m3u tv.txt
           if git diff --staged --quiet; then
-            echo "📭 没有变化，跳过提交"
+            echo "没有变化"
           else
-            git commit -m "📺 自动更新直播源 $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')"
+            git commit -m "📺 自动更新直播源 $(date +'%Y-%m-%d %H:%M:%S')"
             git push
-            echo "✅ 提交成功"
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: 上传运行日志
-        if: always()  # 无论成功失败都上传
-        uses: actions/upload-artifact@v4
-        with:
-          name: run-log
-          path: run.log
-          retention-days: 7  # 保留7天
-
-      - name: 发送失败通知（可选）
-        if: failure() && github.event_name == 'schedule'
-        run: |
-          echo "⚠️ 定时任务执行失败，请检查日志"
-          # 这里可以添加 Telegram/邮件通知
