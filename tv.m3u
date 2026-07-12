@@ -1,229 +1,5 @@
 #EXTM3U
-# Updated: 2026-07-12 23:38:30 UTC
-#EXTINF:-1 group-title="默认频道",CCTV-1
-http://69.30.245.50/live/cctv1.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV-2
-http://69.30.245.50/live/cctv2.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV-3
-http://69.30.245.50/live/cctv3.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV-4
-http://69.30.245.50/live/cctv4.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV-5
-http://69.30.245.50/live/cctv5.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV-5+
-http://69.30.246.194/live/cctv5p.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV-6
-http://69.30.245.50/live/cctv6.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV-7
-http://69.30.245.50/live/cctv7.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV-8
-http://69.30.245.50/live/cctv8.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV-9
-http://69.30.245.50/live/cctv9.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV-10
-http://69.30.245.50/live/cctv10.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV-11
-http://69.30.246.194/live/cctv11.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV-12
-http://69.30.246.194/live/cctv12.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV-13
-http://69.30.246.194/live/cctv13.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV-14
-http://69.30.246.194/live/cctv14.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV-15
-http://69.30.246.194/live/cctv15.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV-16
-http://69.30.246.194/live/cctv16.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV-17
-http://69.30.246.194/live/cctv17.m3u8
-#EXTINF:-1 group-title="默认频道",东南卫视
-http://223.14.160.39:9901/tsfile/live/0137_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",东方卫视
-http://69.30.246.194/live/dfws.m3u8
-#EXTINF:-1 group-title="默认频道",云南卫视
-http://223.14.160.39:9901/tsfile/live/0119_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",兵团卫视
-http://139.214.182.224:9901/tsfile/live/1097_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",内蒙古卫视
-http://175.10.171.199:9901/tsfile/live/0109_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",北京卫视
-http://173.208.212.130:8181/720p/bjws.m3u8
-#EXTINF:-1 group-title="默认频道",吉林卫视
-http://223.14.160.39:9901/tsfile/live/0116_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",四川卫视
-http://223.14.160.39:9901/tsfile/live/0123_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",天津卫视
-http://173.208.212.130:8181/720p/tjws.m3u8
-#EXTINF:-1 group-title="默认频道",宁夏卫视
-http://223.14.160.39:9901/tsfile/live/0112_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",安徽卫视
-http://173.208.212.130:8181/720p/ahws.m3u8
-#EXTINF:-1 group-title="默认频道",山东卫视
-http://173.208.212.130:8181/720p/sdws.m3u8
-#EXTINF:-1 group-title="默认频道",山西卫视
-http://223.14.160.39:9901/tsfile/live/0118_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",广东卫视
-http://173.208.212.130:8181/720p/gdws.m3u8
-#EXTINF:-1 group-title="默认频道",广西卫视
-http://139.214.182.224:9901/tsfile/live/1086_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",新疆卫视
-http://139.214.182.224:9901/tsfile/live/1099_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",江苏卫视
-http://69.30.246.194/live/jsws.m3u8
-#EXTINF:-1 group-title="默认频道",江西卫视
-http://223.14.160.39:9901/tsfile/live/0138_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",河北卫视
-http://173.208.212.130:8181/720p/hews.m3u8
-#EXTINF:-1 group-title="默认频道",河南卫视
-http://173.208.212.130:8181/720p/haws.m3u8
-#EXTINF:-1 group-title="默认频道",浙江卫视
-http://69.30.246.194/live/zjws.m3u8
-#EXTINF:-1 group-title="默认频道",深圳卫视
-http://173.208.212.130:8181/720p/szws.m3u8
-#EXTINF:-1 group-title="默认频道",湖北卫视
-http://223.14.160.39:9901/tsfile/live/0132_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",湖南卫视
-http://69.30.246.194/live/hnws.m3u8
-#EXTINF:-1 group-title="默认频道",甘肃卫视
-http://139.214.182.224:9901/tsfile/live/1098_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",贵州卫视
-http://223.14.160.39:9901/tsfile/live/0120_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",辽宁卫视
-http://139.214.182.224:9901/tsfile/live/1069_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",重庆卫视
-http://223.14.160.39:9901/tsfile/live/0142_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",陕西卫视
-http://139.214.182.224:9901/tsfile/live/1095_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",青海卫视
-http://139.214.182.224:9901/tsfile/live/1096_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",黑龙江卫视
-http://223.14.160.39:9901/tsfile/live/0143_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",三沙卫视
-http://42.193.195.163:3000/961023778
-#EXTINF:-1 group-title="默认频道",大湾区卫视
-http://42.193.195.163:3000/608917627
-#EXTINF:-1 group-title="默认频道",海南卫视
-http://42.193.195.163:3000/947472502
-#EXTINF:-1 group-title="默认频道",CHC动作电影
-http://69.30.245.50/live/chcdz.m3u8
-#EXTINF:-1 group-title="默认频道",CHC家庭影院
-http://69.30.245.50/live/chcjt.m3u8
-#EXTINF:-1 group-title="默认频道",CHC影迷电影
-http://69.30.245.50/live/chcym.m3u8
-#EXTINF:-1 group-title="默认频道",世界地理
-http://173.208.212.130:8181/720p/sjdl.m3u8
-#EXTINF:-1 group-title="默认频道",动漫秀场
-http://139.214.182.224:9901/tsfile/live/1020_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",央视台球
-http://173.208.212.130:8181/720p/ystq.m3u8
-#EXTINF:-1 group-title="默认频道",央视文化精品
-http://173.208.212.130:8181/720p/ysjp.m3u8
-#EXTINF:-1 group-title="默认频道",央视精品
-http://139.214.182.224:9901/tsfile/live/1028_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",女性时尚
-http://173.208.212.130:8181/720p/nxss.m3u8
-#EXTINF:-1 group-title="默认频道",快乐垂钓
-http://139.214.182.224:9901/tsfile/live/1054_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",怀旧剧场
-http://173.208.212.130:8181/720p/hjjc.m3u8
-#EXTINF:-1 group-title="默认频道",梨园频道
-http://139.214.182.224:9901/tsfile/live/1051_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",武术世界
-http://139.214.182.224:9901/tsfile/live/1022_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",游戏风云
-http://139.214.182.224:9901/tsfile/live/1044_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",电视指南
-http://139.214.182.224:9901/tsfile/live/1027_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",第一剧场
-http://173.208.212.130:8181/720p/dyjc.m3u8
-#EXTINF:-1 group-title="默认频道",茶频道
-http://139.214.182.224:9901/tsfile/live/1056_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",金色学堂
-http://139.214.182.224:9901/tsfile/live/1023_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",金鹰纪实
-http://139.214.182.224:9901/tsfile/live/1041_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",风云剧场
-http://173.208.212.130:8181/720p/fyjc.m3u8
-#EXTINF:-1 group-title="默认频道",风云足球
-http://173.208.212.130:8181/720p/fyzq.m3u8
-#EXTINF:-1 group-title="默认频道",风云音乐
-http://173.208.212.130:8181/720p/fyyy.m3u8
-#EXTINF:-1 group-title="默认频道",凤凰中文
-http://61.178.227.57:9901/tsfile/live/1013_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",凤凰资讯
-http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="默认频道",MOMO親子台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=231
-#EXTINF:-1 group-title="默认频道",TVBS
-https://ha.msbot.dpdns.org/4gtv_api.php?id=227
-#EXTINF:-1 group-title="默认频道",三立綜合台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=169
-#EXTINF:-1 group-title="默认频道",中天新聞台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=260
-#EXTINF:-1 group-title="默认频道",中視
-https://ha.msbot.dpdns.org/4gtv_api.php?id=4
-#EXTINF:-1 group-title="默认频道",人間衛視
-https://ha.msbot.dpdns.org/4gtv_api.php?id=210
-#EXTINF:-1 group-title="默认频道",八大綜合台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=114
-#EXTINF:-1 group-title="默认频道",公視
-https://ha.msbot.dpdns.org/4gtv_api.php?id=7
-#EXTINF:-1 group-title="默认频道",寰宇新聞台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=262
-#EXTINF:-1 group-title="默认频道",東森新聞
-https://ha.msbot.dpdns.org/4gtv_api.php?id=234
-#EXTINF:-1 group-title="默认频道",民視
-https://ha.msbot.dpdns.org/4gtv_api.php?id=1
-#EXTINF:-1 group-title="默认频道",華視
-https://ha.msbot.dpdns.org/4gtv_api.php?id=6
-#EXTINF:-1 group-title="默认频道",鏡電視新聞台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=268
-#EXTINF:-1 group-title="默认频道",靖天綜合台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=21
-#EXTINF:-1 group-title="默认频道",DreamWorks 夢工廠動畫
-https://ha.msbot.dpdns.org/4gtv_api.php?id=282
-#EXTINF:-1 group-title="默认频道",ELTV生活英語台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=490
-#EXTINF:-1 group-title="默认频道",LiveABC互動英語頻道
-https://ha.msbot.dpdns.org/4gtv_api.php?id=188
-#EXTINF:-1 group-title="默认频道",Nick Jr. 兒童頻道
-https://ha.msbot.dpdns.org/4gtv_api.php?id=219
-#EXTINF:-1 group-title="默认频道",尼克兒童頻道
-https://ha.msbot.dpdns.org/4gtv_api.php?id=185
-#EXTINF:-1 group-title="默认频道",精選動漫台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=204
-#EXTINF:-1 group-title="默认频道",經典卡通台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=202
-#EXTINF:-1 group-title="默认频道",達文西頻道
-https://ha.msbot.dpdns.org/4gtv_api.php?id=11
-#EXTINF:-1 group-title="默认频道",靖洋卡通Nice Bingo
-https://ha.msbot.dpdns.org/4gtv_api.php?id=59
-#EXTINF:-1 group-title="默认频道",CinemaWorld
-https://ha.msbot.dpdns.org/4gtv_api.php?id=225
-#EXTINF:-1 group-title="默认频道",GagaOOLala 精選LGBTQ+好劇
-https://ha.msbot.dpdns.org/4gtv_api.php?id=478
-#EXTINF:-1 group-title="默认频道",HITS頻道
-https://ha.msbot.dpdns.org/4gtv_api.php?id=186
-#EXTINF:-1 group-title="默认频道",My Cinema Europe HD 我的歐洲電影
-https://ha.msbot.dpdns.org/4gtv_api.php?id=463
-#EXTINF:-1 group-title="默认频道",ROCK Action
-https://ha.msbot.dpdns.org/4gtv_api.php?id=180
-#EXTINF:-1 group-title="默认频道",ROCK Xstream搖滾極限頻道
-https://ha.msbot.dpdns.org/4gtv_api.php?id=485
-#EXTINF:-1 group-title="默认频道",amc電影台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=39
-#EXTINF:-1 group-title="默认频道",影迷數位紀實台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=445
-#EXTINF:-1 group-title="默认频道",影迷數位電影台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=40
-#EXTINF:-1 group-title="默认频道",經典電影台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=201
-#EXTINF:-1 group-title="默认频道",視納華仁紀實頻道
-https://ha.msbot.dpdns.org/4gtv_api.php?id=38
-#EXTINF:-1 group-title="默认频道",采昌影劇台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=25
-#EXTINF:-1 group-title="默认频道",金光布袋戲
-https://ha.msbot.dpdns.org/4gtv_api.php?id=236
+# Updated: 2026-07-12 23:41:55 UTC
 #EXTINF:-1 group-title="默认频道",CCTV1
 http://live.bypbwxx.top/live/jmysp1.php?token=e7f5a89ef1f9a370b35f7958cf16cd
 #EXTINF:-1 group-title="默认频道",CCTV2
@@ -270,12 +46,82 @@ http://live.bypbwxx.top/live/jmysp1.php?token=6b5ab5fe9936ad69547feccea93600
 http://live.bypbwxx.top/live/jmysp1.php?token=065bfe3dc57c68159b567a37216cc8
 #EXTINF:-1 group-title="默认频道",CCTV怀旧剧场
 http://live.bypbwxx.top/live/jmysp1.php?token=74072339197790fbaa957c2e7626a2
+#EXTINF:-1 group-title="默认频道",北京卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=6579b94647cfec64e0a818f19ad352
+#EXTINF:-1 group-title="默认频道",东方卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=1b42dfa3ff65779f4fdf0776b7034e
+#EXTINF:-1 group-title="默认频道",江苏卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=64f795f6e0042055446fc12c4fcc77
+#EXTINF:-1 group-title="默认频道",浙江卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=5d66485919ca5fe908960a0346cb8f
+#EXTINF:-1 group-title="默认频道",湖南卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=c328e50d228ca935098193704d390d
+#EXTINF:-1 group-title="默认频道",湖北卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=86af16aadc698b895f80d1e5a29347
+#EXTINF:-1 group-title="默认频道",广东卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=ef7cbb99983708d60791e2cbe9c1a5
+#EXTINF:-1 group-title="默认频道",广西卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=e4330725b87be5d68c85b460f19738
+#EXTINF:-1 group-title="默认频道",黑龙江卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=d55effbb3f0bc43a4f26e86bf54ce9
+#EXTINF:-1 group-title="默认频道",海南卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=6e844d87daee3486bb61a571bcbaff
+#EXTINF:-1 group-title="默认频道",重庆卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=16656f117f72ab6c6c40fd6975f7a6
+#EXTINF:-1 group-title="默认频道",深圳卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=2dceb1e9261c40dc6c86e3898344a5
+#EXTINF:-1 group-title="默认频道",四川卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=b44a4c61501e9f31ed0443ecec1ae7
+#EXTINF:-1 group-title="默认频道",河南卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=1d81fa419c2e80c329f0594c77bac0
+#EXTINF:-1 group-title="默认频道",东南卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=d89a1c4f2f6f0aaf362b94cb1493fd
+#EXTINF:-1 group-title="默认频道",贵州卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=3e0a80069ff592845539634efb93d4
+#EXTINF:-1 group-title="默认频道",江西卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=539588b8923f8e4d8cd778370a046b
+#EXTINF:-1 group-title="默认频道",辽宁卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=76ac9831ca074c965cb1dc4c2a2e30
+#EXTINF:-1 group-title="默认频道",安徽卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=dd248d50d5ec12d664252f23b09d7c
+#EXTINF:-1 group-title="默认频道",河北卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=044bc22145926d4ded5cb367083d01
+#EXTINF:-1 group-title="默认频道",山东卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=cd42cc7a80787181335f8cc01b09db
+#EXTINF:-1 group-title="默认频道",天津卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=05d04986001bb4e68051d1153eaa16
+#EXTINF:-1 group-title="默认频道",陕西卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=94a9f5f2a811aff6d869e56964b2dd
+#EXTINF:-1 group-title="默认频道",内蒙古卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=bd47662a8a83cf9ea64c6ae0892416
+#EXTINF:-1 group-title="默认频道",云南卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=89e65a23345377863172ab1cfcddfb
+#EXTINF:-1 group-title="默认频道",吉林卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=daeae42a5b086ed8616487cae0b169
+#EXTINF:-1 group-title="默认频道",青海卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=e5cdc8785089e8eba316287031df76
+#EXTINF:-1 group-title="默认频道",宁夏卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=1c15223584a7dc322f84f9010c5cd7
+#EXTINF:-1 group-title="默认频道",山西卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=d80a4ce1f6c9beb2ed0c52eb649de1
+#EXTINF:-1 group-title="默认频道",新疆卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=66a54272c137f9a11c3dddf074e616
 #EXTINF:-1 group-title="默认频道",西藏卫视
 http://live.bypbwxx.top/live/jmysp1.php?token=295cb96831a6c1a3f9f1864f189c12
+#EXTINF:-1 group-title="默认频道",兵团卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=c136b2cb2fde736c66c40fadfe2162
+#EXTINF:-1 group-title="默认频道",大湾区卫视
+http://106.13.88.102/9.php?pid=608917627
+#EXTINF:-1 group-title="默认频道",甘肃卫视
+http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="默认频道",厦门卫视
 http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
+#EXTINF:-1 group-title="默认频道",三沙卫视
+http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 #EXTINF:-1 group-title="默认频道",湖北影视
 http://38.75.136.137:98/gslb/dsdqpub/hbys.m3u8?auth=testpub
+#EXTINF:-1 group-title="默认频道",央视台球
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 #EXTINF:-1 group-title="默认频道",云南卫视-
 http://60.10.139.113:8801/hls/51/index.m3u8
 #EXTINF:-1 group-title="默认频道",陕西卫视-
