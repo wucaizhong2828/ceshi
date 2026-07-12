@@ -14,6 +14,7 @@ ONLINE_URLS = [
     "https://iptv-org.github.io/iptv/countries/cn.m3u",
     "https://iptv-org.github.io/iptv/countries/hk.m3u",
     "https://iptv-org.github.io/iptv/countries/tw.m3u",
+    "https://zb.7778.uk/",
 ]
 
 # 保留关键词（频道名包含这些才保留，留空则全部保留）
