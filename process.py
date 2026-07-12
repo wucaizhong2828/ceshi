@@ -11,8 +11,8 @@ LOCAL_SOURCES = [
 
 # 自动抓取的在线源
 ONLINE_URLS = [
-    "https://raw.githubusercontent.com/wucaizhong2828/ceshi/refs/heads/main/tv1.txt",
     "https://zb.7778.uk/",
+    
 ]
 
 # 保留关键词（频道名包含这些才保留，留空则全部保留）
