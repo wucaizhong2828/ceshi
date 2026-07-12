@@ -11,9 +11,7 @@ LOCAL_SOURCES = [
 
 # 自动抓取的在线源
 ONLINE_URLS = [
-    "https://iptv-org.github.io/iptv/countries/cn.m3u",
-    "https://iptv-org.github.io/iptv/countries/hk.m3u",
-    "https://iptv-org.github.io/iptv/countries/tw.m3u",
+    "https://raw.githubusercontent.com/wucaizhong2828/ceshi/refs/heads/main/tv1.txt",
     "https://zb.7778.uk/",
 ]
 
