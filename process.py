@@ -10,7 +10,48 @@ ONLINE_URLS = [
 ]
 OUTPUT_M3U = "tv.m3u"
 OUTPUT_TXT = "tv.txt"
+
+# 黑名单：包含这些关键词的行将被过滤掉
+BLACKLIST_KEYWORDS = [
+    "影视仓", "接口大全", "panurl",
+    "柳河", "综合",
+]
 # ===========================================
+
+def is_valid_channel(line):
+    """检查是否为有效的频道行"""
+    if ',' not in line:
+        return False
+    
+    parts = line.split(',', 1)
+    if len(parts) != 2:
+        return False
+    
+    title, url = parts[0].strip(), parts[1].strip()
+    
+    # 检查黑名单关键词
+    for keyword in BLACKLIST_KEYWORDS:
+        if keyword in line:
+            return False
+    
+    # 检查 URL 是否有效
+    if not (url.startswith('http://') or url.startswith('https://') or url == '#genre#'):
+        return False
+    
+    # 检查是否包含乱码（包含特殊符号或过长）
+    if len(title) > 50 or len(url) > 200:
+        return False
+    
+    # 检查是否包含乱码字符（非中文、英文、数字、常用符号）
+    import re
+    # 如果标题包含大量特殊符号，视为乱码
+    if re.search(r'[^\u4e00-\u9fa5a-zA-Z0-9\-_\s\+\#\.\:]', title):
+        # 如果特殊符号占比过高，过滤掉
+        special_chars = re.findall(r'[^\u4e00-\u9fa5a-zA-Z0-9\-_\s\+\#\.\:]', title)
+        if len(special_chars) > len(title) * 0.3:  # 特殊符号超过30%
+            return False
+    
+    return True
 
 def fetch_online_sources():
     """抓取多个在线源"""
@@ -25,9 +66,10 @@ def fetch_online_sources():
 
             for line in lines:
                 if ',' in line and not line.startswith('#'):
-                    all_channels.append(line)
+                    if is_valid_channel(line):
+                        all_channels.append(line)
 
-            print(f"   ✅ 从 {url} 获取了 {len(lines)} 行（累计 {len(all_channels)} 个频道）")
+            print(f"   ✅ 从 {url} 获取了 {len(all_channels)} 个有效频道（累计）")
         except Exception as e:
             print(f"   ❌ 抓取失败: {e}")
     return all_channels
