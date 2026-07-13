@@ -1,5 +1,6 @@
 import requests
 from datetime import datetime
+import re
 
 print("开始生成直播源...")
 
@@ -13,7 +14,24 @@ OUTPUT_TXT = "tv.txt"
 
 # 黑名单：包含这些关键词的行将被过滤掉
 BLACKLIST_KEYWORDS = [
+    # 影视仓相关
     "影视仓", "接口大全", "panurl",
+    # 地方频道 - 地方
+    "安徽地方", "广东地方", "贵州地方", "海南地方", "黑龙江地方",
+    "河南地方", "湖北地方", "湖南地方", "江苏地方", "吉林地方",
+    "山东地方", "陕西地方", "山西地方", "四川地方", "云南地方",
+    "新疆地方", "浙江地方",
+    # 地方频道 - 频道
+    "广东频道", "浙江频道", "上海频道", "北京频道",
+    "江苏频道", "山东频道", "河南频道", "河北频道",
+    "山西频道", "内蒙古频道", "黑龙江频道", "吉林频道",
+    # 其他地方台
+    "地方", "新闻综合", "经济", "生活", "公共",
+    "常山", "永康", "温州", "苍南", "金华", "台州", "玉环",
+    "丽水", "龙泉", "松阳", "衢州", "舟山", "普陀",
+    "东莞", "关韶", "绍兴", "武义", "平湖", "萧山",
+    "余姚", "嵊州", "诸暨", "上虞", "兰溪", "江阴",
+    "烟台", "菏泽", "舞钢", "舞阳", "浥池", "沁阳", "义马",
     "柳河", "综合",
 ]
 # ===========================================
@@ -22,35 +40,32 @@ def is_valid_channel(line):
     """检查是否为有效的频道行"""
     if ',' not in line:
         return False
-    
+
     parts = line.split(',', 1)
     if len(parts) != 2:
         return False
-    
+
     title, url = parts[0].strip(), parts[1].strip()
-    
+
     # 检查黑名单关键词
     for keyword in BLACKLIST_KEYWORDS:
         if keyword in line:
             return False
-    
+
     # 检查 URL 是否有效
     if not (url.startswith('http://') or url.startswith('https://') or url == '#genre#'):
         return False
-    
+
     # 检查是否包含乱码（包含特殊符号或过长）
     if len(title) > 50 or len(url) > 200:
         return False
-    
-    # 检查是否包含乱码字符（非中文、英文、数字、常用符号）
-    import re
-    # 如果标题包含大量特殊符号，视为乱码
+
+    # 检查是否包含乱码字符
     if re.search(r'[^\u4e00-\u9fa5a-zA-Z0-9\-_\s\+\#\.\:]', title):
-        # 如果特殊符号占比过高，过滤掉
         special_chars = re.findall(r'[^\u4e00-\u9fa5a-zA-Z0-9\-_\s\+\#\.\:]', title)
-        if len(special_chars) > len(title) * 0.3:  # 特殊符号超过30%
+        if len(special_chars) > len(title) * 0.3:
             return False
-    
+
     return True
 
 def fetch_online_sources():
