@@ -1,112 +1,2552 @@
 #EXTM3U
-# Updated: 2026-07-12 23:54:29 UTC
-#EXTINF:-1 group-title="默认频道",CCTV1
+# Updated: 2026-07-13 00:08:38 UTC
+#EXTINF:-1 group-title="影视仓官网",影视仓接口大全
+https://www.panurl.cn/view.php/2464249766fc424a53a9316dfeb4cfc7.mp4
+#EXTINF:-1 group-title="影视仓官网",api.starlink.fan
+https://www.panurl.cn/view.php/2464249766fc424a53a9316dfeb4cfc7.mp4
+#EXTINF:-1 group-title="央视频道",CCTV1
 http://live.bypbwxx.top/live/jmysp1.php?token=e7f5a89ef1f9a370b35f7958cf16cd
-#EXTINF:-1 group-title="默认频道",CCTV2
+#EXTINF:-1 group-title="央视频道",CCTV2
 http://live.bypbwxx.top/live/jmysp1.php?token=df165b4e2a67edcf22b0d05fba8abf
-#EXTINF:-1 group-title="默认频道",CCTV3
+#EXTINF:-1 group-title="央视频道",CCTV3
 http://live.bypbwxx.top/live/jmysp1.php?token=a79d85ca97d2fb3945c8ba7b381ceb
-#EXTINF:-1 group-title="默认频道",CCTV4
+#EXTINF:-1 group-title="央视频道",CCTV4
 http://live.bypbwxx.top/live/jmysp1.php?token=ca2ae2a498927f622ccbaec449942c
-#EXTINF:-1 group-title="默认频道",CCTV5
+#EXTINF:-1 group-title="央视频道",CCTV5
 http://live.bypbwxx.top/live/jmysp1.php?token=b813e1473d592972ff3c49ad9d91eb
-#EXTINF:-1 group-title="默认频道",CCTV5+
+#EXTINF:-1 group-title="央视频道",CCTV5+
 http://live.bypbwxx.top/live/jmysp1.php?token=e2bcc960f12d7b3ebdd8ce5022dc02
-#EXTINF:-1 group-title="默认频道",CCTV6
+#EXTINF:-1 group-title="央视频道",CCTV6
 http://live.bypbwxx.top/live/jmysp1.php?token=05df4abc3c822a97c91469a9dc095f
-#EXTINF:-1 group-title="默认频道",CCTV7
+#EXTINF:-1 group-title="央视频道",CCTV7
 http://live.bypbwxx.top/live/jmysp1.php?token=78ba33d773b7a1fbcbbe35de81206f
-#EXTINF:-1 group-title="默认频道",CCTV8
+#EXTINF:-1 group-title="央视频道",CCTV8
 http://live.bypbwxx.top/live/jmysp1.php?token=be0cf22d8b5682e9da44a7f1c4d7db
-#EXTINF:-1 group-title="默认频道",CCTV9
+#EXTINF:-1 group-title="央视频道",CCTV9
 http://live.bypbwxx.top/live/jmysp1.php?token=5543a8e14d5d3a9027ebfec7b77e34
-#EXTINF:-1 group-title="默认频道",CCTV10
+#EXTINF:-1 group-title="央视频道",CCTV10
 http://live.bypbwxx.top/live/jmysp1.php?token=6ecd3d7b30f20952876c187c4fe42c
-#EXTINF:-1 group-title="默认频道",CCTV11
+#EXTINF:-1 group-title="央视频道",CCTV11
 http://live.bypbwxx.top/live/jmysp1.php?token=c1d203ccb39a11020c9f5dd86736dd
-#EXTINF:-1 group-title="默认频道",CCTV12
+#EXTINF:-1 group-title="央视频道",CCTV12
 http://live.bypbwxx.top/live/jmysp1.php?token=3cbafddcac1803e316e2ebce746df7
-#EXTINF:-1 group-title="默认频道",CCTV13
+#EXTINF:-1 group-title="央视频道",CCTV13
 http://live.bypbwxx.top/live/jmysp1.php?token=3b0fa361e96254b76b5331b2dbc279
-#EXTINF:-1 group-title="默认频道",CCTV14
+#EXTINF:-1 group-title="央视频道",CCTV14
 http://live.bypbwxx.top/live/jmysp1.php?token=4a171209dfcefa04a7f9114e0c6d19
-#EXTINF:-1 group-title="默认频道",CCTV15
+#EXTINF:-1 group-title="央视频道",CCTV15
 http://live.bypbwxx.top/live/jmysp1.php?token=30695d0d64332e55e3990042d92b89
-#EXTINF:-1 group-title="默认频道",CCTV16
+#EXTINF:-1 group-title="央视频道",CCTV16
 http://live.bypbwxx.top/live/jmysp1.php?token=c25388569be9b09194acd710ce9ceb
-#EXTINF:-1 group-title="默认频道",CCTV17
+#EXTINF:-1 group-title="央视频道",CCTV17
 http://live.bypbwxx.top/live/jmysp1.php?token=e0033d61d849555db3c610c6c70289
-#EXTINF:-1 group-title="默认频道",CCTV4K
+#EXTINF:-1 group-title="央视频道",CCTV4K
 http://live.bypbwxx.top/live/jmysp1.php?token=21aa637e48ea78127fa4cd8cad408e
-#EXTINF:-1 group-title="默认频道",CCTV8K
+#EXTINF:-1 group-title="央视频道",CCTV8K
 http://live.bypbwxx.top/live/jmysp1.php?token=889787a8faf781922572cd66ac8162
-#EXTINF:-1 group-title="默认频道",CCTV第一剧场
+#EXTINF:-1 group-title="央视频道",CGTN
+http://live.bypbwxx.top/live/jmysp1.php?token=20e7b454d66e33aad1bd0e62fbc2ac
+#EXTINF:-1 group-title="央视频道",CGTN法语
+http://live.bypbwxx.top/live/jmysp1.php?token=6aa823d31bd413155f15393405cd66
+#EXTINF:-1 group-title="央视频道",CGTN俄语
+http://live.bypbwxx.top/live/jmysp1.php?token=fc1c7fc271ce8a3b6d583a55fd8ba1
+#EXTINF:-1 group-title="央视频道",CGTN阿拉伯语
+http://live.bypbwxx.top/live/jmysp1.php?token=7d811d2fe9de7d58018549825222d7
+#EXTINF:-1 group-title="央视频道",CGTN西班牙语
+http://live.bypbwxx.top/live/jmysp1.php?token=7990d3fdd58759b84252e53602ff86
+#EXTINF:-1 group-title="央视频道",CGTN外语纪录
+http://live.bypbwxx.top/live/jmysp1.php?token=4499ad4f94fef17a76dc720634075a
+#EXTINF:-1 group-title="央视频道",CCTV第一剧场
 http://live.bypbwxx.top/live/jmysp1.php?token=6b5ab5fe9936ad69547feccea93600
-#EXTINF:-1 group-title="默认频道",CCTV风云剧场
+#EXTINF:-1 group-title="央视频道",CCTV风云剧场
 http://live.bypbwxx.top/live/jmysp1.php?token=065bfe3dc57c68159b567a37216cc8
-#EXTINF:-1 group-title="默认频道",CCTV怀旧剧场
+#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
 http://live.bypbwxx.top/live/jmysp1.php?token=74072339197790fbaa957c2e7626a2
-#EXTINF:-1 group-title="默认频道",北京卫视
+#EXTINF:-1 group-title="央视频道",CETV1
+http://live.bypbwxx.top/live/jmysp1.php?token=26b391df7446183312a1fd8d5b9796
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://live.bypbwxx.top/live/jmysp2.php?token=39d844a2521f8a5de4c1f77eecacf8
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://live.bypbwxx.top/live/jmysp2.php?token=b9e497c80d4baeb4f791342d25ae25
+#EXTINF:-1 group-title="央视频道",CCTV3
+http://live.bypbwxx.top/live/jmysp2.php?token=65035d4a48b3f1fff57b75d57c3829
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://live.bypbwxx.top/live/jmysp2.php?token=d2619a06a0cf4db2dad3ce582323d7
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://live.bypbwxx.top/live/jmysp2.php?token=8398493cef53fd364aea6e57b56e89
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://live.bypbwxx.top/live/jmysp2.php?token=04caeaa92d277393a2b2be8fd44487
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://live.bypbwxx.top/live/jmysp2.php?token=30fa44a80b497297b066b8f8a49902
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://live.bypbwxx.top/live/jmysp2.php?token=07313d9036f09860dae12b285b52a7
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://live.bypbwxx.top/live/jmysp2.php?token=d532c57664c643082eaff9495af5b3
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://live.bypbwxx.top/live/jmysp2.php?token=a4ec5ba9c77b77bdbbbe890d725bcc
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://live.bypbwxx.top/live/jmysp2.php?token=267b0c14926b30d2d0e9b83c814a5e
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://live.bypbwxx.top/live/jmysp2.php?token=0a5c9c665f0f3276275ed67748e669
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://live.bypbwxx.top/live/jmysp2.php?token=9bbf0f5d09e03e46ee19587490dce5
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://live.bypbwxx.top/live/jmysp2.php?token=b107c2aa97447f4f5aeed790268715
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://live.bypbwxx.top/live/jmysp2.php?token=868c450bf12735066b4df69ac30acd
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://live.bypbwxx.top/live/jmysp2.php?token=5f80951d6ba8b33c4d0c00ef5f885c
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://live.bypbwxx.top/live/jmysp2.php?token=26a5babd32e527e60ab12c89fb9dea
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://live.bypbwxx.top/live/jmysp2.php?token=95e73f9f62625191af4da2f6e33cca
+#EXTINF:-1 group-title="央视频道",CCTV4K
+http://live.bypbwxx.top/live/jmysp2.php?token=a0250356ffab829bbdfdf1f22ab75c
+#EXTINF:-1 group-title="央视频道",CCTV8K
+http://live.bypbwxx.top/live/jmysp2.php?token=cadcefc5133f3bbbaf2ea401582e34
+#EXTINF:-1 group-title="央视频道",CGTN
+http://live.bypbwxx.top/live/jmysp2.php?token=ba9d62297caad6362fb405e675ec62
+#EXTINF:-1 group-title="央视频道",CGTN法语
+http://live.bypbwxx.top/live/jmysp2.php?token=73c403a66a6e04af56e8c2f7e1ec23
+#EXTINF:-1 group-title="央视频道",CGTN俄语
+http://live.bypbwxx.top/live/jmysp2.php?token=2e494cb47ff4ff1f8c699ecf06ec46
+#EXTINF:-1 group-title="央视频道",CGTN阿拉伯语
+http://live.bypbwxx.top/live/jmysp2.php?token=da7e67d15fd346bde9811aa4e076db
+#EXTINF:-1 group-title="央视频道",CGTN西班牙语
+http://live.bypbwxx.top/live/jmysp2.php?token=17af3a634d060bfb924c27a8dff753
+#EXTINF:-1 group-title="央视频道",CGTN外语纪录
+http://live.bypbwxx.top/live/jmysp2.php?token=b3b11284f287854bffe8f7197a924f
+#EXTINF:-1 group-title="央视频道",CCTV第一剧场
+http://live.bypbwxx.top/live/jmysp2.php?token=ffca37a06707adb2e29bdfa9286db5
+#EXTINF:-1 group-title="央视频道",CCTV风云剧场
+http://live.bypbwxx.top/live/jmysp2.php?token=d0bac6b2171cbd9d6659aec0cd5f37
+#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
+http://live.bypbwxx.top/live/jmysp2.php?token=e9b4628aa06bbac33375426cd7b8a0
+#EXTINF:-1 group-title="央视频道",CETV1
+http://live.bypbwxx.top/live/jmysp2.php?token=0d3b665f6d729f790a0a20d877fb9c
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://106.13.88.102/9.php?pid=cctv1
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://106.13.88.102/9.php?pid=cctv2
+#EXTINF:-1 group-title="央视频道",CCTV3
+http://106.13.88.102/9.php?pid=cctv3
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://106.13.88.102/9.php?pid=cctv4
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://106.13.88.102/9.php?pid=cctv5
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://106.13.88.102/9.php?pid=cctv5p
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://106.13.88.102/9.php?pid=cctv6
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://106.13.88.102/9.php?pid=cctv7
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://106.13.88.102/9.php?pid=cctv8
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://106.13.88.102/9.php?pid=cctv9
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://106.13.88.102/9.php?pid=cctv10
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://106.13.88.102/9.php?pid=cctv11
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://106.13.88.102/9.php?pid=cctv12
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://106.13.88.102/9.php?pid=cctv13
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://106.13.88.102/9.php?pid=cctv14
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://106.13.88.102/9.php?pid=cctv15
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://106.13.88.102/9.php?pid=cctv16
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://106.13.88.102/9.php?pid=cctv17
+#EXTINF:-1 group-title="卫视频道",北京卫视
 http://live.bypbwxx.top/live/jmysp1.php?token=6579b94647cfec64e0a818f19ad352
-#EXTINF:-1 group-title="默认频道",东方卫视
+#EXTINF:-1 group-title="卫视频道",东方卫视
 http://live.bypbwxx.top/live/jmysp1.php?token=1b42dfa3ff65779f4fdf0776b7034e
-#EXTINF:-1 group-title="默认频道",江苏卫视
+#EXTINF:-1 group-title="卫视频道",江苏卫视
 http://live.bypbwxx.top/live/jmysp1.php?token=64f795f6e0042055446fc12c4fcc77
-#EXTINF:-1 group-title="默认频道",浙江卫视
+#EXTINF:-1 group-title="卫视频道",浙江卫视
 http://live.bypbwxx.top/live/jmysp1.php?token=5d66485919ca5fe908960a0346cb8f
-#EXTINF:-1 group-title="默认频道",湖南卫视
+#EXTINF:-1 group-title="卫视频道",湖南卫视
 http://live.bypbwxx.top/live/jmysp1.php?token=c328e50d228ca935098193704d390d
-#EXTINF:-1 group-title="默认频道",湖北卫视
+#EXTINF:-1 group-title="卫视频道",湖北卫视
 http://live.bypbwxx.top/live/jmysp1.php?token=86af16aadc698b895f80d1e5a29347
-#EXTINF:-1 group-title="默认频道",广东卫视
+#EXTINF:-1 group-title="卫视频道",广东卫视
 http://live.bypbwxx.top/live/jmysp1.php?token=ef7cbb99983708d60791e2cbe9c1a5
-#EXTINF:-1 group-title="默认频道",广西卫视
+#EXTINF:-1 group-title="卫视频道",广西卫视
 http://live.bypbwxx.top/live/jmysp1.php?token=e4330725b87be5d68c85b460f19738
-#EXTINF:-1 group-title="默认频道",黑龙江卫视
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://live.bypbwxx.top/live/jmysp1.php?token=d55effbb3f0bc43a4f26e86bf54ce9
-#EXTINF:-1 group-title="默认频道",海南卫视
+#EXTINF:-1 group-title="卫视频道",海南卫视
 http://live.bypbwxx.top/live/jmysp1.php?token=6e844d87daee3486bb61a571bcbaff
-#EXTINF:-1 group-title="默认频道",重庆卫视
+#EXTINF:-1 group-title="卫视频道",重庆卫视
 http://live.bypbwxx.top/live/jmysp1.php?token=16656f117f72ab6c6c40fd6975f7a6
-#EXTINF:-1 group-title="默认频道",深圳卫视
+#EXTINF:-1 group-title="卫视频道",深圳卫视
 http://live.bypbwxx.top/live/jmysp1.php?token=2dceb1e9261c40dc6c86e3898344a5
-#EXTINF:-1 group-title="默认频道",厦门卫视
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=b44a4c61501e9f31ed0443ecec1ae7
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=1d81fa419c2e80c329f0594c77bac0
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=d89a1c4f2f6f0aaf362b94cb1493fd
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=3e0a80069ff592845539634efb93d4
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=539588b8923f8e4d8cd778370a046b
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=76ac9831ca074c965cb1dc4c2a2e30
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=dd248d50d5ec12d664252f23b09d7c
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=044bc22145926d4ded5cb367083d01
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=cd42cc7a80787181335f8cc01b09db
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=05d04986001bb4e68051d1153eaa16
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=94a9f5f2a811aff6d869e56964b2dd
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=bd47662a8a83cf9ea64c6ae0892416
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=89e65a23345377863172ab1cfcddfb
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=daeae42a5b086ed8616487cae0b169
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=e5cdc8785089e8eba316287031df76
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=1c15223584a7dc322f84f9010c5cd7
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=d80a4ce1f6c9beb2ed0c52eb649de1
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=66a54272c137f9a11c3dddf074e616
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=295cb96831a6c1a3f9f1864f189c12
+#EXTINF:-1 group-title="卫视频道",兵团卫视
+http://live.bypbwxx.top/live/jmysp1.php?token=c136b2cb2fde736c66c40fadfe2162
+#EXTINF:-1 group-title="卫视频道",国学频道
+http://live.bypbwxx.top/live/jmysp1.php?token=a6f8f4bac344fd87bc60ea17f4f656
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=fd7e688031ddc6a859f8302b1d8b5b
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=69c9a38ecacf16b12887bd5fd900ba
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=bc83622cfa25dd297d93e2d52e5fc9
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=62c6d3c2f5589519f1ff204f7e9513
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=0b9a7c20408d6057eeb0f376d71cef
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=642bc746f44bc4caada4b35ff8f981
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=1825aab19b1e96f66af3fccafb2fbb
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=4b12c7420c9bfec02022d6473376f2
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=9289c366ce48ad58c97e20544d6f6d
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=a70e879cb1786e4640f18726b812f9
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=0721da7d203aeab91bffc3ee0ab0eb
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=c97998d563d94bd4e1caa5537bb60d
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=6cb00415823e88ad3d6070107f5f80
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=1ffae3563944c1378fe423e5a0dc57
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=9e6f05425c179b3ab96d334274b8bc
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=d937f6327a49b7da5281b1672e8602
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=0e57b4ace627243c4cce65cfa7a92e
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=89b1766c64c10ec456a3f28a05c15d
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=66abe7a87ae756cfe3753fc43dd6e0
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=f3ac021bde35700a32d75610491e8a
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=a280e0015b4140b760c2d9a6fad959
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=96c5ed9d389c9c292057d1e63c6770
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=c46d7b0e945fe4b3f29723d4dfa99e
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=5c2eb6fc0f0892f170af5d4cd6abc5
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=2cd4e4e24a67c1b3978eb60dc33970
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=6398338e78932736203315841ebbc7
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=f09c86bd44fc58046526804d8c7ee8
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=aeed82481d15cd973aac3d38446aca
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=20b6033665e4024cdec903e00c7965
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=6c7ffdf02db20db09634933c347603
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=adf54c971a998b56dd6d9e3d66a3fb
+#EXTINF:-1 group-title="卫视频道",兵团卫视
+http://live.bypbwxx.top/live/jmysp2.php?token=95b0d88aa880816f2a8423d4bfa7d2
+#EXTINF:-1 group-title="卫视频道",国学频道
+http://live.bypbwxx.top/live/jmysp2.php?token=48a54238f1ced131f76db3f6e6607b
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://106.13.88.102/9.php?pid=6623899368
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://106.13.88.102/9.php?pid=608831231
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://106.13.88.102/9.php?pid=630287636
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://106.13.88.102/9.php?pid=630291707
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://106.13.88.102/9.php?pid=962042070
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://106.13.88.102/9.php?pid=783847495
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://106.13.88.102/9.php?pid=790187291
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://106.13.88.102/9.php?pid=738910838
+#EXTINF:-1 group-title="卫视频道",大湾区卫视
+http://106.13.88.102/9.php?pid=608917627
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://106.13.88.102/9.php?pid=947472496
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://106.13.88.102/9.php?pid=947472500
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://106.13.88.102/9.php?pid=947472506
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://106.13.88.102/9.php?pid=849116810
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://106.13.88.102/9.php?pid=947472502
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://106.13.88.102/9.php?pid=738910535
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://106.13.88.102/9.php?pid=738910914
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV1
+http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV2
+http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV3
+http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV4
+http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV5
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV5+
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV6
+http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV7
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV8
+http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV9
+http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV10
+http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV11
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV12
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV13
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV14
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV15
+http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV16
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV17
+http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV4K
+http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV8K
+http://38.75.136.137:98/gslb/dsdqpub/cctv8K.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV1
+http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV2
+http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV3
+http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV4
+http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV5
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV5+
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV6
+http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV7
+http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV8
+http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV9
+http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV10
+http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV11
+http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV12
+http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV13
+http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV14
+http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV15
+http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV16
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV17
+http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CETV1
+http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CETV2
+http://38.75.136.137:98/gslb/dsdqpub/cetv2.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CETV3
+http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CETV4
+http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",北京卫视
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",东方卫视
+http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",江苏卫视
+http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",湖南卫视
+http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",浙江卫视
+http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",广东卫视
+http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",深圳卫视
+http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",天津卫视
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",东南卫视
+http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",四川卫视
+http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",重庆卫视
+http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",湖北卫视
+http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",安徽卫视
+http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",广西卫视
+http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",贵州卫视
+http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",河南卫视
+http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",河北卫视
+http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",江西卫视
+http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",山东卫视
+http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",辽宁卫视
+http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",吉林卫视
+http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",黑龙江卫视
+http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",陕西卫视
+http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",山西卫视
+http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",甘肃卫视
+http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",内蒙古卫视
+http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",云南卫视
+http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",宁夏卫视
+http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",新疆卫视
+http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",西藏卫视
+http://38.75.136.137:98/gslb/dsdqpub/xzws.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",厦门卫视
 http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
-#EXTINF:-1 group-title="默认频道",央视台球
+#EXTINF:-1 group-title="高清央卫[V6]",青海卫视
+http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",兵团卫视
+http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",三沙卫视
+http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",大湾区卫视
+http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",海南卫视
+http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+#EXTINF:-1 group-title="高清央卫[V6]",北京卫视
+http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",浙江卫视
+http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",湖南卫视
+http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",周星驰电影
+http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",周润发电影
+http://38.75.136.137:98/gslb/dsdqpub/lbzrf.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",成龙电影
+http://38.75.136.137:98/gslb/dsdqpub/lbcl.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CHC动作电影
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CHC家庭影院
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CHC影迷电影
+http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",林正英影院
+http://38.75.136.137:98/gslb/dsdqpub/lblzy.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",邵氏电影
+http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",邵氏动作
+http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",邵氏喜剧
+http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",欢笑剧场
+http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",都市剧场
+http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",怀旧剧场
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",重温经典
+http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",湖北影视
+http://38.75.136.137:98/gslb/dsdqpub/hbys.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",天津影视
+http://38.75.136.137:98/gslb/dsdqpub/tjtv3.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",央视台球
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-#EXTINF:-1 group-title="默认频道",CCTV电视指南-
+#EXTINF:-1 group-title="高清央卫[V6]",五星体育
+http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",高尔夫网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",天津体育
+http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",风云足球
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",世界地理
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",风云音乐
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV1
+http://60.10.139.113:8801/hls/1/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV2
+http://60.10.139.113:8801/hls/2/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV3
+http://60.10.139.113:8801/hls/3/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV4
+http://60.10.139.113:8801/hls/4/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV5
+http://60.10.139.113:8801/hls/5/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV6
+http://60.10.139.113:8801/hls/6/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV7
+http://60.10.139.113:8801/hls/7/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV8
+http://60.10.139.113:8801/hls/8/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV9
+http://60.10.139.113:8801/hls/9/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV10
+http://60.10.139.113:8801/hls/10/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV11
+http://60.10.139.113:8801/hls/96/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV12
+http://60.10.139.113:8801/hls/11/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV13
+http://60.10.139.113:8801/hls/12/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV14
+http://60.10.139.113:8801/hls/13/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV15
+http://60.10.139.113:8801/hls/97/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV5+
+http://60.10.139.113:8801/hls/15/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV17
+http://60.10.139.113:8801/hls/98/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CGTN
+http://60.10.139.113:8801/hls/14/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",湖南卫视
+http://60.10.139.113:8801/hls/17/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",浙江卫视
+http://60.10.139.113:8801/hls/18/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",江苏卫视
+http://60.10.139.113:8801/hls/19/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",北京卫视
+http://60.10.139.113:8801/hls/20/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",东方卫视
+http://60.10.139.113:8801/hls/22/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",安徽卫视
+http://60.10.139.113:8801/hls/99/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",天津卫视
+http://60.10.139.113:8801/hls/23/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",河北卫视
+http://60.10.139.113:8801/hls/16/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",山东卫视
+http://60.10.139.113:8801/hls/25/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",河南卫视
+http://60.10.139.113:8801/hls/32/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",江西卫视
+http://60.10.139.113:8801/hls/37/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",湖北卫视
+http://60.10.139.113:8801/hls/29/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",四川卫视
+http://60.10.139.113:8801/hls/30/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",重庆卫视
+http://60.10.139.113:8801/hls/31/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",东南卫视
+http://60.10.139.113:8801/hls/21/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",广东卫视
+http://60.10.139.113:8801/hls/26/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",深圳卫视
+http://60.10.139.113:8801/hls/24/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",广西卫视
+http://60.10.139.113:8801/hls/52/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",辽宁卫视
+http://60.10.139.113:8801/hls/28/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",吉林卫视
+http://60.10.139.113:8801/hls/38/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",黑龙江卫视
+http://60.10.139.113:8801/hls/27/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",贵州卫视
+http://60.10.139.113:8801/hls/36/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",海南卫视
+http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+#EXTINF:-1 group-title="高清央卫[V6]",三沙卫视
+https://srs.ssws.tv/video/sstv-10/index.m3u8#http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+#EXTINF:-1 group-title="高清央卫[V6]",河南卫视
+http://1.94.31.214/php/hntv.php?id=hnws#http://lxajh.top/tv/hn.php?id=hnws
+#EXTINF:-1 group-title="高清央卫[V6]",深圳卫视
+http://nn.7x9d.cn/深圳最新.php?id=szws4k
+#EXTINF:-1 group-title="高清央卫[V6]",云南卫视-
+http://60.10.139.113:8801/hls/51/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",陕西卫视-
+http://60.10.139.113:8801/hls/53/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",山西卫视-
+http://60.10.139.113:8801/hls/54/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",青海卫视-
+http://60.10.139.113:8801/hls/56/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",宁夏卫视-
+http://60.10.139.113:8801/hls/57/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",内蒙古卫视-
+http://60.10.139.113:8801/hls/55/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",山西卫视
+http://jasonzhangnas.f3322.net:7088/udp/233.18.204.211:5140
+#EXTINF:-1 group-title="高清央卫[V6]",陕西卫视
+http://jasonzhangnas.f3322.net:7088/udp/233.18.204.223:5140
+#EXTINF:-1 group-title="高清央卫[V6]",内蒙古卫视
+http://jasonzhangnas.f3322.net:7088/udp/233.18.204.217:5140
+#EXTINF:-1 group-title="高清央卫[V6]",兵团卫视
+http://jasonzhangnas.f3322.net:7088/udp/233.18.204.221:5140
+#EXTINF:-1 group-title="高清央卫[V6]",西藏卫视
+http://jasonzhangnas.f3322.net:7088/udp/233.18.204.222:5140
+#EXTINF:-1 group-title="高清央卫[V6]",宁夏卫视
+http://jasonzhangnas.f3322.net:7088/udp/233.18.204.230:5140
+#EXTINF:-1 group-title="高清央卫[V6]",新疆卫视
+http://jasonzhangnas.f3322.net:7088/udp/233.18.204.220:5140
+#EXTINF:-1 group-title="高清央卫[V6]",AiTV
+http://swiftplay.hxkjmedia.com/tv/spbW.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV电视指南-
 http://60.10.139.113:8801/hls/64/index.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV第一剧场-
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV第一剧场-
 http://60.10.139.113:8801/hls/65/index.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV风云剧场-
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV风云剧场-
 http://60.10.139.113:8801/hls/66/index.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV怀旧剧场-
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV怀旧剧场-
 http://60.10.139.113:8801/hls/67/index.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV风云音乐-
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV风云音乐-
 http://60.10.139.113:8801/hls/68/index.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV风云足球-
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV风云足球-
 http://60.10.139.113:8801/hls/69/index.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV高尔夫网球-
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV高尔夫网球-
 http://60.10.139.113:8801/hls/70/index.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV女性时尚-
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV女性时尚-
 http://60.10.139.113:8801/hls/79/index.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV央视文化精品-
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV央视文化精品-
 http://60.10.139.113:8801/hls/80/index.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV兵器科技-
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV兵器科技-
 http://60.10.139.113:8801/hls/72/index.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV世界地理-
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV世界地理-
 http://60.10.139.113:8801/hls/73/index.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV老故事-
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV老故事-
 http://60.10.139.113:8801/hls/74/index.m3u8
-#EXTINF:-1 group-title="默认频道",CCTV4欧洲
+#EXTINF:-1 group-title="高清央卫[V6]",环球奇观-
+http://60.10.139.113:8801/hls/75/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",武术世界-
+http://60.10.139.113:8801/hls/71/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",文物宝库-
+http://60.10.139.113:8801/hls/76/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",梨园频道-
+http://60.10.139.113:8801/hls/86/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",国学频道-
+http://60.10.139.113:8801/hls/77/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",汽摩频道-
+http://60.10.139.113:8801/hls/90/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV1
+http://223.95.198.3:8000/hls/1/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV2
+http://223.95.198.3:8000/hls/2/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV3
+http://223.95.198.3:8000/hls/3/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV4
+http://223.95.198.3:8000/hls/4/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV5
+http://223.95.198.3:8000/hls/5/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV6
+http://223.95.198.3:8000/hls/6/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV7
+http://223.95.198.3:8000/hls/7/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV8
+http://223.95.198.3:8000/hls/8/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV9
+http://223.95.198.3:8000/hls/9/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV10
+http://223.95.198.3:8000/hls/10/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV11
+http://223.95.198.3:8000/hls/11/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV12
+http://223.95.198.3:8000/hls/12/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV13
+http://223.95.198.3:8000/hls/13/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV14
+http://223.95.198.3:8000/hls/14/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV15
+http://223.95.198.3:8000/hls/15/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV16
+http://223.95.198.3:8000/hls/16/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV17
+http://223.95.198.3:8000/hls/17/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV4K
+http://223.95.198.3:8000/hls/18/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV5+
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV16
+http://yuwentao114.x3322.net:4022/udp/239.252.219.59:5140$【yuwen】
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV17
+http://yuwentao114.x3322.net:4022/udp/239.252.220.192:5140$【yuwen】
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV4欧洲
 http://yuwentao114.x3322.net:4022/udp/239.252.219.192:5140$【yuwen】
-#EXTINF:-1 group-title="默认频道",CCTV4美洲
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV4美洲
 http://yuwentao114.x3322.net:4022/udp/239.252.219.193:5140$【yuwen】
-#EXTINF:-1 group-title="默认频道",深圳卫视4k
+#EXTINF:-1 group-title="高清央卫[V6]",电视指南
+http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub$【38.75】
+#EXTINF:-1 group-title="高清央卫[V6]",卫生健康
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub$【38.75】
+#EXTINF:-1 group-title="高清央卫[V6]",世界地理
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub$【38.75】
+#EXTINF:-1 group-title="高清央卫[V6]",兵器科技
+http://38.75.136.137:98/gslb/dsdqpub/bqkj.m3u8?auth=testpub$【38.75】
+#EXTINF:-1 group-title="高清央卫[V6]",文化精品
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub$【38.75】
+#EXTINF:-1 group-title="高清央卫[V6]",女性时尚
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub$【38.75】
+#EXTINF:-1 group-title="高清央卫[V6]",第一剧场
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub$【38.75】
+#EXTINF:-1 group-title="高清央卫[V6]",怀旧剧场
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub$【38.75】
+#EXTINF:-1 group-title="高清央卫[V6]",风云音乐
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub$【38.75】
+#EXTINF:-1 group-title="高清央卫[V6]",风云剧场
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub$【38.75】
+#EXTINF:-1 group-title="高清央卫[V6]",风云足球
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub$【38.75】
+#EXTINF:-1 group-title="高清央卫[V6]",央视台球
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub$【38.75】
+#EXTINF:-1 group-title="高清央卫[V6]",高尔夫网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub$【38.75】
+#EXTINF:-1 group-title="高清央卫[V6]",CGTN
+http://223.95.198.3:8000/hls/19/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",凤凰卫视中文台
+http://223.95.198.3:8000/hls/20/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",东方卫视
+http://223.95.198.3:8000/hls/22/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",浙江卫视
+http://223.95.198.3:8000/hls/24/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",北京卫视
+http://223.95.198.3:8000/hls/21/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",深圳卫视
+http://223.95.198.3:8000/hls/23/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",河北卫视
+http://223.95.198.3:8000/hls/27/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",湖南卫视
+http://223.95.198.3:8000/hls/25/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",天津卫视
+http://223.95.198.3:8000/hls/26/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",江苏卫视
+http://223.95.198.3:8000/hls/28/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",河南卫视
+http://223.95.198.3:8000/hls/31/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",安徽卫视
+http://223.95.198.3:8000/hls/30/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",山东卫视
+http://223.95.198.3:8000/hls/29/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",湖北卫视
+http://223.95.198.3:8000/hls/32/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",黑龙江卫视
+http://223.95.198.3:8000/hls/33/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",吉林卫视
+http://223.95.198.3:8000/hls/35/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",重庆卫视
+http://223.95.198.3:8000/hls/36/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",辽宁卫视
+http://223.95.198.3:8000/hls/34/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",广东卫视
+http://223.95.198.3:8000/hls/38/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",四川卫视
+http://223.95.198.3:8000/hls/37/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",江西卫视
+http://223.95.198.3:8000/hls/40/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",广西卫视
+http://223.95.198.3:8000/hls/39/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",甘肃卫视
+http://223.95.198.3:8000/hls/42/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",云南卫视
+http://223.95.198.3:8000/hls/44/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",海南卫视
+http://223.95.198.3:8000/hls/41/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",陕西卫视
+http://223.95.198.3:8000/hls/43/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",青海卫视
+http://223.95.198.3:8000/hls/47/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",贵州卫视
+http://223.95.198.3:8000/hls/46/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",云南卫视
+http://223.95.198.3:8000/hls/45/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV1
+http://112.27.235.94:8000/hls/1/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV2
+http://112.27.235.94:8000/hls/2/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV3
+http://112.27.235.94:8000/hls/3/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV4
+http://112.27.235.94:8000/hls/4/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV5
+http://112.27.235.94:8000/hls/5/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV6
+http://112.27.235.94:8000/hls/7/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV7
+http://112.27.235.94:8000/hls/8/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV8
+http://112.27.235.94:8000/hls/9/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV9
+http://112.27.235.94:8000/hls/10/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV10
+http://112.27.235.94:8000/hls/11/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV11
+http://112.27.235.94:8000/hls/12/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV12
+http://112.27.235.94:8000/hls/13/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV13
+http://112.27.235.94:8000/hls/14/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV14
+http://112.27.235.94:8000/hls/15/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV15
+http://112.27.235.94:8000/hls/16/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV5+
+http://112.27.235.94:8000/hls/6/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",肥西新闻综合
+http://112.27.235.94:8000/hls/21/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",安徽经济生活
+http://112.27.235.94:8000/hls/22/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",安徽公共
+http://112.27.235.94:8000/hls/23/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",安徽影视
+http://112.27.235.94:8000/hls/24/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",安徽综艺体育
+http://112.27.235.94:8000/hls/25/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",安徽卫视
+http://112.27.235.94:8000/hls/26/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",北京卫视
+http://112.27.235.94:8000/hls/27/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",东方卫视
+http://112.27.235.94:8000/hls/28/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",浙江卫视
+http://112.27.235.94:8000/hls/29/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",湖南卫视
+http://112.27.235.94:8000/hls/31/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",江苏卫视
+http://112.27.235.94:8000/hls/32/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",深圳卫视
+http://112.27.235.94:8000/hls/33/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",山东卫视
+http://112.27.235.94:8000/hls/34/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",四川卫视
+http://112.27.235.94:8000/hls/35/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",重庆卫视
+http://112.27.235.94:8000/hls/36/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",河南卫视
+http://112.27.235.94:8000/hls/37/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",东南卫视
+http://112.27.235.94:8000/hls/38/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",河北卫视
+http://112.27.235.94:8000/hls/39/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",云南卫视
+http://112.27.235.94:8000/hls/40/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",湖北卫视
+http://112.27.235.94:8000/hls/41/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",天津卫视
+http://112.27.235.94:8000/hls/42/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",陕西卫视
+http://112.27.235.94:8000/hls/43/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",江西卫视
+http://112.27.235.94:8000/hls/44/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",贵州卫视
+http://112.27.235.94:8000/hls/46/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",辽宁卫视
+http://112.27.235.94:8000/hls/47/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",黑龙江卫视
+http://112.27.235.94:8000/hls/48/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",重温经典
+http://112.27.235.94:8000/hls/50/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",合肥新闻
+http://112.27.235.94:8000/hls/18/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",合肥生活
+http://112.27.235.94:8000/hls/19/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",合肥科创
+http://112.27.235.94:8000/hls/20/index.m3u8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV1
+http://m.061899.xyz/mg/cctv1
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV2
+http://m.061899.xyz/mg/cctv2
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV3
+http://m.061899.xyz/mg/cctv3
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV4
+http://m.061899.xyz/mg/cctv4
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV5
+http://m.061899.xyz/mg/cctv5
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV5+
+http://m.061899.xyz/mg/cctv5p
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV6
+http://m.061899.xyz/mg/cctv6
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV7
+http://m.061899.xyz/mg/cctv7
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV8
+http://m.061899.xyz/mg/cctv8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV9
+http://m.061899.xyz/mg/cctv9
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV10
+http://m.061899.xyz/mg/cctv10
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV11
+http://m.061899.xyz/mg/cctv11
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV12
+http://m.061899.xyz/mg/cctv12
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV13
+http://m.061899.xyz/mg/cctv13
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV14
+http://m.061899.xyz/mg/cctv14
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV15
+http://m.061899.xyz/mg/cctv15
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV16
+http://m.061899.xyz/mg/cctv16
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV17
+http://m.061899.xyz/mg/cctv17
+#EXTINF:-1 group-title="高清央卫[V6]",北京卫视
+http://m.061899.xyz/mg/bjws
+#EXTINF:-1 group-title="高清央卫[V6]",东方卫视
+http://m.061899.xyz/mg/dfws
+#EXTINF:-1 group-title="高清央卫[V6]",浙江卫视
+http://m.061899.xyz/mg/zjws
+#EXTINF:-1 group-title="高清央卫[V6]",江苏卫视
+http://m.061899.xyz/mg/jsws
+#EXTINF:-1 group-title="高清央卫[V6]",湖南卫视
+http://m.061899.xyz/mg/hunws
+#EXTINF:-1 group-title="高清央卫[V6]",广东卫视
+http://m.061899.xyz/mg/gdws
+#EXTINF:-1 group-title="高清央卫[V6]",深圳卫视
+http://m.061899.xyz/mg/szws
+#EXTINF:-1 group-title="高清央卫[V6]",天津卫视
+http://m.061899.xyz/mg/tjws
+#EXTINF:-1 group-title="高清央卫[V6]",安徽卫视
+http://m.061899.xyz/mg/ahws
+#EXTINF:-1 group-title="高清央卫[V6]",山东卫视
+http://m.061899.xyz/mg/sdws
+#EXTINF:-1 group-title="高清央卫[V6]",河北卫视
+http://m.061899.xyz/mg/hbws
+#EXTINF:-1 group-title="高清央卫[V6]",河南卫视
+http://m.061899.xyz/mg/hnws
+#EXTINF:-1 group-title="高清央卫[V6]",江西卫视
+http://m.061899.xyz/mg/jxws
+#EXTINF:-1 group-title="高清央卫[V6]",四川卫视
+http://m.061899.xyz/mg/scws
+#EXTINF:-1 group-title="高清央卫[V6]",重庆卫视
+http://m.061899.xyz/mg/cqws
+#EXTINF:-1 group-title="高清央卫[V6]",贵州卫视
+http://m.061899.xyz/mg/gzws
+#EXTINF:-1 group-title="高清央卫[V6]",湖北卫视
+http://m.061899.xyz/mg/hubws
+#EXTINF:-1 group-title="高清央卫[V6]",广西卫视
+http://m.061899.xyz/mg/gxws
+#EXTINF:-1 group-title="高清央卫[V6]",东南卫视
+http://m.061899.xyz/mg/dnws
+#EXTINF:-1 group-title="高清央卫[V6]",海南卫视
+http://m.061899.xyz/mg/hinws
+#EXTINF:-1 group-title="高清央卫[V6]",甘肃卫视
+http://m.061899.xyz/mg/gsws
+#EXTINF:-1 group-title="高清央卫[V6]",青海卫视
+http://m.061899.xyz/mg/qhws
+#EXTINF:-1 group-title="高清央卫[V6]",陕西卫视
+http://m.061899.xyz/mg/sxws
+#EXTINF:-1 group-title="高清央卫[V6]",宁夏卫视
+http://m.061899.xyz/mg/nxws
+#EXTINF:-1 group-title="高清央卫[V6]",新疆卫视
+http://m.061899.xyz/mg/xjws
+#EXTINF:-1 group-title="高清央卫[V6]",西藏卫视
+http://m.061899.xyz/mg/xzws
+#EXTINF:-1 group-title="高清央卫[V6]",兵团卫视
+http://m.061899.xyz/mg/btws
+#EXTINF:-1 group-title="高清央卫[V6]",吉林卫视
+http://m.061899.xyz/mg/jlws
+#EXTINF:-1 group-title="高清央卫[V6]",内蒙古视
+http://m.061899.xyz/mg/nmgws
+#EXTINF:-1 group-title="高清央卫[V6]",黑龙江视
+http://m.061899.xyz/mg/hljws
+#EXTINF:-1 group-title="高清央卫[V6]",重温经典
+http://m.061899.xyz/mg/cwjd
+#EXTINF:-1 group-title="高清央卫[V6]",劲爆体育
+http://m.061899.xyz/mg/jbty
+#EXTINF:-1 group-title="高清央卫[V6]",咪咕体育
+http://m.061899.xyz/mg/mgty
+#EXTINF:-1 group-title="高清央卫[V6]",北京体育
+http://m.061899.xyz/mg/bjty
+#EXTINF:-1 group-title="高清央卫[V6]",北京新闻
+http://m.061899.xyz/mg/bjxw
+#EXTINF:-1 group-title="高清央卫[V6]",北京财经
+http://m.061899.xyz/mg/bjcj
+#EXTINF:-1 group-title="高清央卫[V6]",北京文艺
+http://m.061899.xyz/mg/bjwy
+#EXTINF:-1 group-title="高清央卫[V6]",北京生活
+http://m.061899.xyz/mg/bjsh
+#EXTINF:-1 group-title="高清央卫[V6]",北京少儿
+http://m.061899.xyz/mg/bjkk
+#EXTINF:-1 group-title="高清央卫[V6]",北京影视
+http://m.061899.xyz/mg/bjys
+#EXTINF:-1 group-title="高清央卫[V6]",北京纪实
+http://m.061899.xyz/mg/bjjs
+#EXTINF:-1 group-title="高清央卫[V6]",东方影视
+http://m.061899.xyz/mg/shys
+#EXTINF:-1 group-title="高清央卫[V6]",东方纪实
+http://m.061899.xyz/mg/xjs
+#EXTINF:-1 group-title="高清央卫[V6]",红色轮播
+http://m.061899.xyz/mg/hslb
+#EXTINF:-1 group-title="高清央卫[V6]",金色剧场
+http://m.061899.xyz/mg/jsjc
+#EXTINF:-1 group-title="高清央卫[V6]",乡村振兴
+http://m.061899.xyz/mg/xczx
+#EXTINF:-1 group-title="高清央卫[V6]",重温经典
+http://8.138.7.223/tv/cwjd.php
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV1
+http://j.s.bkpcp.top/jj/cctv1
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV2
+http://j.s.bkpcp.top/jj/cctv2
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV3
+http://j.s.bkpcp.top/jj/cctv3
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV4
+http://j.s.bkpcp.top/jj/cctv4
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV5
+http://j.s.bkpcp.top/jj/cctv5
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV5+
+http://j.s.bkpcp.top/jj/cctv5p
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV6
+http://j.s.bkpcp.top/jj/cctv6
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV7
+http://j.s.bkpcp.top/jj/cctv7
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV8
+http://j.s.bkpcp.top/jj/cctv8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV9
+http://j.s.bkpcp.top/jj/cctv9
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV10
+http://j.s.bkpcp.top/jj/cctv10
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV11
+http://j.s.bkpcp.top/jj/cctv11
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV12
+http://j.s.bkpcp.top/jj/cctv12
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV13
+http://j.s.bkpcp.top/jj/cctv13
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV14
+http://j.s.bkpcp.top/jj/cctv14
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV15
+http://j.s.bkpcp.top/jj/cctv15
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV16
+http://j.s.bkpcp.top/jj/cctv16
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV17
+http://j.s.bkpcp.top/jj/cctv17
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV4欧洲
+http://j.s.bkpcp.top/jj/cctv4o
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV4美洲
+http://j.s.bkpcp.top/jj/cctv4m
+#EXTINF:-1 group-title="高清央卫[V6]",CGTN-西
+http://j.s.bkpcp.top/jj/cgtne
+#EXTINF:-1 group-title="高清央卫[V6]",CGTN-阿
+http://j.s.bkpcp.top/jj/cgtna
+#EXTINF:-1 group-title="高清央卫[V6]",CGTN-法
+http://j.s.bkpcp.top/jj/cgtnf
+#EXTINF:-1 group-title="高清央卫[V6]",北京卫视
+http://j.s.bkpcp.top/jj/bjws
+#EXTINF:-1 group-title="高清央卫[V6]",东方卫视
+http://j.s.bkpcp.top/jj/dfws
+#EXTINF:-1 group-title="高清央卫[V6]",浙江卫视
+http://j.s.bkpcp.top/jj/zjws
+#EXTINF:-1 group-title="高清央卫[V6]",江苏卫视
+http://j.s.bkpcp.top/jj/jsws
+#EXTINF:-1 group-title="高清央卫[V6]",湖南卫视
+http://j.s.bkpcp.top/jj/hunws
+#EXTINF:-1 group-title="高清央卫[V6]",广东卫视
+http://j.s.bkpcp.top/jj/gdws
+#EXTINF:-1 group-title="高清央卫[V6]",深圳卫视4k
 http://j.s.bkpcp.top/jj/szws
-#EXTINF:-1 group-title="默认频道",CCTV世界地理
+#EXTINF:-1 group-title="高清央卫[V6]",山东卫视
+http://j.s.bkpcp.top/jj/sdws
+#EXTINF:-1 group-title="高清央卫[V6]",河南卫视
+http://j.s.bkpcp.top/jj/hnws
+#EXTINF:-1 group-title="高清央卫[V6]",江西卫视
+http://j.s.bkpcp.top/jj/jxws
+#EXTINF:-1 group-title="高清央卫[V6]",湖北卫视
+http://j.s.bkpcp.top/jj/hubws
+#EXTINF:-1 group-title="高清央卫[V6]",海南卫视
+http://j.s.bkpcp.top/jj/hinws
+#EXTINF:-1 group-title="高清央卫[V6]",陕西卫视
+http://j.s.bkpcp.top/jj/sxws
+#EXTINF:-1 group-title="高清央卫[V6]",兵团卫视
+http://j.s.bkpcp.top/jj/btws
+#EXTINF:-1 group-title="高清央卫[V6]",黑龙江视
+http://j.s.bkpcp.top/jj/hljws
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV1
+http://t.061899.xyz/tl/tl.php?id=cctv1
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV2
+http://t.061899.xyz/tl/tl.php?id=cctv2
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV3
+http://t.061899.xyz/tl/tl.php?id=cctv3
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV4
+http://t.061899.xyz/tl/tl.php?id=cctv4
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV5
+http://t.061899.xyz/tl/tl.php?id=cctv5
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV5+
+http://t.061899.xyz/tl/tl.php?id=cctv5p
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV6
+http://t.061899.xyz/tl/tl.php?id=cctv6
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV7
+http://t.061899.xyz/tl/tl.php?id=cctv7
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV8
+http://t.061899.xyz/tl/tl.php?id=cctv8
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV9
+http://t.061899.xyz/tl/tl.php?id=cctv9
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV10
+http://t.061899.xyz/tl/tl.php?id=cctv10
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV11
+http://t.061899.xyz/tl/tl.php?id=cctv11
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV12
+http://t.061899.xyz/tl/tl.php?id=cctv12
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV13
+http://t.061899.xyz/tl/tl.php?id=cctv13
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV14
+http://t.061899.xyz/tl/tl.php?id=cctv14
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV15
+http://t.061899.xyz/tl/tl.php?id=cctv15
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV16
+http://t.061899.xyz/tl/tl.php?id=cctv16
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV17
+http://t.061899.xyz/tl/tl.php?id=cctv17
+#EXTINF:-1 group-title="高清央卫[V6]",北京卫视
+http://t.061899.xyz/tl/tl.php?id=bjws
+#EXTINF:-1 group-title="高清央卫[V6]",东方卫视
+http://t.061899.xyz/tl/tl.php?id=dfws
+#EXTINF:-1 group-title="高清央卫[V6]",浙江卫视
+http://t.061899.xyz/tl/tl.php?id=zjws
+#EXTINF:-1 group-title="高清央卫[V6]",江苏卫视
+http://t.061899.xyz/tl/tl.php?id=jsws
+#EXTINF:-1 group-title="高清央卫[V6]",湖南卫视
+http://t.061899.xyz/tl/tl.php?id=hunws
+#EXTINF:-1 group-title="高清央卫[V6]",广东卫视
+http://t.061899.xyz/tl/tl.php?id=gdws
+#EXTINF:-1 group-title="高清央卫[V6]",深圳卫视
+http://t.061899.xyz/tl/tl.php?id=szws
+#EXTINF:-1 group-title="高清央卫[V6]",天津卫视
+http://t.061899.xyz/tl/tl.php?id=tjws
+#EXTINF:-1 group-title="高清央卫[V6]",安徽卫视
+http://t.061899.xyz/tl/tl.php?id=ahws
+#EXTINF:-1 group-title="高清央卫[V6]",山东卫视
+http://t.061899.xyz/tl/tl.php?id=sdws
+#EXTINF:-1 group-title="高清央卫[V6]",山西卫视
+http://t.061899.xyz/tl/tl.php?id=sxiws
+#EXTINF:-1 group-title="高清央卫[V6]",辽宁卫视
+http://t.061899.xyz/tl/tl.php?id=lnws
+#EXTINF:-1 group-title="高清央卫[V6]",河北卫视
+http://t.061899.xyz/tl/tl.php?id=hbws
+#EXTINF:-1 group-title="高清央卫[V6]",河南卫视
+http://t.061899.xyz/tl/tl.php?id=hnws
+#EXTINF:-1 group-title="高清央卫[V6]",江西卫视
+http://t.061899.xyz/tl/tl.php?id=jxws
+#EXTINF:-1 group-title="高清央卫[V6]",四川卫视
+http://t.061899.xyz/tl/tl.php?id=scws
+#EXTINF:-1 group-title="高清央卫[V6]",重庆卫视
+http://t.061899.xyz/tl/tl.php?id=cqws
+#EXTINF:-1 group-title="高清央卫[V6]",贵州卫视
+http://t.061899.xyz/tl/tl.php?id=gzws
+#EXTINF:-1 group-title="高清央卫[V6]",湖北卫视
+http://t.061899.xyz/tl/tl.php?id=hubws
+#EXTINF:-1 group-title="高清央卫[V6]",广西卫视
+http://t.061899.xyz/tl/tl.php?id=gxws
+#EXTINF:-1 group-title="高清央卫[V6]",东南卫视
+http://t.061899.xyz/tl/tl.php?id=dnws
+#EXTINF:-1 group-title="高清央卫[V6]",海南卫视
+http://t.061899.xyz/tl/tl.php?id=hinws
+#EXTINF:-1 group-title="高清央卫[V6]",青海卫视
+http://t.061899.xyz/tl/tl.php?id=qhws
+#EXTINF:-1 group-title="高清央卫[V6]",宁夏卫视
+http://t.061899.xyz/tl/tl.php?id=nxws
+#EXTINF:-1 group-title="高清央卫[V6]",陕西卫视
+http://t.061899.xyz/tl/tl.php?id=sxws
+#EXTINF:-1 group-title="高清央卫[V6]",甘肃卫视
+http://t.061899.xyz/tl/tl.php?id=gsws
+#EXTINF:-1 group-title="高清央卫[V6]",新疆卫视
+http://t.061899.xyz/tl/tl.php?id=xjws
+#EXTINF:-1 group-title="高清央卫[V6]",吉林卫视
+http://t.061899.xyz/tl/tl.php?id=jlws
+#EXTINF:-1 group-title="高清央卫[V6]",西藏卫视
+http://t.061899.xyz/tl/tl.php?id=xzws
+#EXTINF:-1 group-title="高清央卫[V6]",内蒙古视
+http://t.061899.xyz/tl/tl.php?id=nmgws
+#EXTINF:-1 group-title="高清央卫[V6]",黑龙江视
+http://t.061899.xyz/tl/tl.php?id=hljws
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV世界地理
 https://xmlive.zeabur.app/yw/whyd?id=custom11
-#EXTINF:-1 group-title="默认频道",CCTV央视高网
+#EXTINF:-1 group-title="高清央卫[V6]",CCTV央视高网
 https://xmlive.zeabur.app/yw/whyd?id=custom10
-#EXTINF:-1 group-title="默认频道",CCTV4K超高清
+#EXTINF:-1 group-title="央视高清[V6]",CCTV1
+http://60.10.139.113:8801/hls/1/index.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CCTV2
+http://60.10.139.113:8801/hls/2/index.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CCTV3
+http://60.10.139.113:8801/hls/3/index.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CCTV4
+http://60.10.139.113:8801/hls/4/index.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CCTV5
+http://60.10.139.113:8801/hls/5/index.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CCTV6
+http://60.10.139.113:8801/hls/6/index.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CCTV7
+http://60.10.139.113:8801/hls/7/index.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CCTV8
+http://60.10.139.113:8801/hls/8/index.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CCTV9
+http://60.10.139.113:8801/hls/9/index.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CCTV10
+http://60.10.139.113:8801/hls/10/index.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CCTV11
+http://60.10.139.113:8801/hls/96/index.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CCTV12
+http://60.10.139.113:8801/hls/11/index.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CCTV13
+http://60.10.139.113:8801/hls/12/index.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CCTV14
+http://60.10.139.113:8801/hls/13/index.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CCTV15
+http://60.10.139.113:8801/hls/97/index.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CCTV5+
+http://60.10.139.113:8801/hls/15/index.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CCTV17
+http://60.10.139.113:8801/hls/98/index.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CGTN
+http://60.10.139.113:8801/hls/14/index.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CGTN
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CGTN记录
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CGTN俄语
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CGTN法语
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CGTN西语
+https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CGTN阿语
+https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:-1 group-title="央视高清[V6]",CGTN财经
+https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/index_6.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",湖南卫视
+http://60.10.139.113:8801/hls/17/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",浙江卫视
+http://60.10.139.113:8801/hls/18/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",江苏卫视
+http://60.10.139.113:8801/hls/19/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",北京卫视
+http://60.10.139.113:8801/hls/20/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",东方卫视
+http://60.10.139.113:8801/hls/22/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",安徽卫视
+http://60.10.139.113:8801/hls/99/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",天津卫视
+http://60.10.139.113:8801/hls/23/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",河北卫视
+http://60.10.139.113:8801/hls/16/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",山东卫视
+http://60.10.139.113:8801/hls/25/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",河南卫视
+http://60.10.139.113:8801/hls/32/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",江西卫视
+http://60.10.139.113:8801/hls/37/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",湖北卫视
+http://60.10.139.113:8801/hls/29/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",四川卫视
+http://60.10.139.113:8801/hls/30/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",重庆卫视
+http://60.10.139.113:8801/hls/31/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",东南卫视
+http://60.10.139.113:8801/hls/21/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",广东卫视
+http://60.10.139.113:8801/hls/26/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",深圳卫视
+http://60.10.139.113:8801/hls/24/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",广西卫视
+http://60.10.139.113:8801/hls/52/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",辽宁卫视
+http://60.10.139.113:8801/hls/28/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",吉林卫视
+http://60.10.139.113:8801/hls/38/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",黑龙江卫视
+http://60.10.139.113:8801/hls/27/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",贵州卫视
+http://60.10.139.113:8801/hls/36/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",海南卫视
+http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+#EXTINF:-1 group-title="卫视高清[V6]",三沙卫视
+https://srs.ssws.tv/video/sstv-10/index.m3u8#http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+#EXTINF:-1 group-title="卫视高清[V6]",河南卫视
+http://1.94.31.214/php/hntv.php?id=hnws#http://lxajh.top/tv/hn.php?id=hnws
+#EXTINF:-1 group-title="卫视高清[V6]",深圳卫视
+http://nn.7x9d.cn/深圳最新.php?id=szws4k
+#EXTINF:-1 group-title="卫视高清[V6]",云南卫视-
+http://60.10.139.113:8801/hls/51/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",陕西卫视-
+http://60.10.139.113:8801/hls/53/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",山西卫视-
+http://60.10.139.113:8801/hls/54/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",青海卫视-
+http://60.10.139.113:8801/hls/56/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",宁夏卫视-
+http://60.10.139.113:8801/hls/57/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",内蒙古卫视-
+http://60.10.139.113:8801/hls/55/index.m3u8
+#EXTINF:-1 group-title="卫视高清[V6]",山西卫视
+http://jasonzhangnas.f3322.net:7088/udp/233.18.204.211:5140
+#EXTINF:-1 group-title="卫视高清[V6]",陕西卫视
+http://jasonzhangnas.f3322.net:7088/udp/233.18.204.223:5140
+#EXTINF:-1 group-title="卫视高清[V6]",内蒙古卫视
+http://jasonzhangnas.f3322.net:7088/udp/233.18.204.217:5140
+#EXTINF:-1 group-title="卫视高清[V6]",兵团卫视
+http://jasonzhangnas.f3322.net:7088/udp/233.18.204.221:5140
+#EXTINF:-1 group-title="卫视高清[V6]",西藏卫视
+http://jasonzhangnas.f3322.net:7088/udp/233.18.204.222:5140
+#EXTINF:-1 group-title="卫视高清[V6]",宁夏卫视
+http://jasonzhangnas.f3322.net:7088/udp/233.18.204.230:5140
+#EXTINF:-1 group-title="卫视高清[V6]",新疆卫视
+http://jasonzhangnas.f3322.net:7088/udp/233.18.204.220:5140
+#EXTINF:-1 group-title="经典4K",重温经典
+http://8.138.7.223/tv/cwjd.php
+#EXTINF:-1 group-title="经典4K",重温经典
+http://47.97.252.137:8098/daili/cwjd.m3u8?line=0
+#EXTINF:-1 group-title="经典4K",重温经典
+http://47.97.252.137:8098/apptv/cwjd.m3u8
+#EXTINF:-1 group-title="经典4K",重温经典
+http://47.97.252.137:8098/daili/cwjd.m3u8?line=1
+#EXTINF:-1 group-title="经典4K",重温经典
+http://47.97.252.137:8098/tvlive/cwjd.m3u8?node=1
+#EXTINF:-1 group-title="经典4K",重温经典
+http://47.97.252.137:8098/tvlive/cwjd.m3u8?node=3
+#EXTINF:-1 group-title="经典4K",重温经典
+http://47.97.252.137:8098/tvlive/cwjd.m3u8?node=4
+#EXTINF:-1 group-title="经典4K",CCTV4K超高清
 http://47.97.252.137:8098/daili/cctv4k.m3u8?line=0
+#EXTINF:-1 group-title="经典4K",CCTV4K超高清
+http://47.97.252.137:8098/daili/cctv4k.m3u8?line=1
+#EXTINF:-1 group-title="经典4K",CCTV4K超高清
+http://47.97.252.137:8098/tvlive/cctv4k.m3u8?node=4
+#EXTINF:-1 group-title="经典4K",CCTV4K超高清
+http://47.97.252.137:8098/tvlive/cctv4k.m3u8?node=6
+#EXTINF:-1 group-title="经典4K",CCTV4K超高清
+http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=tvzb260306
+#EXTINF:-1 group-title="经典4K",CHC动作电影
+http://47.97.252.137:8098/daili/chcdz.m3u8?line=0
+#EXTINF:-1 group-title="经典4K",CHC动作电影
+http://47.97.252.137:8098/daili/chcdz.m3u8?line=1
+#EXTINF:-1 group-title="经典4K",CHC动作电影
+http://47.97.252.137:8098/tvlive/chcdz.m3u8?node=1
+#EXTINF:-1 group-title="经典4K",CHC动作电影
+http://47.97.252.137:8098/tvlive/chcdz.m3u8?node=3
+#EXTINF:-1 group-title="经典4K",CHC影迷电影
+http://47.97.252.137:8098/daili/chchd.m3u8?line=0
+#EXTINF:-1 group-title="经典4K",CHC影迷电影
+http://47.97.252.137:8098/daili/chchd.m3u8?line=1
+#EXTINF:-1 group-title="经典4K",CHC影迷电影
+http://47.97.252.137:8098/tvlive/chchd.m3u8?node=1
+#EXTINF:-1 group-title="经典4K",CHC影迷电影
+http://47.97.252.137:8098/tvlive/chchd.m3u8?node=3
+#EXTINF:-1 group-title="经典4K",CHC家庭影院
+http://47.97.252.137:8098/daili/chcjt.m3u8?line=0
+#EXTINF:-1 group-title="经典4K",CHC家庭影院
+http://47.97.252.137:8098/daili/chcjt.m3u8?line=1
+#EXTINF:-1 group-title="经典4K",CHC家庭影院
+http://47.97.252.137:8098/tvlive/chcjt.m3u8?node=1
+#EXTINF:-1 group-title="经典4K",CHC家庭影院
+http://47.97.252.137:8098/tvlive/chcjt.m3u8?node=3
+#EXTINF:-1 group-title="安徽地方",亳州综合
+http://36.137.183.45:1100/difang/anhui/bozhou.php?id=bzzh
+#EXTINF:-1 group-title="安徽地方",芜湖新闻综合
+http://36.137.183.45:1100/difang/anhui/wuhu.php?id=whxwzh
+#EXTINF:-1 group-title="安徽地方",芜湖生活
+http://36.137.183.45:1100/difang/anhui/wuhu.php?id=whsh
+#EXTINF:-1 group-title="福建地方",莆田新闻综合
+http://36.137.183.45:1100/difang/fujian/putian.php?id=pttv1
+#EXTINF:-1 group-title="福建地方",莆田2
+http://36.137.183.45:1100/difang/fujian/putian.php?id=pttv2
+#EXTINF:-1 group-title="福建地方",莆田仙游
+http://36.137.183.45:1100/difang/fujian/putian.php?id=ptxy
+#EXTINF:-1 group-title="福建地方",实事频道
+http://36.137.183.45:1100/difang/fujian/shishi.php
+#EXTINF:-1 group-title="广东地方",广州综合
+http://36.137.183.45:1100/difang/guangdong/guangzhou.php?id=zhonghe
+#EXTINF:-1 group-title="广东地方",广州新闻
+http://36.137.183.45:1100/difang/guangdong/guangzhou.php?id=xinwen
+#EXTINF:-1 group-title="广东地方",广州南国都市
+http://36.137.183.45:1100/difang/guangdong/guangzhou.php?id=shenghuo
+#EXTINF:-1 group-title="广东地方",深圳卫视
+http://36.137.183.45:1100/difang/guangdong/shenzhen.php?id=szws
+#EXTINF:-1 group-title="广东地方",深圳都市频道
+http://36.137.183.45:1100/difang/guangdong/shenzhen.php?id=szds
+#EXTINF:-1 group-title="广东地方",深圳电视剧频道
+http://36.137.183.45:1100/difang/guangdong/shenzhen.php?id=szdsj
+#EXTINF:-1 group-title="广东地方",深圳少儿频道
+http://36.137.183.45:1100/difang/guangdong/shenzhen.php?id=szse
+#EXTINF:-1 group-title="广东地方",深圳移动电视
+http://36.137.183.45:1100/difang/guangdong/shenzhen.php?id=szyd
+#EXTINF:-1 group-title="广东地方",深圳宜和购物频道
+http://36.137.183.45:1100/difang/guangdong/shenzhen.php?id=szyh
+#EXTINF:-1 group-title="广东地方",深圳国际频道
+http://36.137.183.45:1100/difang/guangdong/shenzhen.php?id=szgj
+#EXTINF:-1 group-title="贵州地方",贵州卫视
+http://36.137.183.45:1100/difang/guizhou/guizhou.php?id=gzws
+#EXTINF:-1 group-title="贵州地方",贵州公共
+http://36.137.183.45:1100/difang/guizhou/guizhou.php?id=gzgg
+#EXTINF:-1 group-title="贵州地方",贵州影视
+http://36.137.183.45:1100/difang/guizhou/guizhou.php?id=gzwy
+#EXTINF:-1 group-title="贵州地方",贵州生活
+http://36.137.183.45:1100/difang/guizhou/guizhou.php?id=gzsh
+#EXTINF:-1 group-title="贵州地方",贵州法制
+http://36.137.183.45:1100/difang/guizhou/guizhou.php?id=gzfz
+#EXTINF:-1 group-title="贵州地方",贵州科教
+http://36.137.183.45:1100/difang/guizhou/guizhou.php?id=gzkj
+#EXTINF:-1 group-title="贵州地方",贵州经济
+http://36.137.183.45:1100/difang/guizhou/guizhou.php?id=gzjj
+#EXTINF:-1 group-title="贵州地方",贵州家有购物
+http://36.137.183.45:1100/difang/guizhou/guizhou.php?id=gzjygw
+#EXTINF:-1 group-title="贵州地方",贵州移动
+http://36.137.183.45:1100/difang/guizhou/guizhou.php?id=gzyd
+#EXTINF:-1 group-title="贵州地方",仁怀频道
+http://36.137.183.45:1100/difang/guizhou/renhuai.php
+#EXTINF:-1 group-title="海南地方",海南卫视
+http://36.137.183.45:1100/difang/hainan/hainan.php?id=hnws
+#EXTINF:-1 group-title="海南地方",三沙卫视
+http://36.137.183.45:1100/difang/hainan/hainan.php?id=ssws
+#EXTINF:-1 group-title="海南地方",海南新闻频道
+http://36.137.183.45:1100/difang/hainan/hainan.php?id=xwpd
+#EXTINF:-1 group-title="海南地方",海南文旅频道
+http://36.137.183.45:1100/difang/hainan/hainan.php?id=wlpd
+#EXTINF:-1 group-title="海南地方",海南自贸频道
+http://36.137.183.45:1100/difang/hainan/hainan.php?id=jjpd
+#EXTINF:-1 group-title="海南地方",海南公共频道
+http://36.137.183.45:1100/difang/hainan/hainan.php?id=ggpd
+#EXTINF:-1 group-title="海南地方",海南少儿频道
+http://36.137.183.45:1100/difang/hainan/hainan.php?id=sepd
+#EXTINF:-1 group-title="黑龙江地方",齐齐哈尔新闻综合
+http://36.137.183.45:1100/difang/heilongjiang/qiqihaer.php?id=qqhexwzh
+#EXTINF:-1 group-title="黑龙江地方",齐齐哈尔经济法治
+http://36.137.183.45:1100/difang/heilongjiang/qiqihaer.php?id=qqhejjfz
+#EXTINF:-1 group-title="黑龙江地方",七台河新闻综合
+http://36.137.183.45:1100/difang/heilongjiang/qitaihe.php?id=zh
+#EXTINF:-1 group-title="黑龙江地方",七台河民生科教
+http://36.137.183.45:1100/difang/heilongjiang/qitaihe.php?id=gg
+#EXTINF:-1 group-title="河南地方",河南卫视
+http://36.137.183.45:1100/difang/henan/henan.php?id=hnws
+#EXTINF:-1 group-title="河南地方",河南都市
+http://36.137.183.45:1100/difang/henan/henan.php?id=hnds
+#EXTINF:-1 group-title="河南地方",河南民生
+http://36.137.183.45:1100/difang/henan/henan.php?id=hnms
+#EXTINF:-1 group-title="河南地方",河南法治
+http://36.137.183.45:1100/difang/henan/henan.php?id=hmfz
+#EXTINF:-1 group-title="河南地方",河南电视剧
+http://36.137.183.45:1100/difang/henan/henan.php?id=hndsj
+#EXTINF:-1 group-title="河南地方",河南新闻
+http://36.137.183.45:1100/difang/henan/henan.php?id=hnxw
+#EXTINF:-1 group-title="河南地方",欢腾购物
+http://36.137.183.45:1100/difang/henan/henan.php?id=htgw
+#EXTINF:-1 group-title="河南地方",河南公共
+http://36.137.183.45:1100/difang/henan/henan.php?id=hngg
+#EXTINF:-1 group-title="河南地方",河南乡村
+http://36.137.183.45:1100/difang/henan/henan.php?id=hnxc
+#EXTINF:-1 group-title="河南地方",河南梨园
+http://36.137.183.45:1100/difang/henan/henan.php?id=hnly
+#EXTINF:-1 group-title="河南地方",文物宝库
+http://36.137.183.45:1100/difang/henan/henan.php?id=wwbk
+#EXTINF:-1 group-title="河南地方",武术世界
+http://36.137.183.45:1100/difang/henan/henan.php?id=wspd
+#EXTINF:-1 group-title="河南地方",睛彩中原
+http://36.137.183.45:1100/difang/henan/henan.php?id=jczy
+#EXTINF:-1 group-title="河南地方",象视界
+http://36.137.183.45:1100/difang/henan/henan.php?id=xsj
+#EXTINF:-1 group-title="河南地方",郑州新闻综合
+http://36.137.183.45:1100/difang/henan/henan.php?id=zz1
+#EXTINF:-1 group-title="河南地方",开封新闻综合
+http://36.137.183.45:1100/difang/henan/henan.php?id=kf1
+#EXTINF:-1 group-title="河南地方",洛阳新闻综合
+http://36.137.183.45:1100/difang/henan/henan.php?id=ly1
+#EXTINF:-1 group-title="河南地方",平顶山新闻综合
+http://36.137.183.45:1100/difang/henan/henan.php?id=pds1
+#EXTINF:-1 group-title="河南地方",安阳新闻综合
+http://36.137.183.45:1100/difang/henan/henan.php?id=ay1
+#EXTINF:-1 group-title="河南地方",鹤壁新闻综合
+http://36.137.183.45:1100/difang/henan/henan.php?id=hb1
+#EXTINF:-1 group-title="河南地方",新乡新闻综合
+http://36.137.183.45:1100/difang/henan/henan.php?id=xx1
+#EXTINF:-1 group-title="河南地方",焦作新闻综合
+http://36.137.183.45:1100/difang/henan/henan.php?id=jz1
+#EXTINF:-1 group-title="河南地方",濮阳新闻综合
+http://36.137.183.45:1100/difang/henan/henan.php?id=py1
+#EXTINF:-1 group-title="河南地方",许昌新闻综合
+http://36.137.183.45:1100/difang/henan/henan.php?id=xc1
+#EXTINF:-1 group-title="河南地方",漯河新闻综合
+http://36.137.183.45:1100/difang/henan/henan.php?id=lh1
+#EXTINF:-1 group-title="河南地方",三门峡新闻综合
+http://36.137.183.45:1100/difang/henan/henan.php?id=smx1
+#EXTINF:-1 group-title="河南地方",南阳新闻综合
+http://36.137.183.45:1100/difang/henan/henan.php?id=ny1
+#EXTINF:-1 group-title="河南地方",商丘新闻综合
+http://36.137.183.45:1100/difang/henan/henan.php?id=sq1
+#EXTINF:-1 group-title="河南地方",信阳新闻综合
+http://36.137.183.45:1100/difang/henan/henan.php?id=xy1
+#EXTINF:-1 group-title="河南地方",周口新闻综合
+http://36.137.183.45:1100/difang/henan/henan.php?id=zk1
+#EXTINF:-1 group-title="河南地方",驻马店新闻综合
+http://36.137.183.45:1100/difang/henan/henan.php?id=zmd1
+#EXTINF:-1 group-title="河南地方",济源新闻综合
+http://36.137.183.45:1100/difang/henan/henan.php?id=jy1
+#EXTINF:-1 group-title="湖北地方",随州综合
+http://36.137.183.45:1100/difang/hubei/suizhou.php?id=szzh
+#EXTINF:-1 group-title="湖北地方",安麓综合
+http://36.137.183.45:1100/difang/hubei/anlu.php?id=altv
+#EXTINF:-1 group-title="湖南地方",湖南经视
+http://36.137.183.45:1100/difang/hunan/hunan.php?id=hnjs
+#EXTINF:-1 group-title="湖南地方",湖南娱乐
+http://36.137.183.45:1100/difang/hunan/hunan.php?id=hnyl
+#EXTINF:-1 group-title="湖南地方",湖南电影
+http://36.137.183.45:1100/difang/hunan/hunan.php?id=hndy
+#EXTINF:-1 group-title="湖南地方",湖南都市
+http://36.137.183.45:1100/difang/hunan/hunan.php?id=hnds
+#EXTINF:-1 group-title="湖南地方",湖南电视剧
+http://36.137.183.45:1100/difang/hunan/hunan.php?id=hndsj
+#EXTINF:-1 group-title="湖南地方",湖南爱晚
+http://36.137.183.45:1100/difang/hunan/hunan.php?id=hnaw
+#EXTINF:-1 group-title="湖南地方",湖南国际
+http://36.137.183.45:1100/difang/hunan/hunan.php?id=hngj
+#EXTINF:-1 group-title="湖南地方",金鹰纪实
+http://36.137.183.45:1100/difang/hunan/hunan.php?id=jyjs
+#EXTINF:-1 group-title="湖南地方",金鹰卡通
+http://36.137.183.45:1100/difang/hunan/hunan.php?id=jykt
+#EXTINF:-1 group-title="湖南地方",快乐垂钓
+http://36.137.183.45:1100/difang/hunan/hunan.php?id=klcd
+#EXTINF:-1 group-title="湖南地方",长沙新闻综合
+http://36.137.183.45:1100/difang/hunan/hunan.php?id=csxwzh
+#EXTINF:-1 group-title="湖南地方",长沙政法频道
+http://36.137.183.45:1100/difang/hunan/hunan.php?id=cszfpd
+#EXTINF:-1 group-title="湖南地方",快乐购
+http://36.137.183.45:1100/difang/hunan/hunan.php?id=klg
+#EXTINF:-1 group-title="湖南地方",邵阳新闻综合
+http://36.137.183.45:1100/difang/hunan/shaoyang.php?id=syxwzh
+#EXTINF:-1 group-title="湖南地方",邵阳公共
+http://36.137.183.45:1100/difang/hunan/shaoyang.php?id=sygg
+#EXTINF:-1 group-title="江苏地方",铜山综合
+http://36.137.183.45:1100/difang/jiangsu/tongshan.php?id=tsxwzh
+#EXTINF:-1 group-title="江苏地方",铜山三农
+http://36.137.183.45:1100/difang/jiangsu/tongshan.php?id=tssn
+#EXTINF:-1 group-title="吉林地方",吉林卫视
+http://36.137.183.45:1100/difang/jilin/jilin.php?id=jlws
+#EXTINF:-1 group-title="吉林地方",吉林都市
+http://36.137.183.45:1100/difang/jilin/jilin.php?id=jlds
+#EXTINF:-1 group-title="吉林地方",吉林生活
+http://36.137.183.45:1100/difang/jilin/jilin.php?id=jlsh
+#EXTINF:-1 group-title="吉林地方",吉林影视
+http://36.137.183.45:1100/difang/jilin/jilin.php?id=jlys
+#EXTINF:-1 group-title="吉林地方",吉林乡村
+http://36.137.183.45:1100/difang/jilin/jilin.php?id=jlxc
+#EXTINF:-1 group-title="吉林地方",吉林综艺·文化
+http://36.137.183.45:1100/difang/jilin/jilin.php?id=jlzywh
+#EXTINF:-1 group-title="吉林地方",梅河口综合
+http://36.137.183.45:1100/difang/jilin/tonghua.php?id=thmhkzh
+#EXTINF:-1 group-title="山东地方",济南新闻综合频道
+http://36.137.183.45:1100/difang/shandong/jinan.php?id=1676
+#EXTINF:-1 group-title="山东地方",济南都市频道
+http://36.137.183.45:1100/difang/shandong/jinan.php?id=1807
+#EXTINF:-1 group-title="山东地方",济南文旅体育频道
+http://36.137.183.45:1100/difang/shandong/jinan.php?id=1842
+#EXTINF:-1 group-title="山东地方",济南生活频道
+http://36.137.183.45:1100/difang/shandong/jinan.php?id=1855
+#EXTINF:-1 group-title="山东地方",济南少儿频道
+http://36.137.183.45:1100/difang/shandong/jinan.php?id=2234
+#EXTINF:-1 group-title="山东地方",济南鲁中频道
+http://36.137.183.45:1100/difang/shandong/jinan.php?id=1857
+#EXTINF:-1 group-title="山东地方",长清新闻
+http://36.137.183.45:1100/difang/shandong/difang.php?id=jncqxw
+#EXTINF:-1 group-title="山东地方",济铁电视台
+http://36.137.183.45:1100/difang/shandong/difang.php?id=jnjrtv
+#EXTINF:-1 group-title="山东地方",济阳综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=jnjyzh
+#EXTINF:-1 group-title="山东地方",平阴综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=jnpyzh
+#EXTINF:-1 group-title="山东地方",商河综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=jnshzh
+#EXTINF:-1 group-title="山东地方",章丘综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=jnzqzh
+#EXTINF:-1 group-title="山东地方",东营新闻综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=dyxwzh
+#EXTINF:-1 group-title="山东地方",东营区新闻综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=dydyqxw
+#EXTINF:-1 group-title="山东地方",广饶综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=dygrzh
+#EXTINF:-1 group-title="山东地方",利津综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=dyljzh
+#EXTINF:-1 group-title="山东地方",即墨综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=qdjmzh
+#EXTINF:-1 group-title="山东地方",胶州综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=qdjzzh
+#EXTINF:-1 group-title="山东地方",李沧TV
+http://36.137.183.45:1100/difang/shandong/difang.php?id=qdlc
+#EXTINF:-1 group-title="山东地方",崂山TV
+http://36.137.183.45:1100/difang/shandong/difang.php?id=qdls
+#EXTINF:-1 group-title="山东地方",莱西综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=qdlxzh
+#EXTINF:-1 group-title="山东地方",平度新闻综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=qdpdxw
+#EXTINF:-1 group-title="山东地方",潍坊新闻综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=wfxwzh
+#EXTINF:-1 group-title="山东地方",潍坊高新区
+http://36.137.183.45:1100/difang/shandong/difang.php?id=wfgxq
+#EXTINF:-1 group-title="山东地方",安丘综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=wfaqzh
+#EXTINF:-1 group-title="山东地方",滨海新闻综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=wfbhxw
+#EXTINF:-1 group-title="山东地方",昌乐综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=wfclzh
+#EXTINF:-1 group-title="山东地方",奎文电视台
+http://36.137.183.45:1100/difang/shandong/difang.php?id=wfkwtv
+#EXTINF:-1 group-title="山东地方",临朐新闻综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=wflqzh
+#EXTINF:-1 group-title="山东地方",青州综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=wfqzzh
+#EXTINF:-1 group-title="山东地方",潍城TV
+http://36.137.183.45:1100/difang/shandong/difang.php?id=wfwc
+#EXTINF:-1 group-title="山东地方",诸城新闻综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=wfzczh
+#EXTINF:-1 group-title="山东地方",福山综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=ytfszh
+#EXTINF:-1 group-title="山东地方",海阳综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=ythyzh
+#EXTINF:-1 group-title="山东地方",龙口综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=ytlkzh
+#EXTINF:-1 group-title="山东地方",莱阳综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=ytlyzh
+#EXTINF:-1 group-title="山东地方",莱州综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=ytlzzh
+#EXTINF:-1 group-title="山东地方",牟平综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=ytmpzh
+#EXTINF:-1 group-title="山东地方",栖霞综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=ytqxzh
+#EXTINF:-1 group-title="山东地方",博山新闻
+http://36.137.183.45:1100/difang/shandong/difang.php?id=zbbsxw
+#EXTINF:-1 group-title="山东地方",高青综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=zbgqzh
+#EXTINF:-1 group-title="山东地方",桓台综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=zbht1
+#EXTINF:-1 group-title="山东地方",临淄新闻综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=zblzxw
+#EXTINF:-1 group-title="山东地方",沂源综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=zbyyzh
+#EXTINF:-1 group-title="山东地方",淄川新闻
+http://36.137.183.45:1100/difang/shandong/difang.php?id=zbzcxw
+#EXTINF:-1 group-title="山东地方",张店1
+http://36.137.183.45:1100/difang/shandong/difang.php?id=zbzd1
+#EXTINF:-1 group-title="山东地方",枣庄市中综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=zzszzh
+#EXTINF:-1 group-title="山东地方",滕州综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=zztzzh
+#EXTINF:-1 group-title="山东地方",薛城新闻综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=zzxcxw
+#EXTINF:-1 group-title="山东地方",峄城综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=zzyczh
+#EXTINF:-1 group-title="山东地方",无棣综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=bzwdzh
+#EXTINF:-1 group-title="山东地方",阳信新闻综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=bzyxxw
+#EXTINF:-1 group-title="山东地方",乐陵新闻综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=dzllxw
+#EXTINF:-1 group-title="山东地方",武城综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=dzwczh
+#EXTINF:-1 group-title="山东地方",夏津综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=dzxjzh
+#EXTINF:-1 group-title="山东地方",禹城综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=dzyczh
+#EXTINF:-1 group-title="山东地方",曹县综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=hzcxzh
+#EXTINF:-1 group-title="山东地方",鄄城综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=hzjczh
+#EXTINF:-1 group-title="山东地方",嘉祥综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=jijiazh
+#EXTINF:-1 group-title="山东地方",金乡综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=jijxzh
+#EXTINF:-1 group-title="山东地方",梁山综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=jilszh
+#EXTINF:-1 group-title="山东地方",曲阜新闻综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=jiqfxw
+#EXTINF:-1 group-title="山东地方",任城新闻综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=jircxw
+#EXTINF:-1 group-title="山东地方",泗水新闻综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=jissxw
+#EXTINF:-1 group-title="山东地方",鱼台新闻
+http://36.137.183.45:1100/difang/shandong/difang.php?id=jiytxw
+#EXTINF:-1 group-title="山东地方",兖州新闻
+http://36.137.183.45:1100/difang/shandong/difang.php?id=jiyzxw
+#EXTINF:-1 group-title="山东地方",邹城综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=jizczh
+#EXTINF:-1 group-title="山东地方",茌平综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=lccpzh
+#EXTINF:-1 group-title="山东地方",东昌综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=lcdczh
+#EXTINF:-1 group-title="山东地方",冠县综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=lcgxzh
+#EXTINF:-1 group-title="山东地方",临清综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=lclqzh
+#EXTINF:-1 group-title="山东地方",莘县综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=lcsxzh
+#EXTINF:-1 group-title="山东地方",阳谷综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=lcygzh
+#EXTINF:-1 group-title="山东地方",河东综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=lyhdzh
+#EXTINF:-1 group-title="山东地方",莒南综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=lyjnzh
+#EXTINF:-1 group-title="山东地方",兰陵综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=lyllzh
+#EXTINF:-1 group-title="山东地方",蒙阴综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=lymy1
+#EXTINF:-1 group-title="山东地方",郯城综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=lytc1
+#EXTINF:-1 group-title="山东地方",沂南综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=lyynzh
+#EXTINF:-1 group-title="山东地方",沂水综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=lyys1
+#EXTINF:-1 group-title="山东地方",东平综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=tadpzh
+#EXTINF:-1 group-title="山东地方",岱岳TV
+http://36.137.183.45:1100/difang/shandong/difang.php?id=tady
+#EXTINF:-1 group-title="山东地方",宁阳综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=tany1
+#EXTINF:-1 group-title="山东地方",泰山TV
+http://36.137.183.45:1100/difang/shandong/difang.php?id=tats
+#EXTINF:-1 group-title="山东地方",威海环翠综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=whhczh
+#EXTINF:-1 group-title="山东地方",荣成综合
+http://36.137.183.45:1100/difang/shandong/difang.php?id=whrczh
+#EXTINF:-1 group-title="山西地方",山西卫视
+http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=sxws
+#EXTINF:-1 group-title="山西地方",山西经济
+http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=sxjj
+#EXTINF:-1 group-title="山西地方",山西影视
+http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=sxys
+#EXTINF:-1 group-title="山西地方",山西社会与法治
+http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=sxshfz
+#EXTINF:-1 group-title="山西地方",山西文体生活
+http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=sxwtsh
+#EXTINF:-1 group-title="山西地方",山西黄河
+http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=sxhh
+#EXTINF:-1 group-title="山西地方",太原经济生活
+http://36.137.183.45:1100/difang/shanxi/taiyuan.php?id=tyjjsh
+#EXTINF:-1 group-title="山西地方",太原佰乐购
+http://36.137.183.45:1100/difang/shanxi/taiyuan.php?id=tyblg
+#EXTINF:-1 group-title="山西地方",太原城市
+http://36.137.183.45:1100/difang/shanxi/taiyuan.php?id=tycssh
+#EXTINF:-1 group-title="山西地方",太原新闻综合
+http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=ty1
+#EXTINF:-1 group-title="山西地方",大同新闻综合
+http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=dt1
+#EXTINF:-1 group-title="山西地方",阳泉新闻综合
+http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=yq1
+#EXTINF:-1 group-title="山西地方",长治新闻综合
+http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=cz1
+#EXTINF:-1 group-title="山西地方",晋城新闻综合
+http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=jc1
+#EXTINF:-1 group-title="山西地方",朔州新闻综合
+http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=sz1
+#EXTINF:-1 group-title="山西地方",晋中综合
+http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=jz1
+#EXTINF:-1 group-title="山西地方",运城新闻综合
+http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=yc1
+#EXTINF:-1 group-title="山西地方",忻州综合
+http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=xz1
+#EXTINF:-1 group-title="山西地方",临汾新闻综合
+http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=lf1
+#EXTINF:-1 group-title="山西地方",吕梁新闻综合
+http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=ll1
+#EXTINF:-1 group-title="山西地方",保德综合
+http://36.137.183.45:1100/difang/shanxi/difang.php?id=bdzh
+#EXTINF:-1 group-title="山西地方",代县综合
+http://36.137.183.45:1100/difang/shanxi/difang.php?id=dxzh
+#EXTINF:-1 group-title="山西地方",汾阳综合
+http://36.137.183.45:1100/difang/shanxi/difang.php?id=fyzh
+#EXTINF:-1 group-title="陕西地方",陕西卫视
+http://36.137.183.45:1100/difang/shanxi2/shanxi.php?id=sxws
+#EXTINF:-1 group-title="陕西地方",农林卫视
+http://36.137.183.45:1100/difang/shanxi2/shanxi.php?id=nlws
+#EXTINF:-1 group-title="陕西地方",陕西新闻资讯
+http://36.137.183.45:1100/difang/shanxi2/shanxi.php?id=sxxwzx
+#EXTINF:-1 group-title="陕西地方",陕西都市青春
+http://36.137.183.45:1100/difang/shanxi2/shanxi.php?id=sxdsqc
+#EXTINF:-1 group-title="陕西地方",陕西银龄
+http://36.137.183.45:1100/difang/shanxi2/shanxi.php?id=sxyl
+#EXTINF:-1 group-title="陕西地方",陕西秦腔
+http://36.137.183.45:1100/difang/shanxi2/shanxi.php?id=sxqq
+#EXTINF:-1 group-title="陕西地方",陕西体育休闲
+http://36.137.183.45:1100/difang/shanxi2/shanxi.php?id=sxtyxx
+#EXTINF:-1 group-title="陕西地方",陕西移动
+http://36.137.183.45:1100/difang/shanxi2/shanxi.php?id=sxyd
+#EXTINF:-1 group-title="陕西地方",西安新闻综合
+http://36.137.183.45:1100/difang/shanxi2/xian.php?id=xazh
+#EXTINF:-1 group-title="陕西地方",西安都市
+http://36.137.183.45:1100/difang/shanxi2/xian.php?id=xads
+#EXTINF:-1 group-title="陕西地方",西安影视
+http://36.137.183.45:1100/difang/shanxi2/xian.php?id=xays
+#EXTINF:-1 group-title="陕西地方",西安丝路
+http://36.137.183.45:1100/difang/shanxi2/xian.php?id=xasl
+#EXTINF:-1 group-title="陕西地方",西安移动电视
+http://36.137.183.45:1100/difang/shanxi2/xian.php?id=xayd
+#EXTINF:-1 group-title="陕西地方",咸阳综合
+http://36.137.183.45:1100/difang/shanxi2/xianyang.php?id=xyzh
+#EXTINF:-1 group-title="四川地方",成都简阳新闻综合
+http://36.137.183.45:1100/difang/sichuan/difang.php?id=cd_jy1
+#EXTINF:-1 group-title="四川地方",绵阳梓潼综合
+http://36.137.183.45:1100/difang/sichuan/difang.php?id=my_zt1
+#EXTINF:-1 group-title="四川地方",阿坝若尔盖综合
+http://36.137.183.45:1100/difang/sichuan/difang.php?id=ab_reg1
+#EXTINF:-1 group-title="四川地方",凉山甘洛综合
+http://36.137.183.45:1100/difang/sichuan/difang.php?id=ls_gl1
+#EXTINF:-1 group-title="四川地方",广安武胜综合
+http://36.137.183.45:1100/difang/sichuan/difang.php?id=ga_ws1
+#EXTINF:-1 group-title="四川地方",眉山丹棱综合
+http://36.137.183.45:1100/difang/sichuan/difang.php?id=ms_dl1
+#EXTINF:-1 group-title="四川地方",遂宁蓬溪新闻综合
+http://36.137.183.45:1100/difang/sichuan/difang.php?id=sn_px1
+#EXTINF:-1 group-title="新疆地方",乌鲁木齐
+http://36.137.183.45:1100/difang/xinjiang/wulumuqi.php
+#EXTINF:-1 group-title="西藏地方",西藏卫视
+http://36.137.183.45:1100/difang/xizang/xizang.php?id=xzws
+#EXTINF:-1 group-title="西藏地方",藏语卫视
+http://36.137.183.45:1100/difang/xizang/xizang.php?id=xzzy
+#EXTINF:-1 group-title="西藏地方",影视文化
+http://36.137.183.45:1100/difang/xizang/xizang.php?id=xzys
+#EXTINF:-1 group-title="云南地方",云南卫视
+http://36.137.183.45:1100/difang/yunnan/yunnan2.php?id=ynws
+#EXTINF:-1 group-title="云南地方",耿马综合
+http://36.137.183.45:1100/difang/yunnan/yunnan2.php?id=gmzh
+#EXTINF:-1 group-title="云南地方",隆阳综合
+http://36.137.183.45:1100/difang/yunnan/yunnan2.php?id=lyzh
+#EXTINF:-1 group-title="云南地方",玉溪新闻综合
+http://36.137.183.45:1100/difang/yunnan/yunnan2.php?id=yxzh
+#EXTINF:-1 group-title="云南地方",玉溪社会与法
+http://36.137.183.45:1100/difang/yunnan/yunnan2.php?id=yxsf
+#EXTINF:-1 group-title="浙江地方",浙江卫视
+http://36.137.183.45:1100/difang/zhejiang/zhejiang.php?id=zjws
+#EXTINF:-1 group-title="浙江地方",浙江钱江
+http://36.137.183.45:1100/difang/zhejiang/zhejiang.php?id=zjqj
+#EXTINF:-1 group-title="浙江地方",浙江生活
+http://36.137.183.45:1100/difang/zhejiang/zhejiang.php?id=zjjjsh
+#EXTINF:-1 group-title="浙江地方",浙江教科影视
+http://36.137.183.45:1100/difang/zhejiang/zhejiang.php?id=zjjkys
+#EXTINF:-1 group-title="浙江地方",浙江民生休闲
+http://36.137.183.45:1100/difang/zhejiang/zhejiang.php?id=zjmsxx
+#EXTINF:-1 group-title="浙江地方",浙江新闻
+http://36.137.183.45:1100/difang/zhejiang/zhejiang.php?id=zjxw
+#EXTINF:-1 group-title="浙江地方",浙江少儿
+http://36.137.183.45:1100/difang/zhejiang/zhejiang.php?id=zjse
+#EXTINF:-1 group-title="浙江地方",浙江好易购
+http://36.137.183.45:1100/difang/zhejiang/zhejiang.php?id=zjhyg
+#EXTINF:-1 group-title="浙江地方",浙江之江纪录
+http://36.137.183.45:1100/difang/zhejiang/zhejiang.php?id=zjzjjl
+#EXTINF:-1 group-title="浙江地方",萧山综合
+http://36.137.183.45:1100/difang/zhejiang/hangzhou.php?id=xszh
+#EXTINF:-1 group-title="浙江地方",东阳影视生活
+http://36.137.183.45:1100/difang/zhejiang/hangzhou.php?id=dyyssh
+#EXTINF:-1 group-title="浙江地方",天台和合频道
+http://36.137.183.45:1100/difang/zhejiang/hangzhou.php?id=tthh
+#EXTINF:-1 group-title="浙江地方",常山新闻综合
+http://36.137.183.45:1100/difang/zhejiang/hangzhou.php?id=csxwzh
+#EXTINF:-1 group-title="浙江地方",永康新闻综合
+http://36.137.183.45:1100/difang/zhejiang/hangzhou.php?id=ykxwzh
+#EXTINF:-1 group-title="浙江地方",永康华溪频道
+http://36.137.183.45:1100/difang/zhejiang/hangzhou.php?id=ykhxpd
+#EXTINF:-1 group-title="浙江地方",江山电视台
+http://36.137.183.45:1100/difang/zhejiang/hangzhou.php?id=jstv
+#EXTINF:-1 group-title="浙江地方",杭州萧山综合
+http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=hzxs1
+#EXTINF:-1 group-title="浙江地方",温州苍南新闻综合
+http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=wzcn1
+#EXTINF:-1 group-title="浙江地方",温州电视台
+http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=wzdt1
+#EXTINF:-1 group-title="浙江地方",金华东阳影视生活
+http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=jhdy2
+#EXTINF:-1 group-title="浙江地方",金华永康新闻综合
+http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=jhyk1
+#EXTINF:-1 group-title="浙江地方",金华永康华溪频道
+http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=jhyk2
+#EXTINF:-1 group-title="浙江地方",台州天台和合频道
+http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=tztt1
+#EXTINF:-1 group-title="浙江地方",台州玉环新闻综合
+http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=tzyh1
+#EXTINF:-1 group-title="浙江地方",丽水龙泉新闻综合
+http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=lslq1
+#EXTINF:-1 group-title="浙江地方",丽水松阳新闻综合
+http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=lssy1
+#EXTINF:-1 group-title="浙江地方",丽水庆元电视台
+http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=lsqy1
+#EXTINF:-1 group-title="浙江地方",衢州常山新闻综合
+http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=qzcs1
+#EXTINF:-1 group-title="浙江地方",衢州开化综合
+http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=qzkh1
+#EXTINF:-1 group-title="浙江地方",舟山普陀新闻综合
+http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=zspt1
+#EXTINF:-1 group-title="广东频道",广州综合
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+#EXTINF:-1 group-title="广东频道",广州新闻
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
+#EXTINF:-1 group-title="广东频道",广州南国都市
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
+#EXTINF:-1 group-title="广东频道",东莞新闻综合
+http://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
+#EXTINF:-1 group-title="广东频道",东莞生活资讯
+http://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
+#EXTINF:-1 group-title="广东频道",河源综合
+https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",河源公共
+https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",五华综合
+http://p2hs.vzan.com/slowlive/621139761151691240/live.m3u8
+#EXTINF:-1 group-title="广东频道",韶关新闻综合
+https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+#EXTINF:-1 group-title="广东频道",云浮综合
+https://livestream.oeeee.com/slive/28283.m3u8
+#EXTINF:-1 group-title="广东频道",云浮文旅
+https://livestream.oeeee.com/slive/28284.m3u8
+#EXTINF:-1 group-title="广东频道",怀集综合
+https://www.zqhjtv.com/hls/hjzhpd.m3u8
+#EXTINF:-1 group-title="广东频道",中山综合
+http://v.zsbtv.com.cn/lsdream/qTl38me/1000/live.m3u8
+#EXTINF:-1 group-title="浙江频道",绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
+#EXTINF:-1 group-title="浙江频道",绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
+#EXTINF:-1 group-title="浙江频道",绍兴文化影院
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+#EXTINF:-1 group-title="浙江频道",武义新闻综合
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="浙江频道",平湖新闻综合
+http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="浙江频道",平湖民生休闲
+http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
+#EXTINF:-1 group-title="浙江频道",萧山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="浙江频道",萧山生活频道
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+#EXTINF:-1 group-title="浙江频道",余杭综合频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="浙江频道",余杭未来E频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
+#EXTINF:-1 group-title="浙江频道",余姚新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="浙江频道",余姚姚江文化
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
+#EXTINF:-1 group-title="浙江频道",嵊州新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="浙江频道",诸暨新闻综合
+http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
+#EXTINF:-1 group-title="浙江频道",上虞新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="浙江频道",上虞文化影院
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+#EXTINF:-1 group-title="浙江频道",上虞新商都
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+#EXTINF:-1 group-title="浙江频道",兰溪新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="上海频道",东方卫视
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 group-title="上海频道",点掌财经
+https://volcanopull.aniu.tv/live/aniu2/index.m3u8
+#EXTINF:-1 group-title="上海频道",金山电视台
+http://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
+#EXTINF:-1 group-title="北京频道",顺义综合
+http://livebjsy.chinamcache.com/live/zb01.m3u8
+#EXTINF:-1 group-title="江苏频道",江阴新闻综合
+http://221.228.70.101:8080/live/xinwen.m3u8
+#EXTINF:-1 group-title="山东频道",烟台新闻综合
+http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
+#EXTINF:-1 group-title="山东频道",烟台影视
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+#EXTINF:-1 group-title="山东频道",菏泽新闻综合
+http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
+#EXTINF:-1 group-title="山东频道",菏泽经济生活
+http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
+#EXTINF:-1 group-title="河南频道",潢川综合
+http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
+#EXTINF:-1 group-title="河南频道",郏县综合
+http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8?zhend
+#EXTINF:-1 group-title="河南频道",新野综合
+http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
+#EXTINF:-1 group-title="河南频道",舞钢新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
+#EXTINF:-1 group-title="河南频道",舞阳新闻综合
+http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
+#EXTINF:-1 group-title="河南频道",渑池新闻综合
+http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
+#EXTINF:-1 group-title="河南频道",沁阳新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
+#EXTINF:-1 group-title="河南频道",新乡县电视台
+http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
+#EXTINF:-1 group-title="河南频道",义马新闻综合
+http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
+#EXTINF:-1 group-title="河南频道",灵宝新闻综合
+http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
+#EXTINF:-1 group-title="河南频道",台前新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10927-1.m3u8
+#EXTINF:-1 group-title="河南频道",原阳新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
+#EXTINF:-1 group-title="河南频道",灵宝新闻综合
+http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
+#EXTINF:-1 group-title="河南频道",鹿邑新闻频道
+http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8?zhend
+#EXTINF:-1 group-title="河南频道",新乡县电视台
+http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8?zhend
+#EXTINF:-1 group-title="河南频道",淇县电视台
+http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
+#EXTINF:-1 group-title="河南频道",上街电视台
+http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
+#EXTINF:-1 group-title="河南频道",固始综合
+http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
+#EXTINF:-1 group-title="河南频道",唐河一套
+http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
+#EXTINF:-1 group-title="河南频道",孟州综合
+http://tvpull.dxhmt.cn:9081/tv/10883-1.m3u8
+#EXTINF:-1 group-title="河南频道",林州综合
+http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8
+#EXTINF:-1 group-title="河南频道",上蔡综合
+http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
+#EXTINF:-1 group-title="河南频道",淅川综合
+http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
+#EXTINF:-1 group-title="河南频道",襄城综合
+http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
+#EXTINF:-1 group-title="河南频道",项城新闻
+http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
+#EXTINF:-1 group-title="河南频道",鄢陵综合
+http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
+#EXTINF:-1 group-title="河南频道",扶沟综合
+http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
+#EXTINF:-1 group-title="河南频道",临颍综合
+http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
+#EXTINF:-1 group-title="河南频道",西平综合
+http://tvpull.dxhmt.cn:9081/tv/11721-1.m3u8
+#EXTINF:-1 group-title="河南频道",淮滨综合
+http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
+#EXTINF:-1 group-title="河南频道",内乡综合
+http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
+#EXTINF:-1 group-title="河南频道",新蔡综合
+http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
+#EXTINF:-1 group-title="河南频道",新县综合
+http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
+#EXTINF:-1 group-title="河南频道",禹州综合
+http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
+#EXTINF:-1 group-title="河南频道",遂平一套
+http://tvpull.dxhmt.cn:9081/tv/11728-1.m3u8
+#EXTINF:-1 group-title="河南频道",方城一套
+http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
+#EXTINF:-1 group-title="河南频道",滑县新闻
+http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
+#EXTINF:-1 group-title="河南频道",获嘉综合
+http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
+#EXTINF:-1 group-title="河南频道",郏县综合
+http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
+#EXTINF:-1 group-title="河南频道",鹿邑新闻
+http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
+#EXTINF:-1 group-title="河南频道",平舆综合
+http://tvpull.dxhmt.cn:9081/tv/11723-1.m3u8
+#EXTINF:-1 group-title="河南频道",确山综合
+http://tvpull.dxhmt.cn:9081/tv/11725-1.m3u8
+#EXTINF:-1 group-title="河南频道",温县综合
+http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
+#EXTINF:-1 group-title="河南频道",西华综合
+http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8
+#EXTINF:-1 group-title="河南频道",延津综合
+http://tvpull.dxhmt.cn:9081/tv/10726-1.m3u8
+#EXTINF:-1 group-title="河南频道",永城新闻
+http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
+#EXTINF:-1 group-title="河南频道",长垣综合
+http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
+#EXTINF:-1 group-title="河南频道",方城一套
+http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend
+#EXTINF:-1 group-title="河南频道",扶沟综合
+http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?zhend
+#EXTINF:-1 group-title="河南频道",滑县新闻
+http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?zhend
+#EXTINF:-1 group-title="河南频道",温县综合
+http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend
+#EXTINF:-1 group-title="河南频道",新野综合
+http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
+#EXTINF:-1 group-title="河南频道",荥阳综合
+http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
+#EXTINF:-1 group-title="河南频道",禹州综合
+http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?zhend
+#EXTINF:-1 group-title="河南频道",内黄综合频道
+http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
+#EXTINF:-1 group-title="河南频道",荥阳综合
+http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
+#EXTINF:-1 group-title="河南频道",焦作公共
+http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+#EXTINF:-1 group-title="河南频道",焦作综合
+http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+#EXTINF:-1 group-title="河南频道",鹤岗新闻综合
+http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",河北卫视
+http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+#EXTINF:-1 group-title="河北频道",河北卫视
+http://event.pull.hebtv.com/jishi/weishi_tingyun.flv
+#EXTINF:-1 group-title="河北频道",邯郸新闻综合
+http://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",邯郸公共
+http://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",邯郸科技教育
+http://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",涉县新闻综合
+https://jwcdnqx.hebyun.com.cn/live/SXTV1/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",昌黎电视台
+https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",涞水电视台
+https://jwcdnqx.hebyun.com.cn/live/lsdst/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",涞源综合
+https://jwcdnqx.hebyun.com.cn/live/jiyunlaiyuan/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",徐水电视台
+https://jwcdnqx.hebyun.com.cn/live/jiyunxushui123/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",三河综合
+https://jwcdnqx.hebyun.com.cn/live/jiyunsanhe3/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",青县新闻
+https://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",任丘新闻综合
+https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",肃宁综合
+https://jwplay.hebyun.com.cn/live/sndst01/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",衡水新闻综合
+http://hls.hsrtv.cn/live/hshstv1.m3u8
+#EXTINF:-1 group-title="河北频道",衡水经济科教
+http://hls.hsrtv.cn/live/hshstv2.m3u8
+#EXTINF:-1 group-title="河北频道",承德新闻综合
+https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",承德文化旅游
+https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",丰宁综合
+https://jwcdnqx.hebyun.com.cn/live/fengningzonghe/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",隆化综合
+https://jwcdnqx.hebyun.com.cn/live/lhtv/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",滦平新闻
+http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",平泉综合
+https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",平泉影视
+https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",双滦新闻
+https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",兴隆综合
+https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",邢台综合
+http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",邢台城市生活
+https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",南和综合
+https://jwcdnqx.hebyun.com.cn/live/NHTV1/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",南和影视
+https://jwcdnqx.hebyun.com.cn/live/NHTV2/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",清河经济综艺
+https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="河北频道",张家口新闻综合
+https://nlive.zjkgdcs.com:8572/live/xwzhpd.m3u8
+#EXTINF:-1 group-title="河北频道",张家口公共
+https://nlive.zjkgdcs.com:8572/live/zjktv2.m3u8
+#EXTINF:-1 group-title="山西频道",壶关电视台
+http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
+#EXTINF:-1 group-title="山西频道",武乡融媒体
+http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
+#EXTINF:-1 group-title="山西频道",武乡融媒体
+http://60.220.198.84:81/0.m3u8
+#EXTINF:-1 group-title="山西频道",万荣综合
+http://60.222.246.220:19433/hls1.m3u8
+#EXTINF:-1 group-title="山西频道",太谷新闻综合
+http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
+#EXTINF:-1 group-title="山西频道",定襄综合
+http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
+#EXTINF:-1 group-title="山西频道",阳曲综合
+http://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8
+#EXTINF:-1 group-title="山西频道",平顺综合
+http://player4.juyun.tv:80/tv/149466149.m3u8
+#EXTINF:-1 group-title="山西频道",上党区电视台
+http://zhibo.czmarathon.net/cdd/TVLive.m3u8?auth_key=1724143889-0-0-929d4ecd8b7700822ec202b14ebc6c3c
+#EXTINF:-1 group-title="山西频道",灵丘融媒
+http://player4.juyun.tv/tv/150434132.m3u8
+#EXTINF:-1 group-title="山西频道",左云电视台
+http://wu31afbh.live.sxmty.com/live/hls/c5a0ebd3e73b4c4cbc91ea3b9abf1f54/51859030f2384070bf5bedce43126f6b-1.m3u8
+#EXTINF:-1 group-title="山西频道",闻喜综合
+https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8
+#EXTINF:-1 group-title="山西频道",原平综合
+http://xkmspyxn.live.sxmty.com/live/hls/f9656a0b2386464d972a0871a16d2fed/8a25d45c2f98451da8927c088f189446.m3u8
+#EXTINF:-1 group-title="内蒙古频道",呼和浩特新闻综合
+http://play1-qk.nmtv.cn/live/1735545967595013.m3u8
+#EXTINF:-1 group-title="内蒙古频道",包头新闻综合
+http://play1-qk.nmtv.cn/live/1735546150395017.m3u8
+#EXTINF:-1 group-title="内蒙古频道",呼伦贝尔新闻综合
+http://play1-qk.nmtv.cn/live/1735546791130040.m3u8
+#EXTINF:-1 group-title="内蒙古频道",兴安新闻综合
+http://play1-qk.nmtv.cn/live/1735546886977046.m3u8
+#EXTINF:-1 group-title="内蒙古频道",通辽新闻综合
+http://play1-qk.nmtv.cn/live/1735546745882037.m3u8
+#EXTINF:-1 group-title="内蒙古频道",赤峰新闻综合
+http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+#EXTINF:-1 group-title="内蒙古频道",锡林郭勒盟一套
+http://play1-qk.nmtv.cn/live/1735546994821050.m3u8
+#EXTINF:-1 group-title="内蒙古频道",乌兰察布新闻综合
+http://play1-qk.nmtv.cn/live/1735546836103043.m3u8
+#EXTINF:-1 group-title="内蒙古频道",鄂尔多斯新闻综合
+http://play1-qk.nmtv.cn/live/1735546299241021.m3u8
+#EXTINF:-1 group-title="内蒙古频道",巴彦淖尔新闻综合
+http://play1-qk.nmtv.cn/live/1735546423467029.m3u8
+#EXTINF:-1 group-title="内蒙古频道",乌海新闻综合
+http://play1-qk.nmtv.cn/live/1735546358166026.m3u8
+#EXTINF:-1 group-title="内蒙古频道",阿拉善新闻综合
+http://play1-qk.nmtv.cn/live/1735547046115053.m3u8
+#EXTINF:-1 group-title="内蒙古频道",元宝山电视台
+http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6.m3u8
+#EXTINF:-1 group-title="黑龙江频道",哈尔滨新闻综合
+https://rmplive.hljtv.com/live/haerbin.m3u8
+#EXTINF:-1 group-title="黑龙江频道",哈尔滨新闻综合
+https://masterpull.hljtv.com/live/sPvVy8Ju.m3u8
+#EXTINF:-1 group-title="黑龙江频道",宾县综合
+https://rmplive.hljtv.com/live/binxian.m3u8
+#EXTINF:-1 group-title="黑龙江频道",宾县综合
+https://masterpull.hljtv.com/live/DlkgB2B7.m3u8
+#EXTINF:-1 group-title="黑龙江频道",巴彦综合
+https://masterpull.hljtv.com/live/vAtZi96R.m3u8
+#EXTINF:-1 group-title="黑龙江频道",方正综合
+https://rmplive.hljtv.com/live/fangzheng.m3u8
+#EXTINF:-1 group-title="黑龙江频道",方正综合
+https://masterpull.hljtv.com/live/sSN2Uyb2.m3u8
+#EXTINF:-1 group-title="黑龙江频道",呼兰综合
+https://rmplive.hljtv.com/live/hulan.m3u8
+#EXTINF:-1 group-title="黑龙江频道",呼兰综合
+https://masterpull.hljtv.com/live/zja8TAIO.m3u8
+#EXTINF:-1 group-title="黑龙江频道",尚志综合
+https://rmplive.hljtv.com/live/shangzhi.m3u8
+#EXTINF:-1 group-title="黑龙江频道",尚志综合
+https://masterpull.hljtv.com/live/EQnKvoc9.m3u8
+#EXTINF:-1 group-title="黑龙江频道",通河综合
+https://masterpull.hljtv.com/live/b71kCDir.m3u8
+#EXTINF:-1 group-title="黑龙江频道",五常综合
+https://rmplive.hljtv.com/live/wuchang.m3u8
+#EXTINF:-1 group-title="黑龙江频道",五常综合
+https://masterpull.hljtv.com/live/R9bOklLT.m3u8
+#EXTINF:-1 group-title="黑龙江频道",依兰综合
+https://rmplive.hljtv.com/live/yilan.m3u8
+#EXTINF:-1 group-title="黑龙江频道",依兰综合
+https://masterpull.hljtv.com/live/4sTJDdbE.m3u8
+#EXTINF:-1 group-title="黑龙江频道",延寿综合
+https://rmplive.hljtv.com/live/yanshou.m3u8
+#EXTINF:-1 group-title="黑龙江频道",延寿综合
+https://masterpull.hljtv.com/live/XBqKssjB.m3u8
+#EXTINF:-1 group-title="黑龙江频道",大庆新闻综合
+https://masterpull.hljtv.com/live/4WdrZLCq.m3u8
+#EXTINF:-1 group-title="黑龙江频道",林甸综合
+https://rmplive.hljtv.com/live/lindian.m3u8
+#EXTINF:-1 group-title="黑龙江频道",林甸综合
+https://masterpull.hljtv.com/live/23PN6NW9.m3u8
+#EXTINF:-1 group-title="黑龙江频道",肇源综合
+https://masterpull.hljtv.com/live/XkQg7QSI.m3u8
+#EXTINF:-1 group-title="黑龙江频道",齐齐哈尔新闻综合
+https://rmplive.hljtv.com/live/qiqihaer.m3u8
+#EXTINF:-1 group-title="黑龙江频道",齐齐哈尔新闻综合
+https://masterpull.hljtv.com/live/dUi8b96l.m3u8
+#EXTINF:-1 group-title="黑龙江频道",拜泉综合
+https://rmplive.hljtv.com/live/baiquan.m3u8
+#EXTINF:-1 group-title="黑龙江频道",拜泉综合
+https://masterpull.hljtv.com/live/zHtOXXUz.m3u8
+#EXTINF:-1 group-title="黑龙江频道",甘南县综合
+https://rmplive.hljtv.com/live/gannan.m3u8
+#EXTINF:-1 group-title="黑龙江频道",甘南县综合
+https://masterpull.hljtv.com/live/YbFyF4Jb.m3u8
+#EXTINF:-1 group-title="黑龙江频道",克东综合
+https://rmplive.hljtv.com/live/kedong.m3u8
+#EXTINF:-1 group-title="黑龙江频道",克东综合
+https://masterpull.hljtv.com/live/PO1DiGiN.m3u8
+#EXTINF:-1 group-title="黑龙江频道",克山综合
+https://rmplive.hljtv.com/live/keshan.m3u8
+#EXTINF:-1 group-title="黑龙江频道",克山综合
+https://masterpull.hljtv.com/live/58lOw0L5.m3u8
+#EXTINF:-1 group-title="黑龙江频道",龙江综合
+https://rmplive.hljtv.com/live/longjiang.m3u8
+#EXTINF:-1 group-title="黑龙江频道",龙江综合
+https://masterpull.hljtv.com/live/vRSdDMSR.m3u8
+#EXTINF:-1 group-title="黑龙江频道",讷河综合
+https://rmplive.hljtv.com/live/nehe.m3u8
+#EXTINF:-1 group-title="黑龙江频道",讷河综合
+https://masterpull.hljtv.com/live/PXWxDY1V.m3u8
+#EXTINF:-1 group-title="黑龙江频道",泰来综合
+https://rmplive.hljtv.com/live/tailai.m3u8
+#EXTINF:-1 group-title="黑龙江频道",泰来综合
+https://masterpull.hljtv.com/live/cfkAgOUK.m3u8
+#EXTINF:-1 group-title="黑龙江频道",依安综合
+https://rmplive.hljtv.com/live/yian.m3u8
+#EXTINF:-1 group-title="黑龙江频道",依安综合
+https://masterpull.hljtv.com/live/4hhgo1mX.m3u8
+#EXTINF:-1 group-title="黑龙江频道",伊春新闻综合
+https://rmplive.hljtv.com/live/yichun.m3u8
+#EXTINF:-1 group-title="黑龙江频道",伊春新闻综合
+https://masterpull.hljtv.com/live/vQtnS3vX.m3u8
+#EXTINF:-1 group-title="黑龙江频道",嘉荫综合
+https://rmplive.hljtv.com/live/jiayin.m3u8
+#EXTINF:-1 group-title="黑龙江频道",嘉荫综合
+https://masterpull.hljtv.com/live/k5IX9frJ.m3u8
+#EXTINF:-1 group-title="黑龙江频道",铁力综合
+https://rmplive.hljtv.com/live/tieli.m3u8
+#EXTINF:-1 group-title="黑龙江频道",铁力综合
+https://masterpull.hljtv.com/live/iUtbDFud.m3u8
+#EXTINF:-1 group-title="黑龙江频道",七台河新闻综合
+http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
+#EXTINF:-1 group-title="黑龙江频道",七台河新闻综合
+https://rmplive.hljtv.com/live/qitaihe.m3u8
+#EXTINF:-1 group-title="黑龙江频道",七台河新闻综合
+https://masterpull.hljtv.com/live/9FZ7k2XF.m3u8
+#EXTINF:-1 group-title="黑龙江频道",七台河民生社教
+http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
+#EXTINF:-1 group-title="黑龙江频道",勃利综合
+https://rmplive.hljtv.com/live/boli.m3u8
+#EXTINF:-1 group-title="黑龙江频道",勃利综合
+https://masterpull.hljtv.com/live/6rx9bifO.m3u8
+#EXTINF:-1 group-title="黑龙江频道",牡丹江新闻综合
+https://masterpull.hljtv.com/live/newLqQS9Lcp.m3u8
+#EXTINF:-1 group-title="黑龙江频道",东宁综合
+https://rmplive.hljtv.com/live/dongning.m3u8
+#EXTINF:-1 group-title="黑龙江频道",东宁综合
+https://masterpull.hljtv.com/live/UQdxnsw8.m3u8
+#EXTINF:-1 group-title="黑龙江频道",海林综合
+https://rmplive.hljtv.com/live/hailin.m3u8
+#EXTINF:-1 group-title="黑龙江频道",海林综合
+https://masterpull.hljtv.com/live/lqo9Fcdy.m3u8
+#EXTINF:-1 group-title="黑龙江频道",林口综合
+https://masterpull.hljtv.com/live/pqheD07F.m3u8
+#EXTINF:-1 group-title="黑龙江频道",穆棱综合
+https://rmplive.hljtv.com/live/muleng.m3u8
+#EXTINF:-1 group-title="黑龙江频道",穆棱综合
+https://masterpull.hljtv.com/live/5c9Mi3FV.m3u8
+#EXTINF:-1 group-title="黑龙江频道",宁安综合
+https://masterpull.hljtv.com/live/BV2wr0vH.m3u8
+#EXTINF:-1 group-title="黑龙江频道",绥芬河综合
+https://rmplive.hljtv.com/live/suifenhe.m3u8
+#EXTINF:-1 group-title="黑龙江频道",绥芬河综合
+https://masterpull.hljtv.com/live/pXxFNIbi.m3u8
+#EXTINF:-1 group-title="黑龙江频道",鹤岗新闻综合
+https://rmplive.hljtv.com/live/hegang.m3u8
+#EXTINF:-1 group-title="黑龙江频道",鹤岗新闻综合
+https://masterpull.hljtv.com/live/rApKWXbX.m3u8
+#EXTINF:-1 group-title="黑龙江频道",萝北综合
+https://rmplive.hljtv.com/live/luobei.m3u8
+#EXTINF:-1 group-title="黑龙江频道",绥滨综合
+https://masterpull.hljtv.com/live/DQiqZPCj.m3u8
+#EXTINF:-1 group-title="黑龙江频道",富锦综合
+https://masterpull.hljtv.com/live/wOBN3GqO.m3u8
+#EXTINF:-1 group-title="黑龙江频道",抚远综合
+https://rmplive.hljtv.com/live/fuyuan.m3u8
+#EXTINF:-1 group-title="黑龙江频道",抚远综合
+https://masterpull.hljtv.com/live/tVnkOTOG.m3u8
+#EXTINF:-1 group-title="黑龙江频道",桦南综合
+https://rmplive.hljtv.com/live/huanan.m3u8
+#EXTINF:-1 group-title="黑龙江频道",桦南综合
+https://masterpull.hljtv.com/live/76oCVZd3.m3u8
+#EXTINF:-1 group-title="黑龙江频道",同江综合
+https://masterpull.hljtv.com/live/oFc7fCUf.m3u8
+#EXTINF:-1 group-title="黑龙江频道",汤原综合
+https://masterpull.hljtv.com/live/lt2CmppY.m3u8
+#EXTINF:-1 group-title="黑龙江频道",鸡西新闻综合
+https://rmplive.hljtv.com/live/jixi.m3u8
+#EXTINF:-1 group-title="黑龙江频道",鸡西新闻综合
+https://masterpull.hljtv.com/live/uqFwlQDH.m3u8
+#EXTINF:-1 group-title="黑龙江频道",虎林综合
+https://rmplive.hljtv.com/live/hulin.m3u8
+#EXTINF:-1 group-title="黑龙江频道",虎林综合
+https://masterpull.hljtv.com/live/SJJAEqBS.m3u8
+#EXTINF:-1 group-title="黑龙江频道",鸡东综合
+https://rmplive.hljtv.com/live/jidong.m3u8
+#EXTINF:-1 group-title="黑龙江频道",鸡东综合
+https://masterpull.hljtv.com/live/o4NExHSz.m3u8
+#EXTINF:-1 group-title="黑龙江频道",绥化新闻综合
+https://rmplive.hljtv.com/live/suihua.m3u8
+#EXTINF:-1 group-title="黑龙江频道",绥化新闻综合
+https://masterpull.hljtv.com/live/v4o2g1hs.m3u8
+#EXTINF:-1 group-title="黑龙江频道",安达综合
+https://rmplive.hljtv.com/live/anda.m3u8
+#EXTINF:-1 group-title="黑龙江频道",安达综合
+https://masterpull.hljtv.com/live/FsGxlDZQ.m3u8
+#EXTINF:-1 group-title="黑龙江频道",海伦综合
+https://rmplive.hljtv.com/live/hailun.m3u8
+#EXTINF:-1 group-title="黑龙江频道",海伦综合
+https://masterpull.hljtv.com/live/VFNlgeFO.m3u8
+#EXTINF:-1 group-title="黑龙江频道",明水综合
+https://rmplive.hljtv.com/live/mingshui.m3u8
+#EXTINF:-1 group-title="黑龙江频道",明水综合
+https://masterpull.hljtv.com/live/bOJ0OStw.m3u8
+#EXTINF:-1 group-title="黑龙江频道",青冈综合
+https://rmplive.hljtv.com/live/qinggang.m3u8
+#EXTINF:-1 group-title="黑龙江频道",青冈综合
+https://masterpull.hljtv.com/live/bJGIloJe.m3u8
+#EXTINF:-1 group-title="黑龙江频道",绥棱综合
+https://masterpull.hljtv.com/live/p7WSvrJJ.m3u8
+#EXTINF:-1 group-title="黑龙江频道",望奎综合
+https://rmplive.hljtv.com/live/wangkui.m3u8
+#EXTINF:-1 group-title="黑龙江频道",望奎综合
+https://masterpull.hljtv.com/live/d3loVdqX.m3u8
+#EXTINF:-1 group-title="黑龙江频道",肇东综合
+https://rmplive.hljtv.com/live/zhaodong.m3u8
+#EXTINF:-1 group-title="黑龙江频道",肇东综合
+https://masterpull.hljtv.com/live/G84ZsUTP.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑河新闻综合
+https://rmplive.hljtv.com/live/heihe.m3u8
+#EXTINF:-1 group-title="黑龙江频道",黑河新闻综合
+https://masterpull.hljtv.com/live/iyoENgSP.m3u8
+#EXTINF:-1 group-title="黑龙江频道",北安综合
+https://rmplive.hljtv.com/live/beian.m3u8
+#EXTINF:-1 group-title="黑龙江频道",北安综合
+https://masterpull.hljtv.com/live/EfoBDa06.m3u8
+#EXTINF:-1 group-title="黑龙江频道",嫩江综合
+https://rmplive.hljtv.com/live/nenjiang.m3u8
+#EXTINF:-1 group-title="黑龙江频道",嫩江综合
+https://masterpull.hljtv.com/live/hrSfaA6T.m3u8
+#EXTINF:-1 group-title="黑龙江频道",孙吴综合
+https://rmplive.hljtv.com/live/sunwu.m3u8
+#EXTINF:-1 group-title="黑龙江频道",孙吴综合
+https://masterpull.hljtv.com/live/eXFjvNaf.m3u8
+#EXTINF:-1 group-title="黑龙江频道",五大连池综合
+https://rmplive.hljtv.com/live/wudalianchi.m3u8
+#EXTINF:-1 group-title="黑龙江频道",五大连池综合
+https://masterpull.hljtv.com/live/6ic4FFgF.m3u8
+#EXTINF:-1 group-title="黑龙江频道",逊克综合
+https://masterpull.hljtv.com/live/a0CULO9O.m3u8
+#EXTINF:-1 group-title="黑龙江频道",饶河综合
+https://rmplive.hljtv.com/live/raohe.m3u8
+#EXTINF:-1 group-title="黑龙江频道",饶河综合
+https://masterpull.hljtv.com/live/DokNxER6.m3u8
+#EXTINF:-1 group-title="黑龙江频道",友谊综合
+https://rmplive.hljtv.com/live/youyi.m3u8
+#EXTINF:-1 group-title="黑龙江频道",友谊综合
+https://masterpull.hljtv.com/live/LVpBWYXl.m3u8
+#EXTINF:-1 group-title="黑龙江频道",大兴安岭新闻综合
+https://rmplive.hljtv.com/live/daxinganling.m3u8
+#EXTINF:-1 group-title="黑龙江频道",大兴安岭新闻综合
+https://masterpull.hljtv.com/live/H2kVyS15.m3u8
+#EXTINF:-1 group-title="黑龙江频道",呼玛综合
+https://rmplive.hljtv.com/live/huma.m3u8
+#EXTINF:-1 group-title="黑龙江频道",呼玛综合
+https://masterpull.hljtv.com/live/yN3vDovm.m3u8
+#EXTINF:-1 group-title="黑龙江频道",漠河综合
+https://rmplive.hljtv.com/live/mohe.m3u8
+#EXTINF:-1 group-title="黑龙江频道",漠河综合
+https://masterpull.hljtv.com/live/rlVvbTZN.m3u8
+#EXTINF:-1 group-title="黑龙江频道",塔河综合
+https://rmplive.hljtv.com/live/tahe.m3u8
+#EXTINF:-1 group-title="黑龙江频道",塔河综合
+https://masterpull.hljtv.com/live/qXrATpGj.m3u8
+#EXTINF:-1 group-title="吉林频道",长春综合
+http://stream2.jlntv.cn/jlcc/sd/live.m3u8
+#EXTINF:-1 group-title="吉林频道",德惠综合
+http://stream11.jlntv.cn/dehuitv/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",公主岭综合
+http://stream5.jlntv.cn/gzl/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",九台区电视台
+http://stream10.jlntv.cn/jiutaitv/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",榆树综合
+http://stream11.jlntv.cn/yushuds/sd/live.m3u8
+#EXTINF:-1 group-title="吉林频道",农安综合
+http://stream2.jlntv.cn/naxw/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",双阳综合
+http://stream11.jlntv.cn/shuangyang/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",吉林市综合
+https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=1837821685-0-0-67b43a2f1e9e2ce78746337eea2b2537
+#EXTINF:-1 group-title="吉林频道",吉林市综合
+http://stream2.jlntv.cn:80/jilin1/sd/live.m3u8
+#EXTINF:-1 group-title="吉林频道",延边卫视
+https://srs.iyb983.cn/video/CYS/index.m3u8
+#EXTINF:-1 group-title="吉林频道",珲春电视台
+http://stream8.jlntv.cn/hctv/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",龙井综合
+http://stream8.jlntv.cn/ljtv/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",图们TV1
+http://stream6.jlntv.cn/tm/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",延吉综合
+http://stream6.jlntv.cn/yj/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",白城新闻综合
+http://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+#EXTINF:-1 group-title="吉林频道",大安新闻综合
+http://stream6.jlntv.cn/da/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",洮南综合
+http://stream5.jlntv.cn/tn/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",通榆综合
+http://stream6.jlntv.cn/ty/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",镇赉综合
+http://stream6.jlntv.cn/zl/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",松原综合
+http://stream2.jlntv.cn/sytv/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",松原公共
+http://stream8.jlntv.cn/sytv2/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",扶余综合
+http://stream6.jlntv.cn/fy/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",乾安综合
+http://stream6.jlntv.cn/qa/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",前郭综合
+http://stream2.jlntv.cn/qg/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",四平综合
+http://stream2.jlntv.cn/sptv/sd/live.m3u8
+#EXTINF:-1 group-title="吉林频道",梨树新闻
+http://stream6.jlntv.cn/ls/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",双辽综合
+http://stream5.jlntv.cn/sl/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",辽源新闻综合
+http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
+#EXTINF:-1 group-title="吉林频道",东丰综合
+http://stream5.jlntv.cn/df/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",东辽综合
+http://stream5.jlntv.cn/dl/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",白山综合
+http://stream2.jlntv.cn/baishan1/sd/live.m3u8
+#EXTINF:-1 group-title="吉林频道",长白新闻综合
+http://hplayer1.juyun.tv/camera/11347146.m3u8
+#EXTINF:-1 group-title="吉林频道",长白新闻综合
+http://hplayer1.juyun.tv/camera/11347146.flv
+#EXTINF:-1 group-title="吉林频道",江源综合
+http://stream10.jlntv.cn/jiangyuantv/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",靖宇综合
+http://stream8.jlntv.cn/jytv/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",临江综合
+http://stream8.jlntv.cn/linjiang/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",通化新闻综合
+https://live-master.jlntv.cn/thhd/sd/live.m3u8
+#EXTINF:-1 group-title="吉林频道",辉南综合
+http://stream5.jlntv.cn/hn/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",集安综合
+http://stream2.jlntv.cn/ja/playlist.m3u8
+#EXTINF:-1 group-title="吉林频道",柳河综合
+http://stream5.jlntv.cn/lh/playlist.m3u8
