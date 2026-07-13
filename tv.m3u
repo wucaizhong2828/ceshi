@@ -1,5 +1,6 @@
 #EXTM3U
-# Updated: 2026-07-13 03:46:28 UTC
+# Updated: 2026-07-13 05:08:33 UTC
+#EXTINF:-1 group-title="央视频道",央视频道
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://live.bypbwxx.top/live/jmysp1.php?token=e7f5a89ef1f9a370b35f7958cf16cd
 #EXTINF:-1 group-title="央视频道",CCTV2
@@ -468,6 +469,7 @@ http://47.97.252.137:8098/tvlive/cctv4k.m3u8?node=4
 http://47.97.252.137:8098/tvlive/cctv4k.m3u8?node=6
 #EXTINF:-1 group-title="央视频道",CCTV4K超高清
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=tvzb260306
+#EXTINF:-1 group-title="卫视频道",卫视频道
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://live.bypbwxx.top/live/jmysp1.php?token=6579b94647cfec64e0a818f19ad352
 #EXTINF:-1 group-title="卫视频道",东方卫视
@@ -1012,6 +1014,7 @@ http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://event.pull.hebtv.com/jishi/weishi_tingyun.flv
+#EXTINF:-1 group-title="其他频道",其他频道
 #EXTINF:-1 group-title="其他频道",CHC动作电影
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 #EXTINF:-1 group-title="其他频道",CHC家庭影院
