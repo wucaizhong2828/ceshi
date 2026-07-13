@@ -4,35 +4,32 @@ from datetime import datetime
 print("开始生成直播源...")
 
 # ================== 配置区 ==================
-ONLINE_URL = "https://zb.7778.uk/",
-             "https://fty.xxooo.cf/tv",
+ONLINE_URLS = [
+    "https://zb.7778.uk/",
+    "https://fty.xxooo.cf/tv",
+]
 OUTPUT_M3U = "tv.m3u"
 OUTPUT_TXT = "tv.txt"
-
-# 黑名单：包含这些关键词的行将被过滤掉
-BLACKLIST_KEYWORDS = ["影视仓官网", "接口大全", "panurl"]
 # ===========================================
 
 def fetch_online_sources():
-    """抓取在线源，过滤掉黑名单内容"""
+    """抓取多个在线源"""
     all_channels = []
-    try:
-        print(f"   📡 正在抓取: {ONLINE_URL}")
-        resp = requests.get(ONLINE_URL, timeout=30)
-        resp.encoding = 'utf-8'
-        resp.raise_for_status()
-        lines = [line.strip() for line in resp.text.splitlines() if line.strip()]
+    for url in ONLINE_URLS:
+        try:
+            print(f"   📡 正在抓取: {url}")
+            resp = requests.get(url, timeout=30)
+            resp.encoding = 'utf-8'
+            resp.raise_for_status()
+            lines = [line.strip() for line in resp.text.splitlines() if line.strip()]
 
-        for line in lines:
-            if ',' in line and not line.startswith('#'):
-                # 检查黑名单
-                if any(k in line for k in BLACKLIST_KEYWORDS):
-                    continue
-                all_channels.append(line)
+            for line in lines:
+                if ',' in line and not line.startswith('#'):
+                    all_channels.append(line)
 
-        print(f"   ✅ 从 {ONLINE_URL} 获取了 {len(all_channels)} 个频道")
-    except Exception as e:
-        print(f"   ❌ 抓取失败: {e}")
+            print(f"   ✅ 从 {url} 获取了 {len(lines)} 行（累计 {len(all_channels)} 个频道）")
+        except Exception as e:
+            print(f"   ❌ 抓取失败: {e}")
     return all_channels
 
 def generate_m3u(txt_content):
@@ -64,8 +61,16 @@ def main():
     print("\n📡 抓取在线源...")
     channels = fetch_online_sources()
 
+    # 去重
+    seen = set()
+    unique_channels = []
+    for ch in channels:
+        if ch not in seen:
+            seen.add(ch)
+            unique_channels.append(ch)
+
     # 保存 TXT
-    txt_content = "\n".join(channels)
+    txt_content = "\n".join(unique_channels)
     with open(OUTPUT_TXT, "w", encoding="utf-8") as f:
         f.write(txt_content + "\n")
 
@@ -75,7 +80,7 @@ def main():
         f.write(m3u_content + "\n")
 
     print(f"\n🎉 完成！")
-    print(f"   📄 txt 文件: {OUTPUT_TXT} ({len(channels)} 个频道)")
+    print(f"   📄 txt 文件: {OUTPUT_TXT} ({len(unique_channels)} 个频道)")
     print(f"   📄 m3u 文件: {OUTPUT_M3U} ({len(m3u_content.splitlines())} 行)")
 
 if __name__ == "__main__":
