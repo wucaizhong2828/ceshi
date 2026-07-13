@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-07-13 03:27:44 UTC
+# Updated: 2026-07-13 03:35:44 UTC
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://live.bypbwxx.top/live/jmysp1.php?token=e7f5a89ef1f9a370b35f7958cf16cd
 #EXTINF:-1 group-title="央视频道",CCTV2
@@ -422,6 +422,14 @@ http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="央视频道",湖南卫视
 http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视频道",CHC动作电影
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视频道",CHC家庭影院
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视频道",CHC影迷电影
+http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视频道",重温经典
+http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 #EXTINF:-1 group-title="央视频道",央视台球
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 #EXTINF:-1 group-title="央视频道",CCTV1
@@ -726,6 +734,8 @@ http://112.27.235.94:8000/hls/46/index.m3u8
 http://112.27.235.94:8000/hls/47/index.m3u8
 #EXTINF:-1 group-title="央视频道",黑龙江卫视
 http://112.27.235.94:8000/hls/48/index.m3u8
+#EXTINF:-1 group-title="央视频道",重温经典
+http://112.27.235.94:8000/hls/50/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://m.061899.xyz/mg/cctv1
 #EXTINF:-1 group-title="央视频道",CCTV2
@@ -814,6 +824,10 @@ http://m.061899.xyz/mg/xjws
 http://m.061899.xyz/mg/xzws
 #EXTINF:-1 group-title="央视频道",吉林卫视
 http://m.061899.xyz/mg/jlws
+#EXTINF:-1 group-title="央视频道",重温经典
+http://m.061899.xyz/mg/cwjd
+#EXTINF:-1 group-title="央视频道",重温经典
+http://8.138.7.223/tv/cwjd.php
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://j.s.bkpcp.top/jj/cctv1
 #EXTINF:-1 group-title="央视频道",CCTV2
@@ -976,39 +990,75 @@ http://t.061899.xyz/tl/tl.php?id=xzws
 https://xmlive.zeabur.app/yw/whyd?id=custom11
 #EXTINF:-1 group-title="央视频道",CCTV央视高网
 https://xmlive.zeabur.app/yw/whyd?id=custom10
-#EXTINF:-1 group-title="央视高清[V6]",CCTV4K超高清
+#EXTINF:-1 group-title="经典4K",重温经典
+http://47.97.252.137:8098/daili/cwjd.m3u8?line=0
+#EXTINF:-1 group-title="经典4K",重温经典
+http://47.97.252.137:8098/apptv/cwjd.m3u8
+#EXTINF:-1 group-title="经典4K",重温经典
+http://47.97.252.137:8098/daili/cwjd.m3u8?line=1
+#EXTINF:-1 group-title="经典4K",重温经典
+http://47.97.252.137:8098/tvlive/cwjd.m3u8?node=1
+#EXTINF:-1 group-title="经典4K",重温经典
+http://47.97.252.137:8098/tvlive/cwjd.m3u8?node=3
+#EXTINF:-1 group-title="经典4K",重温经典
+http://47.97.252.137:8098/tvlive/cwjd.m3u8?node=4
+#EXTINF:-1 group-title="经典4K",CCTV4K超高清
 http://47.97.252.137:8098/daili/cctv4k.m3u8?line=0
-#EXTINF:-1 group-title="央视高清[V6]",CCTV4K超高清
+#EXTINF:-1 group-title="经典4K",CCTV4K超高清
 http://47.97.252.137:8098/daili/cctv4k.m3u8?line=1
-#EXTINF:-1 group-title="央视高清[V6]",CCTV4K超高清
+#EXTINF:-1 group-title="经典4K",CCTV4K超高清
 http://47.97.252.137:8098/tvlive/cctv4k.m3u8?node=4
-#EXTINF:-1 group-title="央视高清[V6]",CCTV4K超高清
+#EXTINF:-1 group-title="经典4K",CCTV4K超高清
 http://47.97.252.137:8098/tvlive/cctv4k.m3u8?node=6
-#EXTINF:-1 group-title="央视高清[V6]",CCTV4K超高清
+#EXTINF:-1 group-title="经典4K",CCTV4K超高清
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=tvzb260306
-#EXTINF:-1 group-title="央视高清[V6]",深圳卫视
+#EXTINF:-1 group-title="经典4K",CHC动作电影
+http://47.97.252.137:8098/daili/chcdz.m3u8?line=0
+#EXTINF:-1 group-title="经典4K",CHC动作电影
+http://47.97.252.137:8098/daili/chcdz.m3u8?line=1
+#EXTINF:-1 group-title="经典4K",CHC动作电影
+http://47.97.252.137:8098/tvlive/chcdz.m3u8?node=1
+#EXTINF:-1 group-title="经典4K",CHC动作电影
+http://47.97.252.137:8098/tvlive/chcdz.m3u8?node=3
+#EXTINF:-1 group-title="经典4K",CHC影迷电影
+http://47.97.252.137:8098/daili/chchd.m3u8?line=0
+#EXTINF:-1 group-title="经典4K",CHC影迷电影
+http://47.97.252.137:8098/daili/chchd.m3u8?line=1
+#EXTINF:-1 group-title="经典4K",CHC影迷电影
+http://47.97.252.137:8098/tvlive/chchd.m3u8?node=1
+#EXTINF:-1 group-title="经典4K",CHC影迷电影
+http://47.97.252.137:8098/tvlive/chchd.m3u8?node=3
+#EXTINF:-1 group-title="经典4K",CHC家庭影院
+http://47.97.252.137:8098/daili/chcjt.m3u8?line=0
+#EXTINF:-1 group-title="经典4K",CHC家庭影院
+http://47.97.252.137:8098/daili/chcjt.m3u8?line=1
+#EXTINF:-1 group-title="经典4K",CHC家庭影院
+http://47.97.252.137:8098/tvlive/chcjt.m3u8?node=1
+#EXTINF:-1 group-title="经典4K",CHC家庭影院
+http://47.97.252.137:8098/tvlive/chcjt.m3u8?node=3
+#EXTINF:-1 group-title="经典4K",深圳卫视
 http://36.137.183.45:1100/difang/guangdong/shenzhen.php?id=szws
-#EXTINF:-1 group-title="央视高清[V6]",贵州卫视
+#EXTINF:-1 group-title="经典4K",贵州卫视
 http://36.137.183.45:1100/difang/guizhou/guizhou.php?id=gzws
-#EXTINF:-1 group-title="央视高清[V6]",海南卫视
+#EXTINF:-1 group-title="经典4K",海南卫视
 http://36.137.183.45:1100/difang/hainan/hainan.php?id=hnws
-#EXTINF:-1 group-title="央视高清[V6]",河南卫视
+#EXTINF:-1 group-title="经典4K",河南卫视
 http://36.137.183.45:1100/difang/henan/henan.php?id=hnws
-#EXTINF:-1 group-title="央视高清[V6]",吉林卫视
+#EXTINF:-1 group-title="经典4K",吉林卫视
 http://36.137.183.45:1100/difang/jilin/jilin.php?id=jlws
-#EXTINF:-1 group-title="央视高清[V6]",山西卫视
+#EXTINF:-1 group-title="经典4K",山西卫视
 http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=sxws
-#EXTINF:-1 group-title="央视高清[V6]",陕西卫视
+#EXTINF:-1 group-title="经典4K",陕西卫视
 http://36.137.183.45:1100/difang/shanxi2/shanxi.php?id=sxws
-#EXTINF:-1 group-title="央视高清[V6]",西藏卫视
+#EXTINF:-1 group-title="经典4K",西藏卫视
 http://36.137.183.45:1100/difang/xizang/xizang.php?id=xzws
-#EXTINF:-1 group-title="央视高清[V6]",云南卫视
+#EXTINF:-1 group-title="经典4K",云南卫视
 http://36.137.183.45:1100/difang/yunnan/yunnan2.php?id=ynws
-#EXTINF:-1 group-title="央视高清[V6]",浙江卫视
+#EXTINF:-1 group-title="经典4K",浙江卫视
 http://36.137.183.45:1100/difang/zhejiang/zhejiang.php?id=zjws
-#EXTINF:-1 group-title="央视高清[V6]",东方卫视
+#EXTINF:-1 group-title="经典4K",东方卫视
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-#EXTINF:-1 group-title="央视高清[V6]",河北卫视
+#EXTINF:-1 group-title="经典4K",河北卫视
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-#EXTINF:-1 group-title="央视高清[V6]",河北卫视
+#EXTINF:-1 group-title="经典4K",河北卫视
 http://event.pull.hebtv.com/jishi/weishi_tingyun.flv
