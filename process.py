@@ -17,6 +17,7 @@ WHITELIST_KEYWORDS = [
     # 央视
     "CCTV",
     "央视",
+    "央视高清",
     # 省级卫视
     "北京卫视", "东方卫视", "天津卫视", "重庆卫视",
     "河北卫视", "山西卫视", "内蒙古卫视", "辽宁卫视", "吉林卫视",
@@ -96,9 +97,10 @@ def fetch_online_sources():
     return all_channels
 
 def generate_m3u(txt_content):
-    """从 TXT 格式生成 M3U 格式"""
+    """从 TXT 格式生成 M3U 格式，自动合并相似分类，移除空分类"""
     lines = txt_content.splitlines()
-    m3u_lines = ["#EXTM3U", f"# Updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}"]
+
+    groups = {}
     current_group = "默认频道"
 
     for line in lines:
@@ -110,11 +112,28 @@ def generate_m3u(txt_content):
             if len(parts) == 2:
                 title, url = parts[0].strip(), parts[1].strip()
                 if url == '#genre#':
-                    current_group = title
-                    continue
-                if url.startswith('http://') or url.startswith('https://'):
-                    m3u_lines.append(f'#EXTINF:-1 group-title="{current_group}",{title}')
-                    m3u_lines.append(url)
+                    # 合并相似分类
+                    if "央视" in title:
+                        current_group = "央视频道"
+                    elif "卫视" in title or "高清" in title:
+                        current_group = "卫视频道"
+                    elif "4K" in title or "经典" in title:
+                        current_group = "4K频道"
+                    else:
+                        current_group = title
+                    if current_group not in groups:
+                        groups[current_group] = []
+                else:
+                    if url.startswith('http://') or url.startswith('https://'):
+                        groups.setdefault(current_group, []).append((title, url))
+
+    # 只保留有频道的分类
+    m3u_lines = ["#EXTM3U", f"# Updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}"]
+    for group_name, channels in groups.items():
+        if channels:
+            for title, url in channels:
+                m3u_lines.append(f'#EXTINF:-1 group-title="{group_name}",{title}')
+                m3u_lines.append(url)
 
     return '\n'.join(m3u_lines)
 
