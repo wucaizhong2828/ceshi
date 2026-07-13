@@ -7,10 +7,21 @@ print("开始生成直播源...")
 ONLINE_URL = "https://zb.7778.uk/"
 OUTPUT_M3U = "tv.m3u"
 OUTPUT_TXT = "tv.txt"
+
+# 黑名单：包含这些关键词的行将被过滤掉
+BLACKLIST_KEYWORDS = [
+    "影视合", "接口大全", "panurl",
+    "地方", "新闻综合", "经济", "生活", "公共",
+    "常山", "永康", "温州", "苍南", "金华", "台州", "玉环",
+    "丽水", "龙泉", "松阳", "衢州", "舟山", "普陀",
+    "东莞", "关韶", "绍兴", "武义", "平湖", "萧山",
+    "余姚", "嵊州", "诸暨", "上虞", "兰溪", "江阴",
+    "烟台", "菏泽", "舞钢", "舞阳", "浥池", "沁阳", "义马"
+]
 # ===========================================
 
 def fetch_online_sources():
-    """抓取在线源，原封不动返回所有内容"""
+    """抓取在线源，过滤掉黑名单内容"""
     all_channels = []
     try:
         print(f"   📡 正在抓取: {ONLINE_URL}")
@@ -21,6 +32,9 @@ def fetch_online_sources():
 
         for line in lines:
             if ',' in line and not line.startswith('#'):
+                # 检查黑名单
+                if any(k in line for k in BLACKLIST_KEYWORDS):
+                    continue
                 all_channels.append(line)
 
         print(f"   ✅ 从 {ONLINE_URL} 获取了 {len(all_channels)} 个频道")
