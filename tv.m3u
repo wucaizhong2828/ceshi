@@ -1,9 +1,5 @@
 #EXTM3U
-# Updated: 2026-07-13 02:34:29 UTC
-#EXTINF:-1 group-title="影视仓官网",影视仓接口大全
-https://www.panurl.cn/view.php/2464249766fc424a53a9316dfeb4cfc7.mp4
-#EXTINF:-1 group-title="影视仓官网",api.starlink.fan
-https://www.panurl.cn/view.php/2464249766fc424a53a9316dfeb4cfc7.mp4
+# Updated: 2026-07-13 02:39:44 UTC
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://live.bypbwxx.top/live/jmysp1.php?token=e7f5a89ef1f9a370b35f7958cf16cd
 #EXTINF:-1 group-title="央视频道",CCTV2
@@ -842,8 +838,6 @@ http://112.27.235.94:8000/hls/15/index.m3u8
 http://112.27.235.94:8000/hls/16/index.m3u8
 #EXTINF:-1 group-title="高清央卫[V6]",CCTV5+
 http://112.27.235.94:8000/hls/6/index.m3u8
-#EXTINF:-1 group-title="高清央卫[V6]",肥西新闻综合
-http://112.27.235.94:8000/hls/21/index.m3u8
 #EXTINF:-1 group-title="高清央卫[V6]",安徽经济生活
 http://112.27.235.94:8000/hls/22/index.m3u8
 #EXTINF:-1 group-title="高清央卫[V6]",安徽公共
@@ -1270,22 +1264,14 @@ http://47.97.252.137:8098/daili/chcjt.m3u8?line=1
 http://47.97.252.137:8098/tvlive/chcjt.m3u8?node=1
 #EXTINF:-1 group-title="经典4K",CHC家庭影院
 http://47.97.252.137:8098/tvlive/chcjt.m3u8?node=3
-#EXTINF:-1 group-title="安徽地方",亳州综合
-http://36.137.183.45:1100/difang/anhui/bozhou.php?id=bzzh
-#EXTINF:-1 group-title="安徽地方",芜湖新闻综合
-http://36.137.183.45:1100/difang/anhui/wuhu.php?id=whxwzh
 #EXTINF:-1 group-title="安徽地方",芜湖生活
 http://36.137.183.45:1100/difang/anhui/wuhu.php?id=whsh
-#EXTINF:-1 group-title="福建地方",莆田新闻综合
-http://36.137.183.45:1100/difang/fujian/putian.php?id=pttv1
 #EXTINF:-1 group-title="福建地方",莆田2
 http://36.137.183.45:1100/difang/fujian/putian.php?id=pttv2
 #EXTINF:-1 group-title="福建地方",莆田仙游
 http://36.137.183.45:1100/difang/fujian/putian.php?id=ptxy
 #EXTINF:-1 group-title="福建地方",实事频道
 http://36.137.183.45:1100/difang/fujian/shishi.php
-#EXTINF:-1 group-title="广东地方",广州综合
-http://36.137.183.45:1100/difang/guangdong/guangzhou.php?id=zhonghe
 #EXTINF:-1 group-title="广东地方",广州新闻
 http://36.137.183.45:1100/difang/guangdong/guangzhou.php?id=xinwen
 #EXTINF:-1 group-title="广东地方",广州南国都市
@@ -1338,12 +1324,8 @@ http://36.137.183.45:1100/difang/hainan/hainan.php?id=jjpd
 http://36.137.183.45:1100/difang/hainan/hainan.php?id=ggpd
 #EXTINF:-1 group-title="海南地方",海南少儿频道
 http://36.137.183.45:1100/difang/hainan/hainan.php?id=sepd
-#EXTINF:-1 group-title="黑龙江地方",齐齐哈尔新闻综合
-http://36.137.183.45:1100/difang/heilongjiang/qiqihaer.php?id=qqhexwzh
 #EXTINF:-1 group-title="黑龙江地方",齐齐哈尔经济法治
 http://36.137.183.45:1100/difang/heilongjiang/qiqihaer.php?id=qqhejjfz
-#EXTINF:-1 group-title="黑龙江地方",七台河新闻综合
-http://36.137.183.45:1100/difang/heilongjiang/qitaihe.php?id=zh
 #EXTINF:-1 group-title="黑龙江地方",七台河民生科教
 http://36.137.183.45:1100/difang/heilongjiang/qitaihe.php?id=gg
 #EXTINF:-1 group-title="河南地方",河南卫视
@@ -1374,46 +1356,6 @@ http://36.137.183.45:1100/difang/henan/henan.php?id=wspd
 http://36.137.183.45:1100/difang/henan/henan.php?id=jczy
 #EXTINF:-1 group-title="河南地方",象视界
 http://36.137.183.45:1100/difang/henan/henan.php?id=xsj
-#EXTINF:-1 group-title="河南地方",郑州新闻综合
-http://36.137.183.45:1100/difang/henan/henan.php?id=zz1
-#EXTINF:-1 group-title="河南地方",开封新闻综合
-http://36.137.183.45:1100/difang/henan/henan.php?id=kf1
-#EXTINF:-1 group-title="河南地方",洛阳新闻综合
-http://36.137.183.45:1100/difang/henan/henan.php?id=ly1
-#EXTINF:-1 group-title="河南地方",平顶山新闻综合
-http://36.137.183.45:1100/difang/henan/henan.php?id=pds1
-#EXTINF:-1 group-title="河南地方",安阳新闻综合
-http://36.137.183.45:1100/difang/henan/henan.php?id=ay1
-#EXTINF:-1 group-title="河南地方",鹤壁新闻综合
-http://36.137.183.45:1100/difang/henan/henan.php?id=hb1
-#EXTINF:-1 group-title="河南地方",新乡新闻综合
-http://36.137.183.45:1100/difang/henan/henan.php?id=xx1
-#EXTINF:-1 group-title="河南地方",焦作新闻综合
-http://36.137.183.45:1100/difang/henan/henan.php?id=jz1
-#EXTINF:-1 group-title="河南地方",濮阳新闻综合
-http://36.137.183.45:1100/difang/henan/henan.php?id=py1
-#EXTINF:-1 group-title="河南地方",许昌新闻综合
-http://36.137.183.45:1100/difang/henan/henan.php?id=xc1
-#EXTINF:-1 group-title="河南地方",漯河新闻综合
-http://36.137.183.45:1100/difang/henan/henan.php?id=lh1
-#EXTINF:-1 group-title="河南地方",三门峡新闻综合
-http://36.137.183.45:1100/difang/henan/henan.php?id=smx1
-#EXTINF:-1 group-title="河南地方",南阳新闻综合
-http://36.137.183.45:1100/difang/henan/henan.php?id=ny1
-#EXTINF:-1 group-title="河南地方",商丘新闻综合
-http://36.137.183.45:1100/difang/henan/henan.php?id=sq1
-#EXTINF:-1 group-title="河南地方",信阳新闻综合
-http://36.137.183.45:1100/difang/henan/henan.php?id=xy1
-#EXTINF:-1 group-title="河南地方",周口新闻综合
-http://36.137.183.45:1100/difang/henan/henan.php?id=zk1
-#EXTINF:-1 group-title="河南地方",驻马店新闻综合
-http://36.137.183.45:1100/difang/henan/henan.php?id=zmd1
-#EXTINF:-1 group-title="河南地方",济源新闻综合
-http://36.137.183.45:1100/difang/henan/henan.php?id=jy1
-#EXTINF:-1 group-title="湖北地方",随州综合
-http://36.137.183.45:1100/difang/hubei/suizhou.php?id=szzh
-#EXTINF:-1 group-title="湖北地方",安麓综合
-http://36.137.183.45:1100/difang/hubei/anlu.php?id=altv
 #EXTINF:-1 group-title="湖南地方",湖南经视
 http://36.137.183.45:1100/difang/hunan/hunan.php?id=hnjs
 #EXTINF:-1 group-title="湖南地方",湖南娱乐
@@ -1434,18 +1376,12 @@ http://36.137.183.45:1100/difang/hunan/hunan.php?id=jyjs
 http://36.137.183.45:1100/difang/hunan/hunan.php?id=jykt
 #EXTINF:-1 group-title="湖南地方",快乐垂钓
 http://36.137.183.45:1100/difang/hunan/hunan.php?id=klcd
-#EXTINF:-1 group-title="湖南地方",长沙新闻综合
-http://36.137.183.45:1100/difang/hunan/hunan.php?id=csxwzh
 #EXTINF:-1 group-title="湖南地方",长沙政法频道
 http://36.137.183.45:1100/difang/hunan/hunan.php?id=cszfpd
 #EXTINF:-1 group-title="湖南地方",快乐购
 http://36.137.183.45:1100/difang/hunan/hunan.php?id=klg
-#EXTINF:-1 group-title="湖南地方",邵阳新闻综合
-http://36.137.183.45:1100/difang/hunan/shaoyang.php?id=syxwzh
 #EXTINF:-1 group-title="湖南地方",邵阳公共
 http://36.137.183.45:1100/difang/hunan/shaoyang.php?id=sygg
-#EXTINF:-1 group-title="江苏地方",铜山综合
-http://36.137.183.45:1100/difang/jiangsu/tongshan.php?id=tsxwzh
 #EXTINF:-1 group-title="江苏地方",铜山三农
 http://36.137.183.45:1100/difang/jiangsu/tongshan.php?id=tssn
 #EXTINF:-1 group-title="吉林地方",吉林卫视
@@ -1460,10 +1396,6 @@ http://36.137.183.45:1100/difang/jilin/jilin.php?id=jlys
 http://36.137.183.45:1100/difang/jilin/jilin.php?id=jlxc
 #EXTINF:-1 group-title="吉林地方",吉林综艺·文化
 http://36.137.183.45:1100/difang/jilin/jilin.php?id=jlzywh
-#EXTINF:-1 group-title="吉林地方",梅河口综合
-http://36.137.183.45:1100/difang/jilin/tonghua.php?id=thmhkzh
-#EXTINF:-1 group-title="山东地方",济南新闻综合频道
-http://36.137.183.45:1100/difang/shandong/jinan.php?id=1676
 #EXTINF:-1 group-title="山东地方",济南都市频道
 http://36.137.183.45:1100/difang/shandong/jinan.php?id=1807
 #EXTINF:-1 group-title="山东地方",济南文旅体育频道
@@ -1478,162 +1410,30 @@ http://36.137.183.45:1100/difang/shandong/jinan.php?id=1857
 http://36.137.183.45:1100/difang/shandong/difang.php?id=jncqxw
 #EXTINF:-1 group-title="山东地方",济铁电视台
 http://36.137.183.45:1100/difang/shandong/difang.php?id=jnjrtv
-#EXTINF:-1 group-title="山东地方",济阳综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=jnjyzh
-#EXTINF:-1 group-title="山东地方",平阴综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=jnpyzh
-#EXTINF:-1 group-title="山东地方",商河综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=jnshzh
-#EXTINF:-1 group-title="山东地方",章丘综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=jnzqzh
-#EXTINF:-1 group-title="山东地方",东营新闻综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=dyxwzh
-#EXTINF:-1 group-title="山东地方",东营区新闻综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=dydyqxw
-#EXTINF:-1 group-title="山东地方",广饶综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=dygrzh
-#EXTINF:-1 group-title="山东地方",利津综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=dyljzh
-#EXTINF:-1 group-title="山东地方",即墨综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=qdjmzh
-#EXTINF:-1 group-title="山东地方",胶州综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=qdjzzh
 #EXTINF:-1 group-title="山东地方",李沧TV
 http://36.137.183.45:1100/difang/shandong/difang.php?id=qdlc
 #EXTINF:-1 group-title="山东地方",崂山TV
 http://36.137.183.45:1100/difang/shandong/difang.php?id=qdls
-#EXTINF:-1 group-title="山东地方",莱西综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=qdlxzh
-#EXTINF:-1 group-title="山东地方",平度新闻综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=qdpdxw
-#EXTINF:-1 group-title="山东地方",潍坊新闻综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=wfxwzh
 #EXTINF:-1 group-title="山东地方",潍坊高新区
 http://36.137.183.45:1100/difang/shandong/difang.php?id=wfgxq
-#EXTINF:-1 group-title="山东地方",安丘综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=wfaqzh
-#EXTINF:-1 group-title="山东地方",滨海新闻综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=wfbhxw
-#EXTINF:-1 group-title="山东地方",昌乐综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=wfclzh
 #EXTINF:-1 group-title="山东地方",奎文电视台
 http://36.137.183.45:1100/difang/shandong/difang.php?id=wfkwtv
-#EXTINF:-1 group-title="山东地方",临朐新闻综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=wflqzh
-#EXTINF:-1 group-title="山东地方",青州综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=wfqzzh
 #EXTINF:-1 group-title="山东地方",潍城TV
 http://36.137.183.45:1100/difang/shandong/difang.php?id=wfwc
-#EXTINF:-1 group-title="山东地方",诸城新闻综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=wfzczh
-#EXTINF:-1 group-title="山东地方",福山综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=ytfszh
-#EXTINF:-1 group-title="山东地方",海阳综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=ythyzh
-#EXTINF:-1 group-title="山东地方",龙口综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=ytlkzh
-#EXTINF:-1 group-title="山东地方",莱阳综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=ytlyzh
-#EXTINF:-1 group-title="山东地方",莱州综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=ytlzzh
-#EXTINF:-1 group-title="山东地方",牟平综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=ytmpzh
-#EXTINF:-1 group-title="山东地方",栖霞综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=ytqxzh
 #EXTINF:-1 group-title="山东地方",博山新闻
 http://36.137.183.45:1100/difang/shandong/difang.php?id=zbbsxw
-#EXTINF:-1 group-title="山东地方",高青综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=zbgqzh
-#EXTINF:-1 group-title="山东地方",桓台综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=zbht1
-#EXTINF:-1 group-title="山东地方",临淄新闻综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=zblzxw
-#EXTINF:-1 group-title="山东地方",沂源综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=zbyyzh
 #EXTINF:-1 group-title="山东地方",淄川新闻
 http://36.137.183.45:1100/difang/shandong/difang.php?id=zbzcxw
 #EXTINF:-1 group-title="山东地方",张店1
 http://36.137.183.45:1100/difang/shandong/difang.php?id=zbzd1
-#EXTINF:-1 group-title="山东地方",枣庄市中综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=zzszzh
-#EXTINF:-1 group-title="山东地方",滕州综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=zztzzh
-#EXTINF:-1 group-title="山东地方",薛城新闻综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=zzxcxw
-#EXTINF:-1 group-title="山东地方",峄城综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=zzyczh
-#EXTINF:-1 group-title="山东地方",无棣综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=bzwdzh
-#EXTINF:-1 group-title="山东地方",阳信新闻综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=bzyxxw
-#EXTINF:-1 group-title="山东地方",乐陵新闻综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=dzllxw
-#EXTINF:-1 group-title="山东地方",武城综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=dzwczh
-#EXTINF:-1 group-title="山东地方",夏津综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=dzxjzh
-#EXTINF:-1 group-title="山东地方",禹城综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=dzyczh
-#EXTINF:-1 group-title="山东地方",曹县综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=hzcxzh
-#EXTINF:-1 group-title="山东地方",鄄城综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=hzjczh
-#EXTINF:-1 group-title="山东地方",嘉祥综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=jijiazh
-#EXTINF:-1 group-title="山东地方",金乡综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=jijxzh
-#EXTINF:-1 group-title="山东地方",梁山综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=jilszh
-#EXTINF:-1 group-title="山东地方",曲阜新闻综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=jiqfxw
-#EXTINF:-1 group-title="山东地方",任城新闻综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=jircxw
-#EXTINF:-1 group-title="山东地方",泗水新闻综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=jissxw
 #EXTINF:-1 group-title="山东地方",鱼台新闻
 http://36.137.183.45:1100/difang/shandong/difang.php?id=jiytxw
 #EXTINF:-1 group-title="山东地方",兖州新闻
 http://36.137.183.45:1100/difang/shandong/difang.php?id=jiyzxw
-#EXTINF:-1 group-title="山东地方",邹城综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=jizczh
-#EXTINF:-1 group-title="山东地方",茌平综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=lccpzh
-#EXTINF:-1 group-title="山东地方",东昌综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=lcdczh
-#EXTINF:-1 group-title="山东地方",冠县综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=lcgxzh
-#EXTINF:-1 group-title="山东地方",临清综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=lclqzh
-#EXTINF:-1 group-title="山东地方",莘县综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=lcsxzh
-#EXTINF:-1 group-title="山东地方",阳谷综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=lcygzh
-#EXTINF:-1 group-title="山东地方",河东综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=lyhdzh
-#EXTINF:-1 group-title="山东地方",莒南综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=lyjnzh
-#EXTINF:-1 group-title="山东地方",兰陵综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=lyllzh
-#EXTINF:-1 group-title="山东地方",蒙阴综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=lymy1
-#EXTINF:-1 group-title="山东地方",郯城综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=lytc1
-#EXTINF:-1 group-title="山东地方",沂南综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=lyynzh
-#EXTINF:-1 group-title="山东地方",沂水综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=lyys1
-#EXTINF:-1 group-title="山东地方",东平综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=tadpzh
 #EXTINF:-1 group-title="山东地方",岱岳TV
 http://36.137.183.45:1100/difang/shandong/difang.php?id=tady
-#EXTINF:-1 group-title="山东地方",宁阳综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=tany1
 #EXTINF:-1 group-title="山东地方",泰山TV
 http://36.137.183.45:1100/difang/shandong/difang.php?id=tats
-#EXTINF:-1 group-title="山东地方",威海环翠综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=whhczh
-#EXTINF:-1 group-title="山东地方",荣成综合
-http://36.137.183.45:1100/difang/shandong/difang.php?id=whrczh
 #EXTINF:-1 group-title="山西地方",山西卫视
 http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=sxws
 #EXTINF:-1 group-title="山西地方",山西经济
@@ -1652,34 +1452,6 @@ http://36.137.183.45:1100/difang/shanxi/taiyuan.php?id=tyjjsh
 http://36.137.183.45:1100/difang/shanxi/taiyuan.php?id=tyblg
 #EXTINF:-1 group-title="山西地方",太原城市
 http://36.137.183.45:1100/difang/shanxi/taiyuan.php?id=tycssh
-#EXTINF:-1 group-title="山西地方",太原新闻综合
-http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=ty1
-#EXTINF:-1 group-title="山西地方",大同新闻综合
-http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=dt1
-#EXTINF:-1 group-title="山西地方",阳泉新闻综合
-http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=yq1
-#EXTINF:-1 group-title="山西地方",长治新闻综合
-http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=cz1
-#EXTINF:-1 group-title="山西地方",晋城新闻综合
-http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=jc1
-#EXTINF:-1 group-title="山西地方",朔州新闻综合
-http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=sz1
-#EXTINF:-1 group-title="山西地方",晋中综合
-http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=jz1
-#EXTINF:-1 group-title="山西地方",运城新闻综合
-http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=yc1
-#EXTINF:-1 group-title="山西地方",忻州综合
-http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=xz1
-#EXTINF:-1 group-title="山西地方",临汾新闻综合
-http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=lf1
-#EXTINF:-1 group-title="山西地方",吕梁新闻综合
-http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=ll1
-#EXTINF:-1 group-title="山西地方",保德综合
-http://36.137.183.45:1100/difang/shanxi/difang.php?id=bdzh
-#EXTINF:-1 group-title="山西地方",代县综合
-http://36.137.183.45:1100/difang/shanxi/difang.php?id=dxzh
-#EXTINF:-1 group-title="山西地方",汾阳综合
-http://36.137.183.45:1100/difang/shanxi/difang.php?id=fyzh
 #EXTINF:-1 group-title="陕西地方",陕西卫视
 http://36.137.183.45:1100/difang/shanxi2/shanxi.php?id=sxws
 #EXTINF:-1 group-title="陕西地方",农林卫视
@@ -1696,8 +1468,6 @@ http://36.137.183.45:1100/difang/shanxi2/shanxi.php?id=sxqq
 http://36.137.183.45:1100/difang/shanxi2/shanxi.php?id=sxtyxx
 #EXTINF:-1 group-title="陕西地方",陕西移动
 http://36.137.183.45:1100/difang/shanxi2/shanxi.php?id=sxyd
-#EXTINF:-1 group-title="陕西地方",西安新闻综合
-http://36.137.183.45:1100/difang/shanxi2/xian.php?id=xazh
 #EXTINF:-1 group-title="陕西地方",西安都市
 http://36.137.183.45:1100/difang/shanxi2/xian.php?id=xads
 #EXTINF:-1 group-title="陕西地方",西安影视
@@ -1706,22 +1476,6 @@ http://36.137.183.45:1100/difang/shanxi2/xian.php?id=xays
 http://36.137.183.45:1100/difang/shanxi2/xian.php?id=xasl
 #EXTINF:-1 group-title="陕西地方",西安移动电视
 http://36.137.183.45:1100/difang/shanxi2/xian.php?id=xayd
-#EXTINF:-1 group-title="陕西地方",咸阳综合
-http://36.137.183.45:1100/difang/shanxi2/xianyang.php?id=xyzh
-#EXTINF:-1 group-title="四川地方",成都简阳新闻综合
-http://36.137.183.45:1100/difang/sichuan/difang.php?id=cd_jy1
-#EXTINF:-1 group-title="四川地方",绵阳梓潼综合
-http://36.137.183.45:1100/difang/sichuan/difang.php?id=my_zt1
-#EXTINF:-1 group-title="四川地方",阿坝若尔盖综合
-http://36.137.183.45:1100/difang/sichuan/difang.php?id=ab_reg1
-#EXTINF:-1 group-title="四川地方",凉山甘洛综合
-http://36.137.183.45:1100/difang/sichuan/difang.php?id=ls_gl1
-#EXTINF:-1 group-title="四川地方",广安武胜综合
-http://36.137.183.45:1100/difang/sichuan/difang.php?id=ga_ws1
-#EXTINF:-1 group-title="四川地方",眉山丹棱综合
-http://36.137.183.45:1100/difang/sichuan/difang.php?id=ms_dl1
-#EXTINF:-1 group-title="四川地方",遂宁蓬溪新闻综合
-http://36.137.183.45:1100/difang/sichuan/difang.php?id=sn_px1
 #EXTINF:-1 group-title="新疆地方",乌鲁木齐
 http://36.137.183.45:1100/difang/xinjiang/wulumuqi.php
 #EXTINF:-1 group-title="西藏地方",西藏卫视
@@ -1732,12 +1486,6 @@ http://36.137.183.45:1100/difang/xizang/xizang.php?id=xzzy
 http://36.137.183.45:1100/difang/xizang/xizang.php?id=xzys
 #EXTINF:-1 group-title="云南地方",云南卫视
 http://36.137.183.45:1100/difang/yunnan/yunnan2.php?id=ynws
-#EXTINF:-1 group-title="云南地方",耿马综合
-http://36.137.183.45:1100/difang/yunnan/yunnan2.php?id=gmzh
-#EXTINF:-1 group-title="云南地方",隆阳综合
-http://36.137.183.45:1100/difang/yunnan/yunnan2.php?id=lyzh
-#EXTINF:-1 group-title="云南地方",玉溪新闻综合
-http://36.137.183.45:1100/difang/yunnan/yunnan2.php?id=yxzh
 #EXTINF:-1 group-title="云南地方",玉溪社会与法
 http://36.137.183.45:1100/difang/yunnan/yunnan2.php?id=yxsf
 #EXTINF:-1 group-title="浙江地方",浙江卫视
@@ -1758,154 +1506,60 @@ http://36.137.183.45:1100/difang/zhejiang/zhejiang.php?id=zjse
 http://36.137.183.45:1100/difang/zhejiang/zhejiang.php?id=zjhyg
 #EXTINF:-1 group-title="浙江地方",浙江之江纪录
 http://36.137.183.45:1100/difang/zhejiang/zhejiang.php?id=zjzjjl
-#EXTINF:-1 group-title="浙江地方",萧山综合
-http://36.137.183.45:1100/difang/zhejiang/hangzhou.php?id=xszh
 #EXTINF:-1 group-title="浙江地方",东阳影视生活
 http://36.137.183.45:1100/difang/zhejiang/hangzhou.php?id=dyyssh
 #EXTINF:-1 group-title="浙江地方",天台和合频道
 http://36.137.183.45:1100/difang/zhejiang/hangzhou.php?id=tthh
-#EXTINF:-1 group-title="浙江地方",常山新闻综合
-http://36.137.183.45:1100/difang/zhejiang/hangzhou.php?id=csxwzh
-#EXTINF:-1 group-title="浙江地方",永康新闻综合
-http://36.137.183.45:1100/difang/zhejiang/hangzhou.php?id=ykxwzh
 #EXTINF:-1 group-title="浙江地方",永康华溪频道
 http://36.137.183.45:1100/difang/zhejiang/hangzhou.php?id=ykhxpd
 #EXTINF:-1 group-title="浙江地方",江山电视台
 http://36.137.183.45:1100/difang/zhejiang/hangzhou.php?id=jstv
-#EXTINF:-1 group-title="浙江地方",杭州萧山综合
-http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=hzxs1
-#EXTINF:-1 group-title="浙江地方",温州苍南新闻综合
-http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=wzcn1
 #EXTINF:-1 group-title="浙江地方",温州电视台
 http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=wzdt1
 #EXTINF:-1 group-title="浙江地方",金华东阳影视生活
 http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=jhdy2
-#EXTINF:-1 group-title="浙江地方",金华永康新闻综合
-http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=jhyk1
 #EXTINF:-1 group-title="浙江地方",金华永康华溪频道
 http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=jhyk2
 #EXTINF:-1 group-title="浙江地方",台州天台和合频道
 http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=tztt1
-#EXTINF:-1 group-title="浙江地方",台州玉环新闻综合
-http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=tzyh1
-#EXTINF:-1 group-title="浙江地方",丽水龙泉新闻综合
-http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=lslq1
-#EXTINF:-1 group-title="浙江地方",丽水松阳新闻综合
-http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=lssy1
 #EXTINF:-1 group-title="浙江地方",丽水庆元电视台
 http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=lsqy1
-#EXTINF:-1 group-title="浙江地方",衢州常山新闻综合
-http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=qzcs1
-#EXTINF:-1 group-title="浙江地方",衢州开化综合
-http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=qzkh1
-#EXTINF:-1 group-title="浙江地方",舟山普陀新闻综合
-http://36.137.183.45:1100/difang/zhejiang/qukan.php?id=zspt1
-#EXTINF:-1 group-title="广东频道",广州综合
-https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 #EXTINF:-1 group-title="广东频道",广州新闻
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
 #EXTINF:-1 group-title="广东频道",广州南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
-#EXTINF:-1 group-title="广东频道",东莞新闻综合
-http://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
 #EXTINF:-1 group-title="广东频道",东莞生活资讯
 http://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
-#EXTINF:-1 group-title="广东频道",河源综合
-https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 group-title="广东频道",河源公共
 https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1 group-title="广东频道",五华综合
-http://p2hs.vzan.com/slowlive/621139761151691240/live.m3u8
-#EXTINF:-1 group-title="广东频道",韶关新闻综合
-https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-#EXTINF:-1 group-title="广东频道",云浮综合
-https://livestream.oeeee.com/slive/28283.m3u8
 #EXTINF:-1 group-title="广东频道",云浮文旅
 https://livestream.oeeee.com/slive/28284.m3u8
-#EXTINF:-1 group-title="广东频道",怀集综合
-https://www.zqhjtv.com/hls/hjzhpd.m3u8
-#EXTINF:-1 group-title="广东频道",中山综合
-http://v.zsbtv.com.cn/lsdream/qTl38me/1000/live.m3u8
-#EXTINF:-1 group-title="浙江频道",绍兴新闻综合
-http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
-#EXTINF:-1 group-title="浙江频道",绍兴新闻综合
-http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
 #EXTINF:-1 group-title="浙江频道",绍兴文化影院
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
-#EXTINF:-1 group-title="浙江频道",武义新闻综合
-http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="浙江频道",平湖新闻综合
-http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="浙江频道",平湖民生休闲
 http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
-#EXTINF:-1 group-title="浙江频道",萧山新闻综合
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="浙江频道",萧山生活频道
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
-#EXTINF:-1 group-title="浙江频道",余杭综合频道
-http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="浙江频道",余杭未来E频道
 http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
-#EXTINF:-1 group-title="浙江频道",余姚新闻综合
-http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="浙江频道",余姚姚江文化
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
-#EXTINF:-1 group-title="浙江频道",嵊州新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="浙江频道",诸暨新闻综合
-http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
-#EXTINF:-1 group-title="浙江频道",上虞新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="浙江频道",上虞文化影院
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 #EXTINF:-1 group-title="浙江频道",上虞新商都
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
-#EXTINF:-1 group-title="浙江频道",兰溪新闻综合
-http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="上海频道",东方卫视
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 group-title="上海频道",点掌财经
 https://volcanopull.aniu.tv/live/aniu2/index.m3u8
 #EXTINF:-1 group-title="上海频道",金山电视台
 http://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
-#EXTINF:-1 group-title="北京频道",顺义综合
-http://livebjsy.chinamcache.com/live/zb01.m3u8
-#EXTINF:-1 group-title="江苏频道",江阴新闻综合
-http://221.228.70.101:8080/live/xinwen.m3u8
-#EXTINF:-1 group-title="山东频道",烟台新闻综合
-http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
 #EXTINF:-1 group-title="山东频道",烟台影视
 http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
-#EXTINF:-1 group-title="山东频道",菏泽新闻综合
-http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
 #EXTINF:-1 group-title="山东频道",菏泽经济生活
 http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
-#EXTINF:-1 group-title="河南频道",潢川综合
-http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
-#EXTINF:-1 group-title="河南频道",郏县综合
-http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8?zhend
-#EXTINF:-1 group-title="河南频道",新野综合
-http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
-#EXTINF:-1 group-title="河南频道",舞钢新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
-#EXTINF:-1 group-title="河南频道",舞阳新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
-#EXTINF:-1 group-title="河南频道",渑池新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
-#EXTINF:-1 group-title="河南频道",沁阳新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
 #EXTINF:-1 group-title="河南频道",新乡县电视台
 http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
-#EXTINF:-1 group-title="河南频道",义马新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
-#EXTINF:-1 group-title="河南频道",灵宝新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
-#EXTINF:-1 group-title="河南频道",台前新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10927-1.m3u8
-#EXTINF:-1 group-title="河南频道",原阳新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
-#EXTINF:-1 group-title="河南频道",灵宝新闻综合
-http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
 #EXTINF:-1 group-title="河南频道",鹿邑新闻频道
 http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8?zhend
 #EXTINF:-1 group-title="河南频道",新乡县电视台
@@ -1914,152 +1568,58 @@ http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8?zhend
 http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
 #EXTINF:-1 group-title="河南频道",上街电视台
 http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
-#EXTINF:-1 group-title="河南频道",固始综合
-http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
 #EXTINF:-1 group-title="河南频道",唐河一套
 http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
-#EXTINF:-1 group-title="河南频道",孟州综合
-http://tvpull.dxhmt.cn:9081/tv/10883-1.m3u8
-#EXTINF:-1 group-title="河南频道",林州综合
-http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8
-#EXTINF:-1 group-title="河南频道",上蔡综合
-http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
-#EXTINF:-1 group-title="河南频道",淅川综合
-http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
-#EXTINF:-1 group-title="河南频道",襄城综合
-http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
 #EXTINF:-1 group-title="河南频道",项城新闻
 http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
-#EXTINF:-1 group-title="河南频道",鄢陵综合
-http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
-#EXTINF:-1 group-title="河南频道",扶沟综合
-http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
-#EXTINF:-1 group-title="河南频道",临颍综合
-http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
-#EXTINF:-1 group-title="河南频道",西平综合
-http://tvpull.dxhmt.cn:9081/tv/11721-1.m3u8
-#EXTINF:-1 group-title="河南频道",淮滨综合
-http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
-#EXTINF:-1 group-title="河南频道",内乡综合
-http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
-#EXTINF:-1 group-title="河南频道",新蔡综合
-http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
-#EXTINF:-1 group-title="河南频道",新县综合
-http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
-#EXTINF:-1 group-title="河南频道",禹州综合
-http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
 #EXTINF:-1 group-title="河南频道",遂平一套
 http://tvpull.dxhmt.cn:9081/tv/11728-1.m3u8
 #EXTINF:-1 group-title="河南频道",方城一套
 http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
 #EXTINF:-1 group-title="河南频道",滑县新闻
 http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
-#EXTINF:-1 group-title="河南频道",获嘉综合
-http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
-#EXTINF:-1 group-title="河南频道",郏县综合
-http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
 #EXTINF:-1 group-title="河南频道",鹿邑新闻
 http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
-#EXTINF:-1 group-title="河南频道",平舆综合
-http://tvpull.dxhmt.cn:9081/tv/11723-1.m3u8
-#EXTINF:-1 group-title="河南频道",确山综合
-http://tvpull.dxhmt.cn:9081/tv/11725-1.m3u8
-#EXTINF:-1 group-title="河南频道",温县综合
-http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
-#EXTINF:-1 group-title="河南频道",西华综合
-http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8
-#EXTINF:-1 group-title="河南频道",延津综合
-http://tvpull.dxhmt.cn:9081/tv/10726-1.m3u8
 #EXTINF:-1 group-title="河南频道",永城新闻
 http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
-#EXTINF:-1 group-title="河南频道",长垣综合
-http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
 #EXTINF:-1 group-title="河南频道",方城一套
 http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend
-#EXTINF:-1 group-title="河南频道",扶沟综合
-http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?zhend
 #EXTINF:-1 group-title="河南频道",滑县新闻
 http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?zhend
-#EXTINF:-1 group-title="河南频道",温县综合
-http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend
-#EXTINF:-1 group-title="河南频道",新野综合
-http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
-#EXTINF:-1 group-title="河南频道",荥阳综合
-http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
-#EXTINF:-1 group-title="河南频道",禹州综合
-http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?zhend
-#EXTINF:-1 group-title="河南频道",内黄综合频道
-http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
-#EXTINF:-1 group-title="河南频道",荥阳综合
-http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
 #EXTINF:-1 group-title="河南频道",焦作公共
 http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
-#EXTINF:-1 group-title="河南频道",焦作综合
-http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
-#EXTINF:-1 group-title="河南频道",鹤岗新闻综合
-http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",河北卫视
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 #EXTINF:-1 group-title="河北频道",河北卫视
 http://event.pull.hebtv.com/jishi/weishi_tingyun.flv
-#EXTINF:-1 group-title="河北频道",邯郸新闻综合
-http://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",邯郸公共
 http://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",邯郸科技教育
 http://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北频道",涉县新闻综合
-https://jwcdnqx.hebyun.com.cn/live/SXTV1/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",昌黎电视台
 https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",涞水电视台
 https://jwcdnqx.hebyun.com.cn/live/lsdst/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北频道",涞源综合
-https://jwcdnqx.hebyun.com.cn/live/jiyunlaiyuan/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",徐水电视台
 https://jwcdnqx.hebyun.com.cn/live/jiyunxushui123/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北频道",三河综合
-https://jwcdnqx.hebyun.com.cn/live/jiyunsanhe3/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",青县新闻
 https://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北频道",任丘新闻综合
-https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北频道",肃宁综合
-https://jwplay.hebyun.com.cn/live/sndst01/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北频道",衡水新闻综合
-http://hls.hsrtv.cn/live/hshstv1.m3u8
 #EXTINF:-1 group-title="河北频道",衡水经济科教
 http://hls.hsrtv.cn/live/hshstv2.m3u8
-#EXTINF:-1 group-title="河北频道",承德新闻综合
-https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",承德文化旅游
 https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北频道",丰宁综合
-https://jwcdnqx.hebyun.com.cn/live/fengningzonghe/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北频道",隆化综合
-https://jwcdnqx.hebyun.com.cn/live/lhtv/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",滦平新闻
 http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北频道",平泉综合
-https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",平泉影视
 https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",双滦新闻
 https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北频道",兴隆综合
-https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北频道",邢台综合
-http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",邢台城市生活
 https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北频道",南和综合
-https://jwcdnqx.hebyun.com.cn/live/NHTV1/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",南和影视
 https://jwcdnqx.hebyun.com.cn/live/NHTV2/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北频道",清河经济综艺
 https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北频道",张家口新闻综合
-https://nlive.zjkgdcs.com:8572/live/xwzhpd.m3u8
 #EXTINF:-1 group-title="河北频道",张家口公共
 https://nlive.zjkgdcs.com:8572/live/zjktv2.m3u8
 #EXTINF:-1 group-title="山西频道",壶关电视台
@@ -2068,365 +1628,27 @@ http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc19602
 http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
 #EXTINF:-1 group-title="山西频道",武乡融媒体
 http://60.220.198.84:81/0.m3u8
-#EXTINF:-1 group-title="山西频道",万荣综合
-http://60.222.246.220:19433/hls1.m3u8
-#EXTINF:-1 group-title="山西频道",太谷新闻综合
-http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
-#EXTINF:-1 group-title="山西频道",定襄综合
-http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
-#EXTINF:-1 group-title="山西频道",阳曲综合
-http://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8
-#EXTINF:-1 group-title="山西频道",平顺综合
-http://player4.juyun.tv:80/tv/149466149.m3u8
 #EXTINF:-1 group-title="山西频道",上党区电视台
 http://zhibo.czmarathon.net/cdd/TVLive.m3u8?auth_key=1724143889-0-0-929d4ecd8b7700822ec202b14ebc6c3c
 #EXTINF:-1 group-title="山西频道",灵丘融媒
 http://player4.juyun.tv/tv/150434132.m3u8
 #EXTINF:-1 group-title="山西频道",左云电视台
 http://wu31afbh.live.sxmty.com/live/hls/c5a0ebd3e73b4c4cbc91ea3b9abf1f54/51859030f2384070bf5bedce43126f6b-1.m3u8
-#EXTINF:-1 group-title="山西频道",闻喜综合
-https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8
-#EXTINF:-1 group-title="山西频道",原平综合
-http://xkmspyxn.live.sxmty.com/live/hls/f9656a0b2386464d972a0871a16d2fed/8a25d45c2f98451da8927c088f189446.m3u8
-#EXTINF:-1 group-title="内蒙古频道",呼和浩特新闻综合
-http://play1-qk.nmtv.cn/live/1735545967595013.m3u8
-#EXTINF:-1 group-title="内蒙古频道",包头新闻综合
-http://play1-qk.nmtv.cn/live/1735546150395017.m3u8
-#EXTINF:-1 group-title="内蒙古频道",呼伦贝尔新闻综合
-http://play1-qk.nmtv.cn/live/1735546791130040.m3u8
-#EXTINF:-1 group-title="内蒙古频道",兴安新闻综合
-http://play1-qk.nmtv.cn/live/1735546886977046.m3u8
-#EXTINF:-1 group-title="内蒙古频道",通辽新闻综合
-http://play1-qk.nmtv.cn/live/1735546745882037.m3u8
-#EXTINF:-1 group-title="内蒙古频道",赤峰新闻综合
-http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 #EXTINF:-1 group-title="内蒙古频道",锡林郭勒盟一套
 http://play1-qk.nmtv.cn/live/1735546994821050.m3u8
-#EXTINF:-1 group-title="内蒙古频道",乌兰察布新闻综合
-http://play1-qk.nmtv.cn/live/1735546836103043.m3u8
-#EXTINF:-1 group-title="内蒙古频道",鄂尔多斯新闻综合
-http://play1-qk.nmtv.cn/live/1735546299241021.m3u8
-#EXTINF:-1 group-title="内蒙古频道",巴彦淖尔新闻综合
-http://play1-qk.nmtv.cn/live/1735546423467029.m3u8
-#EXTINF:-1 group-title="内蒙古频道",乌海新闻综合
-http://play1-qk.nmtv.cn/live/1735546358166026.m3u8
-#EXTINF:-1 group-title="内蒙古频道",阿拉善新闻综合
-http://play1-qk.nmtv.cn/live/1735547046115053.m3u8
 #EXTINF:-1 group-title="内蒙古频道",元宝山电视台
 http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6.m3u8
-#EXTINF:-1 group-title="黑龙江频道",哈尔滨新闻综合
-https://rmplive.hljtv.com/live/haerbin.m3u8
-#EXTINF:-1 group-title="黑龙江频道",哈尔滨新闻综合
-https://masterpull.hljtv.com/live/sPvVy8Ju.m3u8
-#EXTINF:-1 group-title="黑龙江频道",宾县综合
-https://rmplive.hljtv.com/live/binxian.m3u8
-#EXTINF:-1 group-title="黑龙江频道",宾县综合
-https://masterpull.hljtv.com/live/DlkgB2B7.m3u8
-#EXTINF:-1 group-title="黑龙江频道",巴彦综合
-https://masterpull.hljtv.com/live/vAtZi96R.m3u8
-#EXTINF:-1 group-title="黑龙江频道",方正综合
-https://rmplive.hljtv.com/live/fangzheng.m3u8
-#EXTINF:-1 group-title="黑龙江频道",方正综合
-https://masterpull.hljtv.com/live/sSN2Uyb2.m3u8
-#EXTINF:-1 group-title="黑龙江频道",呼兰综合
-https://rmplive.hljtv.com/live/hulan.m3u8
-#EXTINF:-1 group-title="黑龙江频道",呼兰综合
-https://masterpull.hljtv.com/live/zja8TAIO.m3u8
-#EXTINF:-1 group-title="黑龙江频道",尚志综合
-https://rmplive.hljtv.com/live/shangzhi.m3u8
-#EXTINF:-1 group-title="黑龙江频道",尚志综合
-https://masterpull.hljtv.com/live/EQnKvoc9.m3u8
-#EXTINF:-1 group-title="黑龙江频道",通河综合
-https://masterpull.hljtv.com/live/b71kCDir.m3u8
-#EXTINF:-1 group-title="黑龙江频道",五常综合
-https://rmplive.hljtv.com/live/wuchang.m3u8
-#EXTINF:-1 group-title="黑龙江频道",五常综合
-https://masterpull.hljtv.com/live/R9bOklLT.m3u8
-#EXTINF:-1 group-title="黑龙江频道",依兰综合
-https://rmplive.hljtv.com/live/yilan.m3u8
-#EXTINF:-1 group-title="黑龙江频道",依兰综合
-https://masterpull.hljtv.com/live/4sTJDdbE.m3u8
-#EXTINF:-1 group-title="黑龙江频道",延寿综合
-https://rmplive.hljtv.com/live/yanshou.m3u8
-#EXTINF:-1 group-title="黑龙江频道",延寿综合
-https://masterpull.hljtv.com/live/XBqKssjB.m3u8
-#EXTINF:-1 group-title="黑龙江频道",大庆新闻综合
-https://masterpull.hljtv.com/live/4WdrZLCq.m3u8
-#EXTINF:-1 group-title="黑龙江频道",林甸综合
-https://rmplive.hljtv.com/live/lindian.m3u8
-#EXTINF:-1 group-title="黑龙江频道",林甸综合
-https://masterpull.hljtv.com/live/23PN6NW9.m3u8
-#EXTINF:-1 group-title="黑龙江频道",肇源综合
-https://masterpull.hljtv.com/live/XkQg7QSI.m3u8
-#EXTINF:-1 group-title="黑龙江频道",齐齐哈尔新闻综合
-https://rmplive.hljtv.com/live/qiqihaer.m3u8
-#EXTINF:-1 group-title="黑龙江频道",齐齐哈尔新闻综合
-https://masterpull.hljtv.com/live/dUi8b96l.m3u8
-#EXTINF:-1 group-title="黑龙江频道",拜泉综合
-https://rmplive.hljtv.com/live/baiquan.m3u8
-#EXTINF:-1 group-title="黑龙江频道",拜泉综合
-https://masterpull.hljtv.com/live/zHtOXXUz.m3u8
-#EXTINF:-1 group-title="黑龙江频道",甘南县综合
-https://rmplive.hljtv.com/live/gannan.m3u8
-#EXTINF:-1 group-title="黑龙江频道",甘南县综合
-https://masterpull.hljtv.com/live/YbFyF4Jb.m3u8
-#EXTINF:-1 group-title="黑龙江频道",克东综合
-https://rmplive.hljtv.com/live/kedong.m3u8
-#EXTINF:-1 group-title="黑龙江频道",克东综合
-https://masterpull.hljtv.com/live/PO1DiGiN.m3u8
-#EXTINF:-1 group-title="黑龙江频道",克山综合
-https://rmplive.hljtv.com/live/keshan.m3u8
-#EXTINF:-1 group-title="黑龙江频道",克山综合
-https://masterpull.hljtv.com/live/58lOw0L5.m3u8
-#EXTINF:-1 group-title="黑龙江频道",龙江综合
-https://rmplive.hljtv.com/live/longjiang.m3u8
-#EXTINF:-1 group-title="黑龙江频道",龙江综合
-https://masterpull.hljtv.com/live/vRSdDMSR.m3u8
-#EXTINF:-1 group-title="黑龙江频道",讷河综合
-https://rmplive.hljtv.com/live/nehe.m3u8
-#EXTINF:-1 group-title="黑龙江频道",讷河综合
-https://masterpull.hljtv.com/live/PXWxDY1V.m3u8
-#EXTINF:-1 group-title="黑龙江频道",泰来综合
-https://rmplive.hljtv.com/live/tailai.m3u8
-#EXTINF:-1 group-title="黑龙江频道",泰来综合
-https://masterpull.hljtv.com/live/cfkAgOUK.m3u8
-#EXTINF:-1 group-title="黑龙江频道",依安综合
-https://rmplive.hljtv.com/live/yian.m3u8
-#EXTINF:-1 group-title="黑龙江频道",依安综合
-https://masterpull.hljtv.com/live/4hhgo1mX.m3u8
-#EXTINF:-1 group-title="黑龙江频道",伊春新闻综合
-https://rmplive.hljtv.com/live/yichun.m3u8
-#EXTINF:-1 group-title="黑龙江频道",伊春新闻综合
-https://masterpull.hljtv.com/live/vQtnS3vX.m3u8
-#EXTINF:-1 group-title="黑龙江频道",嘉荫综合
-https://rmplive.hljtv.com/live/jiayin.m3u8
-#EXTINF:-1 group-title="黑龙江频道",嘉荫综合
-https://masterpull.hljtv.com/live/k5IX9frJ.m3u8
-#EXTINF:-1 group-title="黑龙江频道",铁力综合
-https://rmplive.hljtv.com/live/tieli.m3u8
-#EXTINF:-1 group-title="黑龙江频道",铁力综合
-https://masterpull.hljtv.com/live/iUtbDFud.m3u8
-#EXTINF:-1 group-title="黑龙江频道",七台河新闻综合
-http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
-#EXTINF:-1 group-title="黑龙江频道",七台河新闻综合
-https://rmplive.hljtv.com/live/qitaihe.m3u8
-#EXTINF:-1 group-title="黑龙江频道",七台河新闻综合
-https://masterpull.hljtv.com/live/9FZ7k2XF.m3u8
 #EXTINF:-1 group-title="黑龙江频道",七台河民生社教
 http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
-#EXTINF:-1 group-title="黑龙江频道",勃利综合
-https://rmplive.hljtv.com/live/boli.m3u8
-#EXTINF:-1 group-title="黑龙江频道",勃利综合
-https://masterpull.hljtv.com/live/6rx9bifO.m3u8
-#EXTINF:-1 group-title="黑龙江频道",牡丹江新闻综合
-https://masterpull.hljtv.com/live/newLqQS9Lcp.m3u8
-#EXTINF:-1 group-title="黑龙江频道",东宁综合
-https://rmplive.hljtv.com/live/dongning.m3u8
-#EXTINF:-1 group-title="黑龙江频道",东宁综合
-https://masterpull.hljtv.com/live/UQdxnsw8.m3u8
-#EXTINF:-1 group-title="黑龙江频道",海林综合
-https://rmplive.hljtv.com/live/hailin.m3u8
-#EXTINF:-1 group-title="黑龙江频道",海林综合
-https://masterpull.hljtv.com/live/lqo9Fcdy.m3u8
-#EXTINF:-1 group-title="黑龙江频道",林口综合
-https://masterpull.hljtv.com/live/pqheD07F.m3u8
-#EXTINF:-1 group-title="黑龙江频道",穆棱综合
-https://rmplive.hljtv.com/live/muleng.m3u8
-#EXTINF:-1 group-title="黑龙江频道",穆棱综合
-https://masterpull.hljtv.com/live/5c9Mi3FV.m3u8
-#EXTINF:-1 group-title="黑龙江频道",宁安综合
-https://masterpull.hljtv.com/live/BV2wr0vH.m3u8
-#EXTINF:-1 group-title="黑龙江频道",绥芬河综合
-https://rmplive.hljtv.com/live/suifenhe.m3u8
-#EXTINF:-1 group-title="黑龙江频道",绥芬河综合
-https://masterpull.hljtv.com/live/pXxFNIbi.m3u8
-#EXTINF:-1 group-title="黑龙江频道",鹤岗新闻综合
-https://rmplive.hljtv.com/live/hegang.m3u8
-#EXTINF:-1 group-title="黑龙江频道",鹤岗新闻综合
-https://masterpull.hljtv.com/live/rApKWXbX.m3u8
-#EXTINF:-1 group-title="黑龙江频道",萝北综合
-https://rmplive.hljtv.com/live/luobei.m3u8
-#EXTINF:-1 group-title="黑龙江频道",绥滨综合
-https://masterpull.hljtv.com/live/DQiqZPCj.m3u8
-#EXTINF:-1 group-title="黑龙江频道",富锦综合
-https://masterpull.hljtv.com/live/wOBN3GqO.m3u8
-#EXTINF:-1 group-title="黑龙江频道",抚远综合
-https://rmplive.hljtv.com/live/fuyuan.m3u8
-#EXTINF:-1 group-title="黑龙江频道",抚远综合
-https://masterpull.hljtv.com/live/tVnkOTOG.m3u8
-#EXTINF:-1 group-title="黑龙江频道",桦南综合
-https://rmplive.hljtv.com/live/huanan.m3u8
-#EXTINF:-1 group-title="黑龙江频道",桦南综合
-https://masterpull.hljtv.com/live/76oCVZd3.m3u8
-#EXTINF:-1 group-title="黑龙江频道",同江综合
-https://masterpull.hljtv.com/live/oFc7fCUf.m3u8
-#EXTINF:-1 group-title="黑龙江频道",汤原综合
-https://masterpull.hljtv.com/live/lt2CmppY.m3u8
-#EXTINF:-1 group-title="黑龙江频道",鸡西新闻综合
-https://rmplive.hljtv.com/live/jixi.m3u8
-#EXTINF:-1 group-title="黑龙江频道",鸡西新闻综合
-https://masterpull.hljtv.com/live/uqFwlQDH.m3u8
-#EXTINF:-1 group-title="黑龙江频道",虎林综合
-https://rmplive.hljtv.com/live/hulin.m3u8
-#EXTINF:-1 group-title="黑龙江频道",虎林综合
-https://masterpull.hljtv.com/live/SJJAEqBS.m3u8
-#EXTINF:-1 group-title="黑龙江频道",鸡东综合
-https://rmplive.hljtv.com/live/jidong.m3u8
-#EXTINF:-1 group-title="黑龙江频道",鸡东综合
-https://masterpull.hljtv.com/live/o4NExHSz.m3u8
-#EXTINF:-1 group-title="黑龙江频道",绥化新闻综合
-https://rmplive.hljtv.com/live/suihua.m3u8
-#EXTINF:-1 group-title="黑龙江频道",绥化新闻综合
-https://masterpull.hljtv.com/live/v4o2g1hs.m3u8
-#EXTINF:-1 group-title="黑龙江频道",安达综合
-https://rmplive.hljtv.com/live/anda.m3u8
-#EXTINF:-1 group-title="黑龙江频道",安达综合
-https://masterpull.hljtv.com/live/FsGxlDZQ.m3u8
-#EXTINF:-1 group-title="黑龙江频道",海伦综合
-https://rmplive.hljtv.com/live/hailun.m3u8
-#EXTINF:-1 group-title="黑龙江频道",海伦综合
-https://masterpull.hljtv.com/live/VFNlgeFO.m3u8
-#EXTINF:-1 group-title="黑龙江频道",明水综合
-https://rmplive.hljtv.com/live/mingshui.m3u8
-#EXTINF:-1 group-title="黑龙江频道",明水综合
-https://masterpull.hljtv.com/live/bOJ0OStw.m3u8
-#EXTINF:-1 group-title="黑龙江频道",青冈综合
-https://rmplive.hljtv.com/live/qinggang.m3u8
-#EXTINF:-1 group-title="黑龙江频道",青冈综合
-https://masterpull.hljtv.com/live/bJGIloJe.m3u8
-#EXTINF:-1 group-title="黑龙江频道",绥棱综合
-https://masterpull.hljtv.com/live/p7WSvrJJ.m3u8
-#EXTINF:-1 group-title="黑龙江频道",望奎综合
-https://rmplive.hljtv.com/live/wangkui.m3u8
-#EXTINF:-1 group-title="黑龙江频道",望奎综合
-https://masterpull.hljtv.com/live/d3loVdqX.m3u8
-#EXTINF:-1 group-title="黑龙江频道",肇东综合
-https://rmplive.hljtv.com/live/zhaodong.m3u8
-#EXTINF:-1 group-title="黑龙江频道",肇东综合
-https://masterpull.hljtv.com/live/G84ZsUTP.m3u8
-#EXTINF:-1 group-title="黑龙江频道",黑河新闻综合
-https://rmplive.hljtv.com/live/heihe.m3u8
-#EXTINF:-1 group-title="黑龙江频道",黑河新闻综合
-https://masterpull.hljtv.com/live/iyoENgSP.m3u8
-#EXTINF:-1 group-title="黑龙江频道",北安综合
-https://rmplive.hljtv.com/live/beian.m3u8
-#EXTINF:-1 group-title="黑龙江频道",北安综合
-https://masterpull.hljtv.com/live/EfoBDa06.m3u8
-#EXTINF:-1 group-title="黑龙江频道",嫩江综合
-https://rmplive.hljtv.com/live/nenjiang.m3u8
-#EXTINF:-1 group-title="黑龙江频道",嫩江综合
-https://masterpull.hljtv.com/live/hrSfaA6T.m3u8
-#EXTINF:-1 group-title="黑龙江频道",孙吴综合
-https://rmplive.hljtv.com/live/sunwu.m3u8
-#EXTINF:-1 group-title="黑龙江频道",孙吴综合
-https://masterpull.hljtv.com/live/eXFjvNaf.m3u8
-#EXTINF:-1 group-title="黑龙江频道",五大连池综合
-https://rmplive.hljtv.com/live/wudalianchi.m3u8
-#EXTINF:-1 group-title="黑龙江频道",五大连池综合
-https://masterpull.hljtv.com/live/6ic4FFgF.m3u8
-#EXTINF:-1 group-title="黑龙江频道",逊克综合
-https://masterpull.hljtv.com/live/a0CULO9O.m3u8
-#EXTINF:-1 group-title="黑龙江频道",饶河综合
-https://rmplive.hljtv.com/live/raohe.m3u8
-#EXTINF:-1 group-title="黑龙江频道",饶河综合
-https://masterpull.hljtv.com/live/DokNxER6.m3u8
-#EXTINF:-1 group-title="黑龙江频道",友谊综合
-https://rmplive.hljtv.com/live/youyi.m3u8
-#EXTINF:-1 group-title="黑龙江频道",友谊综合
-https://masterpull.hljtv.com/live/LVpBWYXl.m3u8
-#EXTINF:-1 group-title="黑龙江频道",大兴安岭新闻综合
-https://rmplive.hljtv.com/live/daxinganling.m3u8
-#EXTINF:-1 group-title="黑龙江频道",大兴安岭新闻综合
-https://masterpull.hljtv.com/live/H2kVyS15.m3u8
-#EXTINF:-1 group-title="黑龙江频道",呼玛综合
-https://rmplive.hljtv.com/live/huma.m3u8
-#EXTINF:-1 group-title="黑龙江频道",呼玛综合
-https://masterpull.hljtv.com/live/yN3vDovm.m3u8
-#EXTINF:-1 group-title="黑龙江频道",漠河综合
-https://rmplive.hljtv.com/live/mohe.m3u8
-#EXTINF:-1 group-title="黑龙江频道",漠河综合
-https://masterpull.hljtv.com/live/rlVvbTZN.m3u8
-#EXTINF:-1 group-title="黑龙江频道",塔河综合
-https://rmplive.hljtv.com/live/tahe.m3u8
-#EXTINF:-1 group-title="黑龙江频道",塔河综合
-https://masterpull.hljtv.com/live/qXrATpGj.m3u8
-#EXTINF:-1 group-title="吉林频道",长春综合
-http://stream2.jlntv.cn/jlcc/sd/live.m3u8
-#EXTINF:-1 group-title="吉林频道",德惠综合
-http://stream11.jlntv.cn/dehuitv/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",公主岭综合
-http://stream5.jlntv.cn/gzl/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",九台区电视台
 http://stream10.jlntv.cn/jiutaitv/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",榆树综合
-http://stream11.jlntv.cn/yushuds/sd/live.m3u8
-#EXTINF:-1 group-title="吉林频道",农安综合
-http://stream2.jlntv.cn/naxw/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",双阳综合
-http://stream11.jlntv.cn/shuangyang/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",吉林市综合
-https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=1837821685-0-0-67b43a2f1e9e2ce78746337eea2b2537
-#EXTINF:-1 group-title="吉林频道",吉林市综合
-http://stream2.jlntv.cn:80/jilin1/sd/live.m3u8
 #EXTINF:-1 group-title="吉林频道",延边卫视
 https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 group-title="吉林频道",珲春电视台
 http://stream8.jlntv.cn/hctv/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",龙井综合
-http://stream8.jlntv.cn/ljtv/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",图们TV1
 http://stream6.jlntv.cn/tm/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",延吉综合
-http://stream6.jlntv.cn/yj/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",白城新闻综合
-http://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:-1 group-title="吉林频道",大安新闻综合
-http://stream6.jlntv.cn/da/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",洮南综合
-http://stream5.jlntv.cn/tn/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",通榆综合
-http://stream6.jlntv.cn/ty/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",镇赉综合
-http://stream6.jlntv.cn/zl/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",松原综合
-http://stream2.jlntv.cn/sytv/playlist.m3u8
 #EXTINF:-1 group-title="吉林频道",松原公共
 http://stream8.jlntv.cn/sytv2/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",扶余综合
-http://stream6.jlntv.cn/fy/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",乾安综合
-http://stream6.jlntv.cn/qa/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",前郭综合
-http://stream2.jlntv.cn/qg/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",四平综合
-http://stream2.jlntv.cn/sptv/sd/live.m3u8
 #EXTINF:-1 group-title="吉林频道",梨树新闻
 http://stream6.jlntv.cn/ls/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",双辽综合
-http://stream5.jlntv.cn/sl/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",辽源新闻综合
-http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
-#EXTINF:-1 group-title="吉林频道",东丰综合
-http://stream5.jlntv.cn/df/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",东辽综合
-http://stream5.jlntv.cn/dl/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",白山综合
-http://stream2.jlntv.cn/baishan1/sd/live.m3u8
-#EXTINF:-1 group-title="吉林频道",长白新闻综合
-http://hplayer1.juyun.tv/camera/11347146.m3u8
-#EXTINF:-1 group-title="吉林频道",长白新闻综合
-http://hplayer1.juyun.tv/camera/11347146.flv
-#EXTINF:-1 group-title="吉林频道",江源综合
-http://stream10.jlntv.cn/jiangyuantv/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",靖宇综合
-http://stream8.jlntv.cn/jytv/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",临江综合
-http://stream8.jlntv.cn/linjiang/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",通化新闻综合
-https://live-master.jlntv.cn/thhd/sd/live.m3u8
-#EXTINF:-1 group-title="吉林频道",辉南综合
-http://stream5.jlntv.cn/hn/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",集安综合
-http://stream2.jlntv.cn/ja/playlist.m3u8
-#EXTINF:-1 group-title="吉林频道",柳河综合
-http://stream5.jlntv.cn/lh/playlist.m3u8
