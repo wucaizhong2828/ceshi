@@ -97,11 +97,13 @@ def fetch_online_sources():
     return all_channels
 
 def generate_m3u(txt_content):
-    """从 TXT 格式生成 M3U 格式，自动合并相似分类，移除空分类"""
+    """从 TXT 格式生成 M3U 格式，央视和省市分成两个板块"""
     lines = txt_content.splitlines()
 
-    groups = {}
-    current_group = "默认频道"
+    # 分两个板块
+    cctv_channels = []      # 央视
+    satellite_channels = [] # 省市卫视
+    other_channels = []     # 其他（4K、CHC等）
 
     for line in lines:
         line = line.strip()
@@ -111,29 +113,41 @@ def generate_m3u(txt_content):
             parts = line.split(',', 1)
             if len(parts) == 2:
                 title, url = parts[0].strip(), parts[1].strip()
-                if url == '#genre#':
-                    # 合并相似分类
-                    if "央视" in title:
-                        current_group = "央视频道"
-                    elif "卫视" in title or "高清" in title:
-                        current_group = "卫视频道"
-                    elif "4K" in title or "经典" in title:
-                        current_group = "4K频道"
+                if url.startswith('http://') or url.startswith('https://'):
+                    # 判断属于哪个板块
+                    if "CCTV" in title or "央视" in title:
+                        cctv_channels.append((title, url))
+                    elif "卫视" in title:
+                        satellite_channels.append((title, url))
                     else:
-                        current_group = title
-                    if current_group not in groups:
-                        groups[current_group] = []
-                else:
-                    if url.startswith('http://') or url.startswith('https://'):
-                        groups.setdefault(current_group, []).append((title, url))
+                        other_channels.append((title, url))
 
-    # 只保留有频道的分类
+    # 生成 M3U
     m3u_lines = ["#EXTM3U", f"# Updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}"]
-    for group_name, channels in groups.items():
-        if channels:
-            for title, url in channels:
-                m3u_lines.append(f'#EXTINF:-1 group-title="{group_name}",{title}')
-                m3u_lines.append(url)
+
+    # 1. 央视板块
+    if cctv_channels:
+        m3u_lines.append('#EXTINF:-1 group-title="央视频道",央视频道')
+        m3u_lines.append('#genre#')
+        for title, url in cctv_channels:
+            m3u_lines.append(f'#EXTINF:-1 group-title="央视频道",{title}')
+            m3u_lines.append(url)
+
+    # 2. 省市卫视板块
+    if satellite_channels:
+        m3u_lines.append('#EXTINF:-1 group-title="卫视频道",卫视频道')
+        m3u_lines.append('#genre#')
+        for title, url in satellite_channels:
+            m3u_lines.append(f'#EXTINF:-1 group-title="卫视频道",{title}')
+            m3u_lines.append(url)
+
+    # 3. 其他板块（4K、CHC等）
+    if other_channels:
+        m3u_lines.append('#EXTINF:-1 group-title="其他频道",其他频道')
+        m3u_lines.append('#genre#')
+        for title, url in other_channels:
+            m3u_lines.append(f'#EXTINF:-1 group-title="其他频道",{title}')
+            m3u_lines.append(url)
 
     return '\n'.join(m3u_lines)
 
