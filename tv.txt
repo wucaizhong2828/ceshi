@@ -494,7 +494,6 @@ CCTV17,http://t.061899.xyz/tl/tl.php?id=cctv17
 西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws
 CCTV世界地理,https://xmlive.zeabur.app/yw/whyd?id=custom11
 CCTV央视高网,https://xmlive.zeabur.app/yw/whyd?id=custom10
-央视高清[V6],#genre#
 经典4K,#genre#
 重温经典,http://47.97.252.137:8098/daili/cwjd.m3u8?line=0
 重温经典,http://47.97.252.137:8098/apptv/cwjd.m3u8
