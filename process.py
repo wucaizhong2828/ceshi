@@ -17,7 +17,6 @@ WHITELIST_KEYWORDS = [
     # 央视
     "CCTV",
     "央视",
-    "央视高清",
     # 省级卫视
     "北京卫视", "东方卫视", "天津卫视", "重庆卫视",
     "河北卫视", "山西卫视", "内蒙古卫视", "辽宁卫视", "吉林卫视",
@@ -96,19 +95,48 @@ def fetch_online_sources():
             print(f"   ❌ 抓取失败: {e}")
     return all_channels
 
-def generate_m3u(txt_content):
-    """从 TXT 格式生成 M3U 格式，央视和省市分成两个板块"""
-    lines = txt_content.splitlines()
+def generate_txt(merged_channels):
+    """生成 TXT 文件，统一分类名"""
+    lines = []
+    cctv_channels = []
+    satellite_channels = []
+    other_channels = []
 
-    # 分两个板块
-    cctv_channels = []      # 央视
-    satellite_channels = [] # 省市卫视
-    other_channels = []     # 其他（4K、CHC等）
+    for line in merged_channels:
+        if ',' in line:
+            parts = line.split(',', 1)
+            if len(parts) == 2:
+                title, url = parts[0].strip(), parts[1].strip()
+                if url == '#genre#':
+                    # 统一分类名
+                    if "央视" in title:
+                        lines.append("央视频道,#genre#")
+                    elif "卫视" in title:
+                        lines.append("卫视频道,#genre#")
+                    else:
+                        lines.append(line)
+                else:
+                    lines.append(line)
 
+    # 去重分类标题
+    seen_genre = set()
+    result = []
     for line in lines:
-        line = line.strip()
-        if not line:
-            continue
+        if line.endswith(',#genre#'):
+            if line in seen_genre:
+                continue
+            seen_genre.add(line)
+        result.append(line)
+
+    return '\n'.join(result)
+
+def generate_m3u(merged_channels):
+    """生成 M3U 文件，央视和省市分成两个板块"""
+    cctv_channels = []
+    satellite_channels = []
+    other_channels = []
+
+    for line in merged_channels:
         if ',' in line:
             parts = line.split(',', 1)
             if len(parts) == 2:
@@ -125,26 +153,20 @@ def generate_m3u(txt_content):
     # 生成 M3U
     m3u_lines = ["#EXTM3U", f"# Updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}"]
 
-    # 1. 央视板块
+    # 1. 央视频道
     if cctv_channels:
-        m3u_lines.append('#EXTINF:-1 group-title="央视频道",央视频道')
-        m3u_lines.append('#genre#')
         for title, url in cctv_channels:
             m3u_lines.append(f'#EXTINF:-1 group-title="央视频道",{title}')
             m3u_lines.append(url)
 
-    # 2. 省市卫视板块
+    # 2. 卫视频道
     if satellite_channels:
-        m3u_lines.append('#EXTINF:-1 group-title="卫视频道",卫视频道')
-        m3u_lines.append('#genre#')
         for title, url in satellite_channels:
             m3u_lines.append(f'#EXTINF:-1 group-title="卫视频道",{title}')
             m3u_lines.append(url)
 
-    # 3. 其他板块（4K、CHC等）
+    # 3. 其他频道
     if other_channels:
-        m3u_lines.append('#EXTINF:-1 group-title="其他频道",其他频道')
-        m3u_lines.append('#genre#')
         for title, url in other_channels:
             m3u_lines.append(f'#EXTINF:-1 group-title="其他频道",{title}')
             m3u_lines.append(url)
@@ -165,13 +187,13 @@ def main():
             seen.add(ch)
             unique_channels.append(ch)
 
-    # 保存 TXT
-    txt_content = "\n".join(unique_channels)
+    # 生成 TXT（统一分类名）
+    txt_content = generate_txt(unique_channels)
     with open(OUTPUT_TXT, "w", encoding="utf-8") as f:
         f.write(txt_content + "\n")
 
-    # 生成 M3U
-    m3u_content = generate_m3u(txt_content)
+    # 生成 M3U（分两个板块）
+    m3u_content = generate_m3u(unique_channels)
     with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
         f.write(m3u_content + "\n")
 
