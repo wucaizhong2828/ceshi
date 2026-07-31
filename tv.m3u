@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-07-30 17:21:53 UTC
+# Updated: 2026-07-31 13:40:59 UTC
 #EXTINF:-1 group-title="央视频道",央视频道
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://live.bypbwxx.top/live/zhibojm-yangshi.php?token=b4829f0a5cdcff84fe2c540b11ee29
@@ -1158,32 +1158,6 @@ http://t.061899.xyz/tl/tl.php?id=xjws
 http://t.061899.xyz/tl/tl.php?id=jlws
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://t.061899.xyz/tl/tl.php?id=xzws
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://36.137.183.45:1100/difang/guangdong/shenzhen.php?id=szws
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://36.137.183.45:1100/difang/guizhou/guizhou.php?id=gzws
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://36.137.183.45:1100/difang/hainan/hainan.php?id=hnws
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://36.137.183.45:1100/difang/henan/henan.php?id=hnws
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://36.137.183.45:1100/difang/jilin/jilin.php?id=jlws
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=sxws
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://36.137.183.45:1100/difang/shanxi2/shanxi.php?id=sxws
-#EXTINF:-1 group-title="卫视频道",西藏卫视
-http://36.137.183.45:1100/difang/xizang/xizang.php?id=xzws
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://36.137.183.45:1100/difang/yunnan/yunnan2.php?id=ynws
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://36.137.183.45:1100/difang/zhejiang/zhejiang.php?id=zjws
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://event.pull.hebtv.com/jishi/weishi_tingyun.flv
 #EXTINF:-1 group-title="其他频道",其他频道
 #EXTINF:-1 group-title="其他频道",CHC影迷电影
 http://live.bypbwxx.top/live/zhibojm-weishi.php?token=1265755afbfce9f84322a59cbc05d7
