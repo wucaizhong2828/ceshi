@@ -9,7 +9,7 @@ ONLINE_URLS = [
     "https://zb.7778.uk/",
     "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
     "https://iptv-org.github.io/iptv/countries/cn.m3u",
-    "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",
+    # "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",  # 已失效，暂时注释
     "https://raw.githubusercontent.com/vamoschuck/TV/main/M3U",
     "https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u",
     "https://fty.xxooo.cf/tv",
@@ -44,7 +44,7 @@ WHITELIST_KEYWORDS = [
 # ===========================================
 
 def is_valid_channel(line):
-    """检查是否为有效的频道行（白名单模式）"""
+    """检查是否为有效的频道行（白名单模式），用于 TXT 格式"""
     if ',' not in line:
         return False
 
@@ -57,7 +57,7 @@ def is_valid_channel(line):
     # 白名单检查
     if WHITELIST_KEYWORDS:
         matched = False
-        for keyword in WHITELIST_KEYWORDS:
+        for keyword in WHILIST_KEYWORDS:
             if keyword in title:
                 matched = True
                 break
@@ -79,8 +79,53 @@ def is_valid_channel(line):
 
     return True
 
+def parse_m3u_content(content):
+    """解析标准的 M3U 格式内容，返回频道列表（频道名,URL）"""
+    channels = []
+    lines = content.splitlines()
+    current_title = None
+    
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+            
+        if line.startswith('#EXTINF'):
+            # 提取频道名，通常在逗号之后
+            if ',' in line:
+                # 处理可能包含 group-title 等参数的情况
+                parts = line.split(',', 1)
+                if len(parts) == 2:
+                    current_title = parts[1].strip()
+                else:
+                    current_title = None
+            else:
+                current_title = None
+        elif line and not line.startswith('#') and current_title:
+            # 这是一个媒体URL，与之前提取的标题配对
+            if line.startswith('http://') or line.startswith('https://'):
+                # 检查标题是否在白名单中
+                test_line = f"{current_title},{line}"
+                if is_valid_channel(test_line):
+                    channels.append(test_line)
+                current_title = None
+    
+    return channels
+
+def parse_txt_content(content):
+    """解析 TXT 格式内容（频道名,URL）"""
+    channels = []
+    lines = [line.strip() for line in content.splitlines() if line.strip()]
+    
+    for line in lines:
+        if ',' in line and not line.startswith('#'):
+            if is_valid_channel(line):
+                channels.append(line)
+    
+    return channels
+
 def fetch_online_sources():
-    """抓取多个在线源（模拟浏览器请求）"""
+    """抓取多个在线源，自动识别格式"""
     all_channels = []
     # 模拟浏览器请求头
     headers = {
@@ -99,22 +144,27 @@ def fetch_online_sources():
             resp.encoding = 'utf-8'
             resp.raise_for_status()
             
-            lines = [line.strip() for line in resp.text.splitlines() if line.strip()]
-            valid_count = 0
-            for line in lines:
-                if ',' in line and not line.startswith('#'):
-                    if is_valid_channel(line):
-                        all_channels.append(line)
-                        valid_count += 1
+            content = resp.text
+            channels = []
             
-            print(f"   ✅ 从 {url} 获取了 {valid_count} 个有效频道（累计 {len(all_channels)} 个）")
+            # 判断格式：检查是否包含 M3U 特征
+            if '#EXTM3U' in content or '#EXTINF' in content:
+                print(f"   🔍 检测到 M3U 格式，使用 M3U 解析器")
+                channels = parse_m3u_content(content)
+            else:
+                print(f"   🔍 检测到 TXT 格式，使用 TXT 解析器")
+                channels = parse_txt_content(content)
+            
+            all_channels.extend(channels)
+            print(f"   ✅ 从 {url} 获取了 {len(channels)} 个有效频道（累计 {len(all_channels)} 个）")
+            
         except Exception as e:
             print(f"   ❌ 抓取失败: {e}")
+    
     return all_channels
 
 def generate_txt(merged_channels):
     """生成 TXT 文件"""
-    # 过滤掉 #genre# 行，重新按分类生成
     cctv = []
     satellite = []
     other = []
@@ -132,7 +182,6 @@ def generate_txt(merged_channels):
                     else:
                         other.append(line)
 
-    # 生成 TXT
     result = []
     if cctv:
         result.append("央视频道,#genre#")
@@ -147,7 +196,7 @@ def generate_txt(merged_channels):
     return '\n'.join(result)
 
 def generate_m3u(merged_channels):
-    """生成 M3U 文件，央视和省市分成两个板块"""
+    """生成 M3U 文件"""
     cctv = []
     satellite = []
     other = []
@@ -165,24 +214,20 @@ def generate_m3u(merged_channels):
                     else:
                         other.append((title, url))
 
-    # 生成 M3U
     m3u_lines = ["#EXTM3U", f"# Updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}"]
 
-    # 1. 央视频道
     if cctv:
         m3u_lines.append('#EXTINF:-1 group-title="央视频道",央视频道')
         for title, url in cctv:
             m3u_lines.append(f'#EXTINF:-1 group-title="央视频道",{title}')
             m3u_lines.append(url)
 
-    # 2. 卫视频道
     if satellite:
         m3u_lines.append('#EXTINF:-1 group-title="卫视频道",卫视频道')
         for title, url in satellite:
             m3u_lines.append(f'#EXTINF:-1 group-title="卫视频道",{title}')
             m3u_lines.append(url)
 
-    # 3. 其他频道
     if other:
         m3u_lines.append('#EXTINF:-1 group-title="其他频道",其他频道')
         for title, url in other:
