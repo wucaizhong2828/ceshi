@@ -57,7 +57,7 @@ def is_valid_channel(line):
     # 白名单检查
     if WHITELIST_KEYWORDS:
         matched = False
-        for keyword in WHILIST_KEYWORDS:
+        for keyword in WHITELIST_KEYWORDS:  # ✅ 修正：WHILIST -> WHITELIST
             if keyword in title:
                 matched = True
                 break
