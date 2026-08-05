@@ -14,6 +14,12 @@ ONLINE_URLS = [
     "https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u",
     "https://fty.xxooo.cf/tv",
 ]
+
+# 强制使用 M3U 解析器的 URL（即使内容没有明显的 #EXTM3U 标记）
+M3U_FORCE_URLS = [
+    "https://fty.xxooo.cf/tv",
+]
+
 OUTPUT_M3U = "tv.m3u"
 OUTPUT_TXT = "tv.txt"
 
@@ -57,7 +63,7 @@ def is_valid_channel(line):
     # 白名单检查
     if WHITELIST_KEYWORDS:
         matched = False
-        for keyword in WHITELIST_KEYWORDS:  # ✅ 修正：WHILIST -> WHITELIST
+        for keyword in WHITELIST_KEYWORDS:
             if keyword in title:
                 matched = True
                 break
@@ -147,12 +153,17 @@ def fetch_online_sources():
             content = resp.text
             channels = []
             
-            # 判断格式：检查是否包含 M3U 特征
+            # 判断格式
+            is_m3u = False
             if '#EXTM3U' in content or '#EXTINF' in content:
-                print(f"   🔍 检测到 M3U 格式，使用 M3U 解析器")
+                is_m3u = True
+            elif url in M3U_FORCE_URLS:  # 强制指定为 M3U
+                is_m3u = True
+                print(f"   🔧 强制使用 M3U 解析器")
+            
+            if is_m3u:
                 channels = parse_m3u_content(content)
             else:
-                print(f"   🔍 检测到 TXT 格式，使用 TXT 解析器")
                 channels = parse_txt_content(content)
             
             all_channels.extend(channels)
