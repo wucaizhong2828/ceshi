@@ -7,10 +7,10 @@ print("开始生成直播源...")
 # ================== 配置区 ==================
 ONLINE_URLS = [
     "https://zb.7778.uk/",
-    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",           # 全球免费频道（推荐）
-    "https://iptv-org.github.io/iptv/countries/cn.m3u",                             # 中国频道专辑
-    "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",              # 国内4K/8K + 卫视
-    "https://raw.githubusercontent.com/vamoschuck/TV/main/M3U",                     # 茶客源（更新较勤）
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+    "https://iptv-org.github.io/iptv/countries/cn.m3u",
+    "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",
+    "https://raw.githubusercontent.com/vamoschuck/TV/main/M3U",
     "https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u",
     "https://fty.xxooo.cf/tv",
 ]
@@ -80,22 +80,34 @@ def is_valid_channel(line):
     return True
 
 def fetch_online_sources():
-    """抓取多个在线源"""
+    """抓取多个在线源（模拟浏览器请求）"""
     all_channels = []
+    # 模拟浏览器请求头
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+    }
+    
     for url in ONLINE_URLS:
         try:
             print(f"   📡 正在抓取: {url}")
-            resp = requests.get(url, timeout=30)
+            resp = requests.get(url, timeout=30, headers=headers)
             resp.encoding = 'utf-8'
             resp.raise_for_status()
+            
             lines = [line.strip() for line in resp.text.splitlines() if line.strip()]
-
+            valid_count = 0
             for line in lines:
                 if ',' in line and not line.startswith('#'):
                     if is_valid_channel(line):
                         all_channels.append(line)
-
-            print(f"   ✅ 从 {url} 获取了 {len(all_channels)} 个有效频道（累计）")
+                        valid_count += 1
+            
+            print(f"   ✅ 从 {url} 获取了 {valid_count} 个有效频道（累计 {len(all_channels)} 个）")
         except Exception as e:
             print(f"   ❌ 抓取失败: {e}")
     return all_channels
@@ -192,6 +204,12 @@ def main():
         if ch not in seen:
             seen.add(ch)
             unique_channels.append(ch)
+
+    print(f"📊 去重后共 {len(unique_channels)} 个频道")
+
+    if not unique_channels:
+        print("⚠️ 警告：没有抓取到任何频道！")
+        return
 
     # 生成 TXT
     txt_content = generate_txt(unique_channels)
