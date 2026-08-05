@@ -6,7 +6,12 @@ print("开始生成直播源...")
 
 # ================== 配置区 ==================
 ONLINE_URLS = [
-    
+    "https://zb.7778.uk/",
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",           # 全球免费频道（推荐）
+    "https://iptv-org.github.io/iptv/countries/cn.m3u",                             # 中国频道专辑
+    "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",              # 国内4K/8K + 卫视
+    "https://raw.githubusercontent.com/vamoschuck/TV/main/M3U",                     # 茶客源（更新较勤）
+    "https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u",
     "https://fty.xxooo.cf/tv",
 ]
 OUTPUT_M3U = "tv.m3u"
