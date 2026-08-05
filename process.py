@@ -6,7 +6,7 @@ print("开始生成直播源...")
 
 # ================== 配置区 ==================
 ONLINE_URLS = [
-    "https://zb.7778.uk/",
+    
     "https://fty.xxooo.cf/tv",
 ]
 OUTPUT_M3U = "tv.m3u"
