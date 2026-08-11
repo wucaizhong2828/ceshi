@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-08-10 16:48:59 UTC
+# Updated: 2026-08-11 16:53:37 UTC
 #EXTINF:-1 group-title="央视频道",央视频道
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://live.bypbwxx.top/live/zhibojm-yangshi.php?token=b4829f0a5cdcff84fe2c540b11ee29
@@ -727,8 +727,8 @@ http://74.91.26.218:82/live/cctv11hd.m3u8
 http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13 (1080p)
 http://go.bkpcp.top/mg/cctv13
-#EXTINF:-1 group-title="央视频道",CCTV-13 (1080p)
-https://cdn3.163189.xyz/163189/cctv13
+#EXTINF:-1 group-title="央视频道",CCTV-13 (720p)
+http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-14 (1080p)
 http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15 (1080p)
@@ -1722,8 +1722,8 @@ http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU
 http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8
 #EXTINF:-1 group-title="卫视频道",重庆卫视 (1080p)
 http://118.81.195.79:9003/hls/22/index.m3u8
-#EXTINF:-1 group-title="卫视频道",青海卫视 (1080p)
-http://live.geermurmt.com/qhws/sd/live.m3u8
+#EXTINF:-1 group-title="卫视频道",青海卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视 (2160p)
 http://118.81.195.79:9003/hls/31/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
