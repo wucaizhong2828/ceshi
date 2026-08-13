@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-08-12 16:52:39 UTC
+# Updated: 2026-08-13 16:51:41 UTC
 #EXTINF:-1 group-title="央视频道",央视频道
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://live.bypbwxx.top/live/zhibojm-yangshi.php?token=b4829f0a5cdcff84fe2c540b11ee29
@@ -1714,8 +1714,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
 http://118.81.195.79:9003/hls/28/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖北卫视 (1080p)
 http://118.81.195.79:9003/hls/32/index.m3u8
-#EXTINF:-1 group-title="卫视频道",甘肃卫视 (576p)
-http://118.81.195.79:9003/hls/25/index.m3u8
 #EXTINF:-1 group-title="卫视频道",贵州卫视 (576p)
 http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU
 #EXTINF:-1 group-title="卫视频道",辽宁卫视 (1080p)
