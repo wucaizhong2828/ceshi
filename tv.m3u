@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-08-13 16:51:41 UTC
+# Updated: 2026-08-14 16:48:32 UTC
 #EXTINF:-1 group-title="央视频道",央视频道
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://live.bypbwxx.top/live/zhibojm-yangshi.php?token=b4829f0a5cdcff84fe2c540b11ee29
@@ -1680,12 +1680,8 @@ http://t.061899.xyz/tl/tl.php?id=xzws
 http://39.165.39.49:19901/tsfile/live/1105_1.m3u8
 #EXTINF:-1 group-title="卫视频道",BRTV 北京卫视 (1080p)
 http://go.bkpcp.top/mg/bjws
-#EXTINF:-1 group-title="卫视频道",东方卫视 (2160p)
-http://118.81.195.79:9003/hls/23/index.m3u8
 #EXTINF:-1 group-title="卫视频道",云南卫视 (1080p)
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
-#EXTINF:-1 group-title="卫视频道",吉林卫视 (2160p)
-http://118.81.195.79:9003/hls/34/index.m3u8
 #EXTINF:-1 group-title="卫视频道",四川卫视 (576p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
 #EXTINF:-1 group-title="卫视频道",天津卫视 (1080p)
@@ -1696,34 +1692,18 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
 http://125.210.152.18:9090/live/SDWSHD_H265.m3u8
 #EXTINF:-1 group-title="卫视频道",山东卫视 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
-#EXTINF:-1 group-title="卫视频道",山西卫视 (2160p)
-http://118.81.195.79:9003/hls/19/index.m3u8
-#EXTINF:-1 group-title="卫视频道",广东卫视 (2160p)
-http://118.81.195.79:9003/hls/26/index.m3u8
-#EXTINF:-1 group-title="卫视频道",广西卫视 (576p)
-http://118.81.195.79:9003/hls/27/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视 (1080p)
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江西卫视 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
-#EXTINF:-1 group-title="卫视频道",河南卫视 (2160p)
-http://118.81.195.79:9003/hls/30/index.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
-#EXTINF:-1 group-title="卫视频道",海南卫视 (576p)
-http://118.81.195.79:9003/hls/28/index.m3u8
-#EXTINF:-1 group-title="卫视频道",湖北卫视 (1080p)
-http://118.81.195.79:9003/hls/32/index.m3u8
 #EXTINF:-1 group-title="卫视频道",贵州卫视 (576p)
 http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU
 #EXTINF:-1 group-title="卫视频道",辽宁卫视 (1080p)
 http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8
-#EXTINF:-1 group-title="卫视频道",重庆卫视 (1080p)
-http://118.81.195.79:9003/hls/22/index.m3u8
 #EXTINF:-1 group-title="卫视频道",青海卫视 (576p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视 (2160p)
-http://118.81.195.79:9003/hls/31/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_HUNAN-HQ/G_HUNAN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
 #EXTINF:-1 group-title="卫视频道",东方卫视
