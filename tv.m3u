@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-08-26 16:44:03 UTC
+# Updated: 2026-08-28 00:43:10 UTC
 #EXTINF:-1 group-title="央视频道",央视频道
 #EXTINF:-1 group-title="央视频道",CCTV-01咪咕
 http://45.78.61.93:1234/608807420
@@ -1452,8 +1452,6 @@ http://t.061899.xyz/tl/tl.php?id=xjws
 http://t.061899.xyz/tl/tl.php?id=jlws
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://t.061899.xyz/tl/tl.php?id=xzws
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://39.165.39.49:19901/tsfile/live/1105_1.m3u8
 #EXTINF:-1 group-title="卫视频道",BRTV 北京卫视 (1080p)
 http://go.bkpcp.top/mg/bjws
 #EXTINF:-1 group-title="卫视频道",云南卫视 (1080p)
@@ -1895,18 +1893,6 @@ http://192.151.150.154/live/chchd.m3u8
 http://192.151.150.154/live/chcjt.m3u8
 #EXTINF:-1 group-title="其他频道",重温经典
 http://192.151.150.154/live/cwjd.m3u8
-#EXTINF:-1 group-title="其他频道",重温经典
-http://zmgd.zyrnet.com:8888/hls/29/index.m3u8
-#EXTINF:-1 group-title="其他频道",CHC家庭影院
-http://nas.201606.xyz:4022/rtp/239.10.0.86:5140
-#EXTINF:-1 group-title="其他频道",CHC动作电影
-http://nas.201606.xyz:4022/rtp/239.10.0.87:5140
-#EXTINF:-1 group-title="其他频道",咪视界4K
-http://nas.201606.xyz:4022/rtp/239.10.0.240:5140
-#EXTINF:-1 group-title="其他频道",CHC影迷电影
-http://go.bkpcp.top/mg/ymdy
-#EXTINF:-1 group-title="其他频道",凤凰中文
-http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",CHCH
 http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/222841
 #EXTINF:-1 group-title="其他频道",Rai 4K Ⓖ
