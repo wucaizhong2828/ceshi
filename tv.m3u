@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-09-04 18:45:48 UTC
+# Updated: 2026-09-05 17:51:49 UTC
 #EXTINF:-1 group-title="央视频道",央视频道
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=6607337aa8fa6d6cd9b46915384af2
@@ -1428,6 +1428,8 @@ http://t.061899.xyz/tl/tl.php?id=jlws
 http://t.061899.xyz/tl/tl.php?id=xzws
 #EXTINF:-1 group-title="卫视频道",BRTV 北京卫视 (1080p)
 http://go.bkpcp.top/mg/bjws
+#EXTINF:-1 group-title="卫视频道",BRTV 北京卫视 [Not 24/7]
+http://ivi.bupt.edu.cn/hls/btv1.m3u8
 #EXTINF:-1 group-title="卫视频道",云南卫视 (1080p)
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF:-1 group-title="卫视频道",四川卫视 (576p)
@@ -1865,6 +1867,8 @@ http://192.151.150.154/live/cwjd.m3u8
 http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/222841
 #EXTINF:-1 group-title="其他频道",Rai 4K Ⓖ
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 group-title="其他频道",NHK BSP4K
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8
 #EXTINF:-1 group-title="其他频道",爱上4K[超清]
 http://114.254.89.131:2222/rtp/239.3.1.236:2000
 #EXTINF:-1 group-title="其他频道",4K超清[超清]
