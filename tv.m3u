@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-09-06 17:57:08 UTC
+# Updated: 2026-09-07 19:32:33 UTC
 #EXTINF:-1 group-title="央视频道",央视频道
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=6607337aa8fa6d6cd9b46915384af2
@@ -517,6 +517,8 @@ http://74.91.26.218:82/live/cctv12hd.m3u8
 http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-14 少儿
 http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-15 音乐
+http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-16 奥林匹克
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17 农业农村
