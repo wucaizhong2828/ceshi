@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-10-26 20:50:47 UTC
+# Updated: 2026-10-27 20:22:24 UTC
 #EXTINF:-1 group-title="央视频道",央视频道
 #EXTINF:-1 group-title="央视频道",CCTV-1
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
@@ -231,6 +231,8 @@ http://74.91.26.218:82/live/cctv2hd.m3u8
 http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4K HD (1080p)
 http://198.204.240.250:82/live/cctv4k.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5+ (1080p)
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 #EXTINF:-1 group-title="央视频道",CCTV-6 [Geo-blocked]
 https://live.eac-news.com/CCTV/streams/cctv6.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6 HD (1080p)
